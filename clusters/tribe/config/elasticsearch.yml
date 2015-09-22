@@ -1,0 +1,35 @@
+cluster.name: ccc
+
+node.name: tribe
+
+tribe:
+    t1:
+        cluster.name:   boston
+    t2:
+        cluster.name:   austin
+    t3:
+        cluster.name:   portland
+
+
+transport.tcp.port: 9300
+http.port: 9200
+#
+# tribe.t1.discovery.zen.ping.unicast: tribe1:9301
+# tribe.t2.discovery.zen.ping.unicast: tribe1:9302
+# tribe.t3.discovery.zen.ping.unicast: tribe1:9303
+
+# es.logger.level: INFO
+# rootLogger: ${es.logger.level}, file
+# logger:
+#   # log action execution errors for easier debugging
+#   action: DEBUG
+#   # reduce the logging for aws, too much is logged under the default INFO
+#   com.amazonaws: WARN
+#
+# appender:
+#   type: file
+#   file: /data/tribe/${cluster.name}.log
+#   datePattern: "'.'yyyy-MM-dd"
+#   layout:
+#     type: pattern
+#     conversionPattern: "[%d{ISO8601}][%-5p][%-25c] %m%n"
