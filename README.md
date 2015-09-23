@@ -57,9 +57,23 @@
 ##elastic search `client/es_loader.py`
 * run from any host with access to elastic search
 * spreads meta data across 1..N elastic search instances
+* this layer will evolve to ETS from DMS
 	
 ## docker
 
 * see docker/elasticsearch  for the dockerfile to for the elasticsearch image `elasticsearch:ccc`
 
-* see clusters/README.md for notes on starting ES cluster, etc (in progress)	
+* see clusters/README.md for notes on starting ES cluster, etc (in progress)
+
+
+## ui
+see `kibana startup` in cluster/
+
+http://$(docker-machine ip default)/5601 
+
+
+### discovery
+![image](https://cloud.githubusercontent.com/assets/47808/10038486/9773596e-617b-11e5-82f5-347fd4a62c19.png)
+
+### visualization
+**TODO**	
