@@ -11,8 +11,9 @@ tribe:
         cluster.name:   portland
 
 
-transport.tcp.port: 9300
-http.port: 9200
+# transport.tcp.port: 9300
+# http.port: 9200
+
 #
 # tribe.t1.discovery.zen.ping.unicast: tribe1:9301
 # tribe.t2.discovery.zen.ping.unicast: tribe1:9302

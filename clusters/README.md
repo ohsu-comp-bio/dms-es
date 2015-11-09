@@ -8,7 +8,7 @@ docker run -it --rm \
       -p 9201:9201 -p 9301:9301 \
       -p 9202:9202 -p 9302:9302 \
       -p 9203:9203 -p 9303:9303 \
-      -v /Users/walsbr/es:/data \
+      -v $(pwd)/clusters:/data \
       -t elasticsearch:ccc  \
       bash
 ```
@@ -21,6 +21,46 @@ elasticsearch -Des.config=/data/portland/config/elasticsearch.yml  > /data/portl
 elasticsearch -Des.config=/data/austin/config/elasticsearch.yml  > /data/austin/log.log &
 elasticsearch -Des.config=/data/boston/config/elasticsearch.yml  > /data/boston/log.log &
 ```
+-u elasticsearch \
+
+docker run -it --rm \
+      --privileged=true \
+      -p 9200:9200 -p 9300:9300 \
+      -p 9201:9201 -p 9301:9301 \
+      -p 9202:9202 -p 9302:9302 \
+      -p 9203:9203 -p 9303:9303 \
+      -v $(pwd)/clusters:/data:Z \
+      -t elasticsearch:latest  \
+      bash
+
+docker pull elasticsearch
+
+docker run \
+  -v $(pwd)/clusters/tribe/config:/usr/share/elasticsearch/config:ro \
+  -v $(pwd)/clusters/tribe/data:/usr/share/elasticsearch/data:rw \
+  -p 9200:9200 -p 9300:9300 \
+  -t elasticsearch:latest  \
+  elasticsearch
+
+
+docker run --name tribe  -d  --privileged=true -v $(pwd)/clusters/tribe/config:/usr/share/elasticsearch/config:ro -p 9200:9200 -p 9300:9300   -t elasticsearch:latest    elasticsearch --network.host=0.0.0.0
+
+docker run --name portland -d   --privileged=true -v $(pwd)/clusters/portland/config:/usr/share/elasticsearch/config:ro       -p 9201:9201 -p 9301:9301   -t elasticsearch:latest    elasticsearch --network.host=0.0.0.0
+
+docker run --name austin  -d   --privileged=true -v $(pwd)/clusters/austin/config:/usr/share/elasticsearch/config:ro       -p 9202:9202 -p 9302:9302   -t elasticsearch:latest    elasticsearch --network.host=0.0.0.0
+
+docker run --name boston  -d   --privileged=true -v $(pwd)/clusters/boston/config:/usr/share/elasticsearch/config:ro       -p 9203:9203 -p 9303:9303   -t elasticsearch:latest    elasticsearch --network.host=0.0.0.0
+
+
+
+## logstash
+
+* from logstash dir
+docker run  -v $(pwd):/data -it  logstash  logstash  -f ./data/icgc-*.conf  -v --verbose  --debug rspecUsing Accessor#strict_set for specs
+
+ curl -XDELETE 'http://192.168.99.100:9201/*-icgc/'
+
+
 
 
 kibana setup
@@ -45,6 +85,21 @@ docker run -e ELASTICSEARCH_URL=http://$elastic_search_server -p 5601:5601  -d  
 
 ##### _misc …_
 
+https://github.com/mobz/elasticsearch-head
+
+http://www.elasticui.com/
+
+https://github.com/rdpatil4/ESClient
+
+http://www.elastichq.org/features.html
+
+https://github.com/torkelo/grafana
+
+http://www.visualcinnamon.com/2015/07/voronoi.html
+
+https://github.com/OlegKunitsyn/elasticsearch-browser
+
+
 ```
 
 # query the tribe
@@ -58,6 +113,10 @@ curl -XGET 'http://localhost:9200/metadata*/meta/_search?_id=1' -d '{
 }
 '
 
+
+
+CMDI-UK-SP16734
+curl -XGET 'http://localhost:9200/icgc/speci/_search?_id=12-00127
 
 curl -XGET 'http://localhost:9200/metadata*/meta/_search?_id=12-00127
 
