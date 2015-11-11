@@ -1,0 +1,24 @@
+ProjectCode	ProjectName	PrimarySite	Country	Donors	SSM	CNSM	STSM	SGV	METH-A	METH-S	EXP-A	EXP-S	PEXP	miRNA-S	JCN
+CMDI-UK	Chronic Myeloid Disorders - UK	Blood	United Kingdom	129	129	0	0	0	0	0	0	0	0	0	0
+BOCA-UK	Bone Cancer - UK	Bone	United Kingdom	69	66	48	20	0	0	0	0	0	0	0	0
+ESAD-UK	Esophageal Adenocarcinoma - UK	Esophagus	United Kingdom	100	100	0	0	0	0	0	0	0	0	0	0
+RECA-CN	Renal Cancer - CN	Kidney	China	10	10	0	0	0	0	0	0	0	0	0	0
+LINC-JP	Liver Cancer - NCC, JP	Liver	Japan	244	244	0	0	0	0	0	0	0	0	0	0
+LIRI-JP	Liver Cancer - RIKEN, JP	Liver	Japan	260	260	0	0	0	0	0	0	0	0	0	0
+PRAD-UK	Prostate Adenocarcinoma - UK	Prostate	United Kingdom	10	10	10	10	0	0	0	0	0	0	0	0
+LAML-KR	Acute Myeloid Leukemia - KR	Blood	South Korea	67	67	0	0	67	0	0	0	0	0	0	0
+BRCA-UK	Breast Triple Negative/Lobular Cancer - UK	Breast	United Kingdom	141	117	112	45	0	0	0	0	0	0	0	0
+THCA-SA	Thyroid Cancer - SA	Head and neck	Saudi Arabia	15	15	15	0	0	0	0	0	0	0	0	0
+LUSC-KR	Lung Cancer - KR	Lung	South Korea	36	36	0	0	36	0	0	0	0	0	0	0
+OV-AU	Ovarian Cancer - AU	Ovary	Australia	93	93	93	93	0	93	0	0	93	0	93	0
+PACA-AU	Pancreatic Cancer - AU	Pancreas	Australia	431	392	200	160	0	265	0	269	92	0	0	0
+PRAD-CA	Prostate Adenocarcinoma - CA	Prostate	Canada	124	124	0	123	0	0	0	0	0	0	0	0
+LGG-US	Brain Lower Grade Glioma - TCGA, US	Brain	United States	441	283	439	0	0	438	0	27	439	258	438	0
+NBL-US	Neuroblastoma - TARGET, US	Brain	United States	42	42	0	0	0	0	0	0	0	0	0	0
+COAD-US	Colon Adenocarcinoma - TCGA, US	Colorectal	United States	451	216	433	0	0	424	0	144	428	290	435	0
+KIRC-US	Kidney Renal Clear Cell Carcinoma - TCGA, US	Kidney	United States	525	404	522	0	0	513	0	26	518	454	495	0
+BEAT-AML	Beat AML	Blood	USA
+EGAD00001000263 ICGC - EGAD00001000263	Prostate	USA
+EGAD00001000892 ICGC - EGAD00001000892	Liver	USA
+EGAD00001000842 ICGC - EGAD00001000842	Liver	USA
+1000Genomes 1000Genomes

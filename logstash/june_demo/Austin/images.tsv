@@ -1,0 +1,49 @@
+CCC_DID	omeroHost	omeroImageId	primarySite	specimenType	gender	age	tumorGrade	tumorStage
+fdb2f608-1038-4d1b-959e-449526512071	https://austin-gateway.ccc.org:8443/omero	3	Pancreas	Primary Tumor	Male	22	Grade 1	N/A
+c861af31-6d6f-45ab-a30b-7d4af5be1655	https://austin-gateway.ccc.org:8443/omero 	4	Pancreas	Normal	Male	42	Grade 2	N/A
+1b282fd2-43e2-4db7-9618-8ed41f8f6bec	https://austin-gateway.ccc.org:8443/omero	5	Pancreas	Primary Tumor	Male	77	Grade 3	N/A
+744496dc-f11a-44e0-a397-dbcae3519ba1	https://austin-gateway.ccc.org:8443/omero	6	Pancreas	Primary Tumor	Male	23	Grade 4	N/A
+72758f3b-d210-4da5-a72e-6b82d7761b94	https://austin-gateway.ccc.org:8443/omero	7	Pancreas	Primary Tumor	Male	44	Grade 4	N/A
+a4bf883a-ac6f-4c36-8653-513adfbaaf71	https://austin-gateway.ccc.org:8443/omero	8	Pancreas	Primary Tumor	Male	68	Grade 3	N/A
+ecd7b363-364b-4bc5-9b6f-cae24d041c31	https://austin-gateway.ccc.org:8443/omero	9	Pancreas	Normal	Male	81	Grade 3	N/A
+d16a4a8a-f0d9-4f50-9179-6f692ef33aa8	https://austin-gateway.ccc.org:8443/omero	10	Pancreas	Normal	Male	71	Grade 3	N/A
+0a217381-00d8-433c-be7d-a27e840914e7	https://austin-gateway.ccc.org:8443/omero	11	Pancreas	Normal	Male	62	Grade 3	N/A
+de97c93e-451b-463f-a90b-e59516e99161	https://austin-gateway.ccc.org:8443/omero	12	Pancreas	Primary Tumor	Male	68	Grade 4	N/A
+75a79fae-0148-45f3-8c16-ea0233dbd093	https://austin-gateway.ccc.org:8443/omero	13	Pancreas	Primary Tumor	Male	54	Grade 4	N/A
+e62f694e-00f6-463b-8454-0871ea9664cb	https://austin-gateway.ccc.org:8443/omero	14	Pancreas	Primary Tumor	Male	51	Grade 1	N/A
+34db367b-8412-43ba-a501-3d296729333e	https://austin-gateway.ccc.org:8443/omero	15	Pancreas	Primary Tumor	Male	58	Grade 1	N/A
+6aa45457-95bb-4113-a544-7fd1428f0688	https://austin-gateway.ccc.org:8443/omero	16	Pancreas	Primary Tumor	Male	90	Grade 4	N/A
+c46029fe-475f-48bc-9234-943f97815cf4	https://austin-gateway.ccc.org:8443/omero	17	Pancreas	Normal	Male	29	Grade 4	N/A
+053a30a5-ec52-4430-b823-242aea3caef0	https://austin-gateway.ccc.org:8443/omero	18	Pancreas	Normal	Male	64	Grade 2	N/A
+88701057-5886-42ba-ac68-339b772e964d	https://austin-gateway.ccc.org:8443/omero	19	Pancreas	Normal	Male	37	Grade 2	N/A
+e8588a60-b667-4baa-bbc7-a4cbb894094a	https://austin-gateway.ccc.org:8443/omero	20	Pancreas	Normal	Male	55	Grade 2	N/A
+57febdb6-4f91-49b5-b51a-a7f47956c933	https://austin-gateway.ccc.org:8443/omero	21	Pancreas	Normal	Male	55	Grade 3	N/A
+a09964ee-b936-49c6-b080-17e8fc083321	https://austin-gateway.ccc.org:8443/omero	22	Pancreas	Primary Tumor	Male	42	Grade 2	N/A
+70463b74-3147-4b82-8483-6707eb252d4f	https://austin-gateway.ccc.org:8443/omero	23	Pancreas	Primary Tumor	Male	62	Grade 2	N/A
+d1556b2b-90ae-455a-b8bc-ca9f6271c7c2	https://austin-gateway.ccc.org:8443/omero	24	Pancreas	Primary Tumor	Male	77	Grade 2	N/A
+2d8e25b3-a286-4dd9-8fd0-1fc8c9aa39f6	https://austin-gateway.ccc.org:8443/omero	25	Pancreas	Primary Tumor	Male	36	Grade 2	N/A
+8ec5c4b4-1e68-41cf-b5c6-6eefb40ef8c6	https://austin-gateway.ccc.org:8443/omero	26	Pancreas	Primary Tumor	Male	91	Grade 2	N/A
+83c24db0-19da-4dc5-9f75-c0445ee48372	https://austin-gateway.ccc.org:8443/omero	27	Pancreas	Primary Tumor	Male	22	Grade 1	N/A
+735c7002-fbe0-4270-9a6a-dd13480ded57	https://austin-gateway.ccc.org:8443/omero	28	Pancreas	Normal	Male	42	Grade 2	N/A
+c923d1ef-7f60-459b-a946-5653b3369cb1	https://austin-gateway.ccc.org:8443/omero	29	Pancreas	Primary Tumor	Male	77	Grade 3	N/A
+1dc3c8c7-0c0a-4c75-948d-3917b671d361	https://austin-gateway.ccc.org:8443/omero	30	Pancreas	Primary Tumor	Male	23	Grade 4	N/A
+e1567fb7-ec47-4ec1-b73a-8d2c24e6ba54	https://austin-gateway.ccc.org:8443/omero	31	Pancreas	Primary Tumor	Male	44	Grade 4	N/A
+a7ae9e02-1667-4ceb-a47f-caa11b554d00	https://austin-gateway.ccc.org:8443/omero	32	Pancreas	Primary Tumor	Male	68	Grade 3	N/A
+ab4b450c-279f-40ce-a0cc-edcd86ead724	https://austin-gateway.ccc.org:8443/omero	33	Pancreas	Normal	Male	81	Grade 3	N/A
+6f50499f-f884-45b3-8dc9-b42ae6ef1a61	https://austin-gateway.ccc.org:8443/omero	34	Pancreas	Normal	Male	71	Grade 3	N/A
+cf9985a8-9d57-4e04-8768-62d6b5432fa9	https://austin-gateway.ccc.org:8443/omero	35	Pancreas	Normal	Male	62	Grade 3	N/A
+316b5b18-e69d-4b6f-9df1-7d588b6aa236	https://austin-gateway.ccc.org:8443/omero	36	Pancreas	Primary Tumor	Male	68	Grade 4	N/A
+8d022064-b941-46da-9d3d-d48d1dc89f87	https://austin-gateway.ccc.org:8443/omero	37	Pancreas	Primary Tumor	Male	54	Grade 4	N/A
+1e73d916-eace-4b6e-8ce5-10a622cc4657	https://austin-gateway.ccc.org:8443/omero	38	Pancreas	Primary Tumor	Male	51	Grade 1	N/A
+ef42fa5a-8977-4eff-9522-e4d4dee099e9	https://austin-gateway.ccc.org:8443/omero	39	Pancreas	Primary Tumor	Male	58	Grade 1	N/A
+ef49ed76-542b-4250-b809-f7484e1cc453	https://austin-gateway.ccc.org:8443/omero	40	Pancreas	Primary Tumor	Male	90	Grade 4	N/A
+5c1771f9-c1d9-4155-83f8-e5e2b7a57248	https://austin-gateway.ccc.org:8443/omero	41	Pancreas	Normal	Male	29	Grade 4	N/A
+0bc6e104-7e71-4661-838b-bac7847c7bf1	https://austin-gateway.ccc.org:8443/omero	42	Pancreas	Normal	Male	64	Grade 2	N/A
+841c42f6-e1ac-43cf-bd4b-85cc4e24f02b	https://austin-gateway.ccc.org:8443/omero	43	Pancreas	Normal	Male	37	Grade 2	N/A
+9740a7f1-73fb-41a4-aa4a-69c73e1d2450	https://austin-gateway.ccc.org:8443/omero	44	Pancreas	Normal	Male	55	Grade 2	N/A
+814cc48f-9f7e-4323-9844-326ec79290e2	https://austin-gateway.ccc.org:8443/omero	45	Pancreas	Normal	Male	55	Grade 3	N/A
+36804cb9-1967-4915-b709-8e5c31201a8d	https://austin-gateway.ccc.org:8443/omero	46	Pancreas	Primary Tumor	Male	42	Grade 2	N/A
+b83b7b61-e53f-4d3b-9c55-05ca0c5e63c6	https://austin-gateway.ccc.org:8443/omero	47	Pancreas	Primary Tumor	Male	62	Grade 2	N/A
+c0cc776a-b677-4773-a5ef-c322d436ddd7	https://austin-gateway.ccc.org:8443/omero	48	Pancreas	Primary Tumor	Male	77	Grade 2	N/A
+17d189e7-d28d-48ee-a54a-df5c82f4efaa	https://austin-gateway.ccc.org:8443/omero	49	Pancreas	Primary Tumor	Male	36	Grade 2	N/A
+f2eee8f4-17d7-4872-a35b-b4f6c3f6dfcc	https://austin-gateway.ccc.org:8443/omero	50	Pancreas	Primary Tumor	Male	91	Grade 2	N/A
