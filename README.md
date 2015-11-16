@@ -127,10 +127,10 @@ $ docker run  --add-host elasticsearch:$(docker-machine ip default)   -v $(pwd):
 
 Mapping
   Elastic search does not have field level aliases.  Alternatives:
-    - do nothing, let users query the differences
-    - rename the fields when ETL into elastic search, educate users. ie  why their field "specimin_id" is now "sample_id"
-    - copy the fields when ETL into elastic search, educate users. ie  why their field "specimin_id" is now "sample_id", but they would still be able to see their existing data (but we duplicate columns)
-    Decision: rename the fields
+    * do nothing, let users query the differences
+    * rename the fields when ETL into elastic search, educate users. ie  why their field "specimin_id" is now "sample_id"
+    * copy the fields when ETL into elastic search, educate users. ie  why their field "specimin_id" is now "sample_id", but they would still be able to see their existing data (but we duplicate columns)
+    Decision: copy the fields
 
 UI alternatives
   https://github.com/OlegKunitsyn/elasticsearch-browser
