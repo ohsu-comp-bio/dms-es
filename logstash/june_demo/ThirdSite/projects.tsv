@@ -1,0 +1,22 @@
+ProjectCode	ProjectName	PrimarySite	Country	Donors	SSM	CNSM	STSM	SGV	METH-A	METH-S	EXP-A	EXP-S	PEXP	miRNA-S	JCN
+BLCA-US	Bladder Urothelial Cancer - TCGA, US	Bladder	United States	299	130	278	0	0	273	0	0	295	127	297	0
+ALL-US	Acute Lymphoblastic Leukemia - TARGET, US	Blood	United States	207	8	0	0	0	0	0	207	0	0	0	0
+GBM-US	Brain Glioblastoma Multiforme - TCGA, US	Brain	United States	589	268	581	0	0	404	0	568	159	211	0	0
+BRCA-US	Breast Cancer - TCGA, US	Breast	United States	1045	955	1045	0	0	1013	0	529	1041	298	1026	0
+CESC-US	Cervical Squamous Cell Carcinoma - TCGA, US	Cervix	United States	261	194	256	0	0	243	0	0	259	0	261	0
+READ-US	Rectum Adenocarcinoma - TCGA, US	Colorectal	United States	169	80	156	0	0	153	0	57	154	111	160	0
+KIRP-US	Kidney Renal Papillary Cell Carcinoma - TCGA, US	Kidney	United States	223	159	222	0	0	216	0	6	222	0	223	0
+LIHC-US	Liver Hepatocellular carcinoma - TCGA, US	Liver	United States	317	188	314	0	0	243	0	0	294	0	313	0
+LUSC-US	Lung Squamous Cell Carcinoma - TCGA, US	Lung	United States	431	178	431	0	0	427	0	154	428	195	404	0
+OV-US	Ovarian Serous Cystadenocarcinoma - TCGA, US	Ovary	United States	582	88	571	0	0	581	0	567	262	0	482	0
+PRAD-US	Prostate Adenocarcinoma - TCGA, US	Prostate	United States	384	256	382	0	0	358	0	0	375	159	378	0
+SKCM-US	Skin Cutaneous melanoma - TCGA, US	Skin	United States	433	335	433	0	0	430	0	0	430	0	412	0
+STAD-US	Gastric Adenocarcinoma - TCGA, US	Stomach	United States	420	289	420	0	0	387	0	0	0	281	419	0
+UCEC-US	Uterine Corpus Endometrial Carcinoma- TCGA, US	Uterus	United States	513	246	513	0	0	513	0	54	508	200	505	0
+THCA-US	Head and Neck Thyroid Carcinoma - TCGA, US	Head and neck	United States	502	400	501	0	0	502	0	0	500	369	501	0
+PAEN-AU	Pancreatic Cancer Endocrine neoplasms - AU	Pancreas	Australia	66	52	54	51	0	46	0	34	32	0	0	0
+BEAT-AML	Beat AML	Blood	USA
+EGAD00001000263 ICGC - EGAD00001000263	Prostate	USA
+EGAD00001000892 ICGC - EGAD00001000892	Liver	USA
+EGAD00001000842 ICGC - EGAD00001000842	Liver	USA
+1000Genomes 1000Genomes

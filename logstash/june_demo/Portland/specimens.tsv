@@ -1,0 +1,350 @@
+specimen_id	donor_id	project_code	donor_ethnicity	donor_gender	donor_race	donor_vital_status	specimen_type	disease_state	specific_diagnosis	tumour_staging_system_at_diagnosis	tumour_stage_at_diagnosis	tumour_stage_system	tumour_stage	tumour_grading_system	tumour_grade
+12-00071	12-00071	BEAT-AML	NON-HISPANIC	Male	White	Alive	Bone Marrow Aspirate	tumor	AML with maturation						
+12-00085	12-00085	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Peripheral Blood	tumor	Therapy-related myeloid neoplasms						
+12-00109	12-00109	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Bone Marrow Aspirate	tumor	Acute myelomonocytic leukaemia						
+12-00111	12-00111	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Peripheral Blood	tumor	Acute myelomonocytic leukaemia						
+12-00116	12-00116	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Peripheral Blood	tumor	Acute myeloid leukaemia, NOS						
+12-00123	12-00123	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Leukapheresis	tumor	Acute myeloid leukaemia, NOS						
+12-00125	12-00125	BEAT-AML	HISPANIC	Female	White	Deceased	Bone Marrow Aspirate	tumor	Therapy-related myeloid neoplasms						
+12-00127	12-00127	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Leukapheresis	tumor	Acute myeloid leukaemia, NOS						
+12-00145	12-00145	BEAT-AML	HISPANIC	Male	White	Alive	Bone Marrow Aspirate	tumor	AML without maturation						
+12-00154	12-00154	BEAT-AML					Peripheral Blood	tumor							
+Control	Control	BEAT-AML						normal							
+SP16569							Primary tumour - other	tumor							
+SP16570							Primary tumour - other	tumor							
+SP16571							Primary tumour - other	tumor							
+SP16572							Primary tumour - other	tumor							
+SP16573							Primary tumour - other	tumor							
+SP16574							Primary tumour - blood derived (bone marrow)	tumor							
+SP16576							Primary tumour - other	tumor							
+SP96970							Normal - other	normal							
+SP16578							Primary tumour - other	tumor							
+SP16580							Primary tumour - other	tumor							
+SP16582							Primary tumour - other	tumor							
+SP16584							Cell line - derived from tumour	tumor							
+SP16586				Female			Cell line - derived from tumour	tumor							
+SP16588							Primary tumour - other	tumor							
+SP16590							Primary tumour - other	tumor							
+SP16592							Primary tumour - other	tumor							
+SP96973							Normal - other	normal							
+SP16594							Primary tumour - other	tumor							
+SP96962							Normal - other	normal							
+SP96964							Normal - other	normal							
+SP16596							Primary tumour - other	tumor							
+SP16598							Primary tumour - other	tumor							
+SP16600							Primary tumour - other	tumor							
+SP16602							Primary tumour - other	tumor							
+SP16604							Primary tumour - other	tumor							
+SP16606							Primary tumour - other	tumor							
+SP16608							Primary tumour - other	tumor							
+SP16610							Primary tumour - other	tumor							
+SP16612							Primary tumour - other	tumor							
+SP16614							Primary tumour - other	tumor							
+SP96968							Normal - other	normal							
+SP96959				Female			Normal - other	normal							
+SP16616				Female			Primary tumour - other	tumor							
+SP96961							Normal - other	normal							
+SP16618							Primary tumour - other	tumor							
+SP16620							Primary tumour - other	tumor							
+SP16622							Primary tumour - other	tumor							
+SP16624							Primary tumour - other	tumor							
+SP16626				Male			Cell line - derived from tumour	tumor							
+SP96956				Female			Normal - solid tissue	normal							
+SP16628				Female			Primary tumour - solid tissue	tumor							
+SP16630				Female			Cell line - derived from tumour	tumor							
+SP16632							Primary tumour - other	tumor							
+SP16634							Primary tumour - other	tumor							
+SP16636							Primary tumour - other	tumor							
+SP16638							Primary tumour - other	tumor							
+SP16640							Primary tumour - other	tumor							
+SP16642							Primary tumour - other	tumor							
+SP16644							Primary tumour - other	tumor							
+SP16646							Primary tumour - other	tumor							
+SP16648							Primary tumour - other	tumor							
+SP16650							Primary tumour - other	tumor							
+SP16652							Primary tumour - other	tumor							
+SP96967				Female			Normal - other	normal							
+SP16654				Female			Primary tumour - other	tumor							
+SP16656							Primary tumour - other	tumor							
+SP16658				Male			Primary tumour - other	tumor							
+SP96958				Male			Normal - other	normal							
+SP16660							Primary tumour - other	tumor							
+SP96965							Normal - other	normal							
+SP96969							Normal - other	normal							
+SP16662							Primary tumour - other	tumor							
+SP16664							Primary tumour - other	tumor							
+SP16666							Primary tumour - other	tumor							
+SP16668							Primary tumour - other	tumor							
+SP96960							Normal - other	normal							
+SP16670							Primary tumour - other	tumor							
+SP96972							Normal - other	normal							
+SP16672							Primary tumour - other	tumor							
+SP16674							Primary tumour - other	tumor							
+SP96971							Normal - blood derived	normal							
+SP96974							Normal - other	normal							
+SP16676							Primary tumour - other	tumor							
+SP16678							Primary tumour - other	tumor							
+SP16680							Primary tumour - other	tumor							
+SP96963							Normal - other	normal							
+SP16682							Primary tumour - other	tumor							
+SP16684							Primary tumour - other	tumor							
+SP16686							Primary tumour - other	tumor							
+SP16688							Primary tumour - other	tumor							
+SP16690							Primary tumour - other	tumor							
+SP16692							Primary tumour - other	tumor							
+SP16694				Male			Cell line - derived from tumour	tumor							
+SP16696							Primary tumour - other	tumor							
+SP16698							Primary tumour - other	tumor							
+SP16700							Primary tumour - other	tumor							
+SP16702							Primary tumour - other	tumor							
+SP16704							Primary tumour - other	tumor							
+SP16706							Primary tumour - other	tumor							
+SP16708							Primary tumour - other	tumor							
+SP16710							Primary tumour - other	tumor							
+SP16712							Primary tumour - other	tumor							
+SP16714							Primary tumour - other	tumor							
+SP96966							Normal - other	normal							
+SP16716							Primary tumour - other	tumor							
+SP96955							Normal - other	normal							
+SP16718							Cell line - derived from tumour	tumor							
+SP16720							Primary tumour - other	tumor							
+SP16722							Primary tumour - other	tumor							
+SP16724							Primary tumour - other	tumor							
+SP16726							Primary tumour - other	tumor							
+SP16728							Primary tumour - other	tumor							
+SP16730							Primary tumour - other	tumor							
+SP16732							Primary tumour - other	tumor							
+SP96957							Normal - other	normal							
+SP16734							Primary tumour - other	tumor							
+SP16736							Primary tumour - other	tumor							
+SP16738							Primary tumour - other	tumor							
+SP16740							Primary tumour - other	tumor							
+SP16742							Primary tumour - other	tumor							
+SP16744							Primary tumour - other	tumor							
+SP16746				Female			Cell line - derived from tumour	tumor							
+SP16748							Primary tumour - other	tumor							
+SP16750							Primary tumour - other	tumor							
+SP16752							Primary tumour - other	tumor							
+SP16754							Primary tumour - other	tumor							
+SP16756							Primary tumour - other	tumor							
+SP16758							Primary tumour - other	tumor							
+SP16760							Primary tumour - other	tumor							
+SP16762							Primary tumour - other	tumor							
+SP16764							Primary tumour - other	tumor							
+SP16766							Primary tumour - other	tumor							
+SP16768							Primary tumour - other	tumor							
+SP16770							Primary tumour - other	tumor							
+SP16772				Female			Cell line - derived from tumour	tumor							
+SP16774							Primary tumour - other	tumor							
+SP16776							Primary tumour - other	tumor							
+SP16778							Primary tumour - other	tumor							
+SP16780							Primary tumour - other	tumor							
+SP16782							Primary tumour - other	tumor							
+SP16784							Primary tumour - other	tumor							
+SP16786							Primary tumour - other	tumor							
+SP16788							Primary tumour - other	tumor							
+SP16790							Primary tumour - other	tumor							
+SP16792							Primary tumour - other	tumor							
+SP16794							Primary tumour - other	tumor							
+SP16796							Primary tumour - other	tumor							
+SP16798							Primary tumour - other	tumor							
+SP16800							Primary tumour - other	tumor							
+SP16802							Primary tumour - other	tumor							
+SP16804							Primary tumour - other	tumor							
+SP16806							Primary tumour - other	tumor							
+SP16808							Primary tumour - other	tumor							
+SP16810							Primary tumour - other	tumor							
+SP16812							Primary tumour - other	tumor							
+SP16814							Primary tumour - other	tumor							
+SP16816							Primary tumour - other	tumor							
+SP16818							Primary tumour - other	tumor							
+SP16820							Primary tumour - other	tumor							
+SP1937				Male		Alive	Normal - other	normal							
+SP1803				Male		Alive	Primary tumour - solid tissue	tumor							
+SP1804						Deceased	Primary tumour - solid tissue	tumor							
+SP1940						Deceased	Normal - other	normal							
+SP1805				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP1943				Female		Alive	Normal - other	normal							
+SP1946				Male		Deceased	Normal - other	normal							
+SP1806				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 2
+SP1949				Male			Normal - other	normal							
+SP1807				Male			Primary tumour - solid tissue	tumor							Grade 2
+SP1808				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1952				Male		Alive	Normal - other	normal							
+SP1809				Male			Primary tumour - solid tissue	tumor							Grade 2
+SP1955				Male			Normal - other	normal							
+SP1810				Male		Deceased	Primary tumour - solid tissue	tumor							
+SP1958				Male		Deceased	Normal - other	normal							
+SP1961				Male		Alive	Normal - other	normal							
+SP1811				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP1964				Male		Alive	Normal - other	normal							
+SP1812				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1967				Male			Normal - other	normal							
+SP1813				Male			Primary tumour - solid tissue	tumor							
+SP1814				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP1970				Female		Alive	Normal - other	normal							
+SP1815				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1973				Male		Alive	Normal - other	normal							
+SP1816				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1976				Male		Alive	Normal - other	normal							
+SP1817				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1979				Male		Alive	Normal - other	normal							
+SP1982				Male		Deceased	Normal - other	normal							
+SP1818				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 3
+SP1819				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1985				Male		Alive	Normal - other	normal							
+SP1988				Male		Alive	Normal - other	normal							
+SP1820				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1991				Female		Alive	Normal - other	normal							
+SP1821				Female		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1822				Male		Deceased	Primary tumour - solid tissue	tumor							
+SP1994				Male		Deceased	Normal - other	normal							
+SP1823				Male		Deceased	Primary tumour - solid tissue	tumor							
+SP1997				Male		Deceased	Normal - other	normal							
+SP2000				Female			Normal - other	normal							
+SP1824				Female			Primary tumour - solid tissue	tumor							Grade 2
+SP2003				Male		Alive	Normal - other	normal							
+SP1825				Male		Alive	Primary tumour - solid tissue	tumor							
+SP2006				Female		Alive	Normal - other	normal							
+SP1826				Female		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1828				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP2009				Male		Alive	Normal - other	normal							
+SP2012				Male		Alive	Normal - other	normal							
+SP1830				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP2015				Female		Alive	Normal - other	normal							
+SP1832				Female		Alive	Primary tumour - solid tissue	tumor							
+SP2018				Female		Alive	Normal - other	normal							
+SP1834				Female		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1836				Male		Deceased	Primary tumour - solid tissue	tumor							
+SP2021				Male		Deceased	Normal - other	normal							
+SP1838				Male		Deceased	Primary tumour - solid tissue	tumor							
+SP2024				Male		Deceased	Normal - other	normal							
+SP1840				Male		Alive	Primary tumour - other	tumor							Grade 2
+SP2027				Male		Alive	Normal - other	normal							
+SP2030				Male		Alive	Normal - other	normal							
+SP1842				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP1844				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 1
+SP2033				Male		Deceased	Normal - other	normal							
+SP2036				Male		Deceased	Normal - other	normal							
+SP1846				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 2
+SP2039				Male			Normal - other	normal							
+SP1848				Male			Primary tumour - solid tissue	tumor							Grade 3
+SP2042				Male		Alive	Normal - other	normal							
+SP1850				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP1852				Female			Primary tumour - solid tissue	tumor							Grade 2
+SP2045				Female			Normal - other	normal							
+SP1854				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP2048				Female		Alive	Normal - other	normal							
+SP2051				Male		Deceased	Normal - other	normal							
+SP1856				Male		Deceased	Primary tumour - solid tissue	tumor							
+SP2054				Male		Deceased	Normal - other	normal							
+SP1858				Male		Deceased	Primary tumour - solid tissue	tumor							
+SP2057				Female		Alive	Normal - other	normal							
+SP1860				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP2060				Female		Alive	Normal - other	normal							
+SP1862				Female		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP1864				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP2063				Male		Alive	Normal - other	normal							
+SP2066				Male		Alive	Normal - other	normal							
+SP1866				Male		Alive	Primary tumour - other	tumor							Grade 1
+SP2069				Male		Alive	Normal - other	normal							
+SP1868				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP2072				Male		Alive	Normal - other	normal							
+SP1870				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP2075							Normal - other	normal							
+SP1872							Primary tumour - solid tissue	tumor							
+SP1874				Male		Deceased	Primary tumour - solid tissue	tumor							
+SP2078				Male		Deceased	Normal - other	normal							
+SP1876				Male		Deceased	Primary tumour - solid tissue	tumor							
+SP2081				Male		Deceased	Normal - other	normal							
+SP1878				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP2084				Male		Alive	Normal - other	normal							
+SP2087				Female		Alive	Normal - blood derived	normal							
+SP1880				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP2090						Alive	Normal - other	normal							
+SP1883						Alive	Primary tumour - solid tissue	tumor							Grade 3
+SP1886				Female		Alive	Primary tumour - solid tissue	tumor							
+SP2093				Female		Alive	Normal - other	normal							
+SP2096				Female		Alive	Normal - other	normal							
+SP1889				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP2099				Female			Normal - other	normal							
+SP1892				Female			Primary tumour - solid tissue	tumor							Grade 1
+SP2102				Male		Deceased	Normal - other	normal							
+SP1895				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 2
+SP2105				Male		Alive	Normal - other	normal							
+SP1898				Male		Alive	Primary tumour - solid tissue	tumor							
+SP2108				Male		Alive	Normal - other	normal							
+SP1901				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP2111				Male		Alive	Normal - other	normal							
+SP1904				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP2113				Male		Deceased	Normal - other	normal							
+SP1907				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 2
+SP1910				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP2116				Male		Alive	Normal - other	normal							
+SP1913				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP2119				Male		Alive	Normal - other	normal							
+SP2122				Male		Alive	Normal - other	normal							
+SP1916				Male		Alive	Primary tumour - other	tumor							Grade 3
+SP2125				Female		Alive	Normal - other	normal							
+SP1919				Female		Alive	Primary tumour - other	tumor							Grade 2
+SP2128				Female		Alive	Normal - other	normal							
+SP1922				Female		Alive	Primary tumour - other	tumor							Grade 3
+SP1925				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP2131				Male		Alive	Normal - other	normal							
+SP2134				Female		Alive	Normal - other	normal							
+SP1928				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP2137				Male		Alive	Normal - other	normal							
+SP1931				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+SP1934				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+SP2140				Male		Alive	Normal - other	normal							
+SP102697				Male			Normal - blood derived	normal		TNM	T1N0M0				
+SP102696				Male			Primary tumour - solid tissue	tumor		TNM	T1N0M0	TNM	T1N0M0		
+SP102699				Male			Normal - blood derived	normal		TNM	T2N0M0				
+SP102698				Male			Primary tumour - solid tissue	tumor		TNM	T2N0M0	TNM	T2N0M0		
+SP102701				Male			Normal - blood derived	normal		TNM	T1N0M0				
+SP102700				Male			Primary tumour - solid tissue	tumor		TNM	T1N0M0	TNM	T1N0M0		
+SP102702				Female			Primary tumour - solid tissue	tumor		TNM	T2N0M0	TNM	T2N0M0		
+SP102703				Female			Normal - blood derived	normal		TNM	T2N0M0				
+SP102705				Male			Normal - blood derived	normal		TNM	T1N0M0				
+SP102704				Male			Primary tumour - solid tissue	tumor		TNM	T1N0M0	TNM	T1N0M0		
+SP102706				Male			Primary tumour - solid tissue	tumor		TNM	T2N0M0	TNM	T2N0M0		
+SP102707				Male			Normal - blood derived	normal		TNM	T2N0M0				
+SP102708				Female			Primary tumour - solid tissue	tumor		TNM	T1N0M0	TNM	T1N0M0		
+SP102709				Female			Normal - blood derived	normal		TNM	T1N0M0				
+SP102710				Female			Primary tumour - solid tissue	tumor		TNM	T1N0M0	TNM	T1N0M0		
+SP102711				Female			Normal - blood derived	normal		TNM	T1N0M0				
+SP102713				Female			Normal - blood derived	normal		TNM	T2N0M0				
+SP102712				Female			Primary tumour - solid tissue	tumor		TNM	T2N0M0	TNM	T2N0M0		
+SP102715				Female			Normal - blood derived	normal		TNM	T2N0M0				
+SP102714				Female			Primary tumour - solid tissue	tumor		TNM	T2N0M0	TNM	T2N0M0		
+RK059a		EGAD00001000842		Male			Primary tumour - solid tissue	tumor
+RK059b		EGAD00001000842		Male			Normal - blood derived	normal
+ERR016048	ERR016048	1000Genomes		Male				normal
+ERR016115	ERR016115	1000Genomes		Male				normal
+ERR016117	ERR016117	1000Genomes		Male				normal
+SRR816285	SRR816285	1000Genomes		Male				normal
+SRR816286	SRR816286	1000Genomes		Male				normal
+ERR271650	ERR271650	1000Genomes		Male				normal
+ERR250683	ERR250683	1000Genomes		Male				normal
+ERR250684	ERR250684	1000Genomes		Male				normal
+PD7446a	PD7446	EGAD00001000263		male			prostate adenocarcinoma	tumor
+PD7446c	PD7446	EGAD00001000263		male			prostate adenocarcinoma	tumor
+PD7446f	PD7446	EGAD00001000263		male			prostate adenocarcinoma	tumor
+PD7446g	PD7446	EGAD00001000263		male			Prostate	normal
+PD7447c	PD7447	EGAD00001000263		male			prostate adenocarcinoma	tumor
+PD7447e	PD7447	EGAD00001000263		male			Prostate	normal
+PD13395a	PD13395	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor
+PD13395b	PD13395	EGAD00001000892		male			normal - blood	normal
+PD13397a	PD13397	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor
+PD13397b	PD13397	EGAD00001000892		male			normal - blood	normal
+PD13399a	PD13399	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor
+PD13399b	PD13399	EGAD00001000892		male			normal - blood	normal
+PD13401b	PD13401	EGAD00001000892		male			normal - blood	normal
+PD13403a	PD13403	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor
+PD13403b	PD13403	EGAD00001000892		male			normal - blood	normal
+PD13406a	PD13406	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor
+PD13406b	PD13406	EGAD00001000892		male			normal - blood	normal
+PD13407a	PD13407	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor
+PD13408a	PD13408	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor
+PD13410a	PD13410	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor
+PD13410b	PD13410	EGAD00001000892		male			normal - blood	normal

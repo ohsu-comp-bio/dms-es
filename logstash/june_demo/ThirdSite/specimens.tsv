@@ -1,0 +1,11 @@
+specimen_id	donor_id	project_code	donor_ethnicity	donor_gender	donor_race	donor_vital_status	specimen_type	disease_state	specific_diagnosis	tumour_staging_system_at_diagnosis	tumour_stage_at_diagnosis	tumour_stage_system	tumour_stage	tumour_grading_system	tumour_grade
+12-00156	12-00156	BEAT-AML	NON-HISPANIC	Female	White		Peripheral Blood	tumor	Acute myeloid leukaemia, NOS						
+12-00161	12-00161	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Bone Marrow Aspirate	tumor	Acute myelomonocytic leukaemia						
+12-00165	12-00165	BEAT-AML					Peripheral Blood	tumor							
+12-00182	12-00182	BEAT-AML					Peripheral Blood	tumor							
+12-00250	12-00250	BEAT-AML					Peripheral Blood	tumor	Acute myeloid leukaemia, NOS						
+12-00269	12-00269	BEAT-AML	NON-HISPANIC	Female	White	Alive	Bone Marrow Aspirate	tumor	Acute promyelocytic leukaemia with t(15;17)(q22;q12); PML-RARA						
+12-00288	12-00288	BEAT-AML		Female			Peripheral Blood	tumor							
+12-00298	12-00298	BEAT-AML	NON-HISPANIC	Female	White	Alive	Bone Marrow Aspirate	tumor	AML with t(9;11)(p22;q23); MLLT3-MLL						
+12-00343	12-00343	BEAT-AML					Peripheral Blood	tumor							
+12-00374	12-00374	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Leukapheresis	tumor							

@@ -1,0 +1,33 @@
+# bring up the simplest possible configuration
+# 1 ES node & 1 Kibana node
+# all settings are default
+# The data stored in Elasticsearch will be persisted after container reboot
+# but not after container removal.
+# see https://github.com/deviantony/docker-elk for more involved examples
+
+# To load data via logstash
+# create a directory with logstash conf files
+# run the latest logstash docker container
+#docker run  --add-host elasticsearch:$(docker-machine ip default)   -v $(pwd):/data -it  logstash  logstash  -f ./data/icgc-*.conf  -v --verbose
+
+
+
+elasticsearch:
+  image: elasticsearch:latest
+  command: >
+    elasticsearch
+      --network.host=0.0.0.0
+      --cluster.name=ccc-es
+      --node.name=central
+  ports:
+    - "9200:9200"
+
+# note: the kibana docker entrypoint.sh 'convention over configuration'
+# looks for a link to http://elasticsearch:9200 by default
+# see https://github.com/docker-library/kibana/blob/master/4.2/docker-entrypoint.sh
+kibana:
+  image: kibana:latest
+  ports:
+    - "5601:5601"
+  links:
+    - elasticsearch
