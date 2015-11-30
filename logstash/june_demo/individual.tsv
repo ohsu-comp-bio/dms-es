@@ -1,0 +1,358 @@
+site	patientId	project_code	ethnicity	gender	race	vitalStatus	specific_diagnosis	tumour_staging_system_at_diagnosis	tumour_stage_at_diagnosis	tumour_stage_system	tumour_stage	tumour_grading_system	tumour_grade
+Austin	11-00466	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Acute myeloid leukaemia, NOS						
+Austin	11-00473	BEAT-AML	NON-HISPANIC	Male	White	Deceased	AML without maturation						
+Austin	11-00476	BEAT-AML	NON-HISPANIC	Male	American Indian	Deceased	Acute myeloid leukaemia, NOS						
+Austin	11-00478	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Acute myelomonocytic leukaemia						
+Austin	11-00499	BEAT-AML											
+Austin	11-00503	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Acute myelomonocytic leukaemia						
+Austin	12-00016	BEAT-AML	NON-HISPANIC	Female	Asian	Deceased							
+Austin	12-00032	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Acute myelomonocytic leukaemia						
+Austin	12-00035	BEAT-AML	NON-HISPANIC	Female	White	Alive	Acute myelomonocytic leukaemia						
+Austin	12-00069	BEAT-AML	HISPANIC	Male	Unknown	Deceased	Acute myeloid leukaemia, NOS						
+Austin	Control	BEAT-AML											
+Austin	DO27763	MALY-DE		Male		Alive		Murphy Stage	III				
+Austin	DO27764	MALY-DE		Male		Alive		Murphy Stage				WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	DO27765	MALY-DE		Male		Alive		Murphy Stage	II				
+Austin	DO27767	MALY-DE		Male		Alive		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	DO27769	MALY-DE		Male		Alive		Murphy Stage	III				
+Austin	DO27771	MALY-DE		Male		Alive		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	DO27773	MALY-DE		Male		Alive		Ann Arbor Stage	IV,N,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	DO27775	MALY-DE		Male		Alive		Murphy Stage				WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	DO27777	MALY-DE		Male		Alive		Murphy Stage	IV			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade ib
+Austin	DO27779	MALY-DE		Female		Alive		Ann Arbor Stage	III,N				
+Austin	DO27781	MALY-DE		Female		Alive		Ann Arbor Stage	IV				
+Austin	DO27783	MALY-DE		Male		Alive		Ann Arbor Stage	III,E				
+Austin	DO27785	MALY-DE		Female		Alive		Ann Arbor Stage	IV,N,S				
+Austin	DO27787	MALY-DE		Female		Alive		Ann Arbor Stage	IV				
+Austin	DO27789	MALY-DE		Male		Alive		Ann Arbor Stage	II,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	DO27791	MALY-DE		Male		Alive		Murphy Stage	I				
+Austin	DO27793	MALY-DE		Male		Alive		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	DO27795	MALY-DE		Female		Alive		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	DO27797	MALY-DE		Male		Alive		Ann Arbor Stage	IV,N,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	DO27799	MALY-DE		Male		Alive		Murphy Stage	II			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	DO27801	MALY-DE		Male		Alive		Ann Arbor Stage	II,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	DO27803	MALY-DE		Male		Alive		Ann Arbor Stage	IV,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	DO27805	MALY-DE		Male		Alive		Ann Arbor Stage	III,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	DO27807	MALY-DE		Male		Alive		Murphy Stage	III				
+Austin	DO27809	MALY-DE		Female		Alive		Ann Arbor Stage	IV,E				
+Austin	DO27811	MALY-DE		Male		Alive		Ann Arbor Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	DO27813	MALY-DE		Female		Alive		Ann Arbor Stage	I,N				
+Austin	DO27815	MALY-DE		Female		Alive		Murphy Stage	III				
+Austin	DO27833	MALY-DE		Male		Alive		Ann Arbor Stage	III,N				
+Austin	DO27817	MALY-DE		Male		Alive		Ann Arbor Stage	IV,S,E				
+Austin	DO27819	MALY-DE		Male		Alive		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	DO27821	MALY-DE		Male		Alive		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	DO27823	MALY-DE		Male		Alive		Murphy Stage	B-ALL				
+Austin	DO27825	MALY-DE		Male		Alive		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	DO27827	MALY-DE		Male		Alive		Ann Arbor Stage	III,N,S,E				
+Austin	DO27829	MALY-DE		Male		Alive		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	DO27831	MALY-DE		Male		Alive		Ann Arbor Stage	III,E				
+Austin	DO27835	MALY-DE		Male		Deceased		Ann Arbor Stage	I,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade II
+Austin	DO27837	MALY-DE		Male		Alive		Ann Arbor Stage	III,N,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	DO27839	MALY-DE		Female		Alive		Ann Arbor Stage	III,N				
+Austin	DO27841	MALY-DE		Male		Alive		Ann Arbor Stage	I,E				
+Austin	DO27843	MALY-DE		Male		Alive		Ann Arbor Stage	IV,N,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	DO27845	MALY-DE		Female		Alive		Ann Arbor Stage	IV,N,E				
+Austin	DO27847	MALY-DE		Male		Alive		Murphy Stage					
+Austin	DO27849	MALY-DE		Male		Deceased		Ann Arbor Stage	III,N				
+Austin	DO27851	MALY-DE		Female		Alive		Ann Arbor Stage	III,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	DO27853	MALY-DE		Male		Alive		Ann Arbor Stage	III,N,S,E				
+Austin	DO27855	MALY-DE		Female		Alive		Ann Arbor Stage	IV,N,S			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	DO27857	MALY-DE		Female		Alive		Ann Arbor Stage	IV,N,S,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	DO27859	MALY-DE		Female		Alive		Ann Arbor Stage	IV,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	DO27861	MALY-DE		Male		Alive							
+Austin	DO27863	MALY-DE		Male		Alive							
+Austin	DO27865	MALY-DE		Male		Alive							
+Austin	DO50459	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50460	BOCA-FR		Female		Deceased			Metastatic stage				
+Austin	DO50461	BOCA-FR		Male		Alive			Metastatic stage				
+Austin	DO50462	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50463	BOCA-FR											
+Austin	DO50464	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50465	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50466	BOCA-FR											
+Austin	DO50468	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50470	BOCA-FR		Female		Alive			Metastatic stage				
+Austin	DO50472	BOCA-FR		Male		Deceased			Non-metastatic stage				
+Austin	DO50474	BOCA-FR		Female		Deceased			Metastatic stage				
+Austin	DO50476	BOCA-FR		Male		Deceased			Non-metastatic stage				
+Austin	DO50479	BOCA-FR											
+Austin	DO50481	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50483	BOCA-FR		Male		Alive			Metastatic stage				
+Austin	DO50485	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50487	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50489	BOCA-FR		Male		Alive			Metastatic stage				
+Austin	DO50491	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50493	BOCA-FR		Female		Alive			Metastatic stage				
+Austin	DO50495	BOCA-FR											
+Austin	DO50497	BOCA-FR		Male					Metastatic stage				
+Austin	DO50499	BOCA-FR		Male		Deceased			Non-metastatic stage				
+Austin	DO50501	BOCA-FR		Female		Alive			Metastatic stage				
+Austin	DO50503	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50505	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50507	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50509	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50511	BOCA-FR		Male		Deceased			Non-metastatic stage				
+Austin	DO50513	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50514	BOCA-FR		Male		Deceased			Non-metastatic stage				
+Austin	DO50516	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50518	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50520	BOCA-FR		Female		Alive			Metastatic stage				
+Austin	DO50522	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50524	BOCA-FR		Male		Alive			Metastatic stage				
+Austin	DO50526	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50528	BOCA-FR		Male		Deceased			Non-metastatic stage				
+Austin	DO50530	BOCA-FR		Female		Alive			Metastatic stage				
+Austin	DO50531	BOCA-FR		Female		Deceased			Metastatic stage				
+Austin	DO50533	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50534	BOCA-FR		Female		Alive			Metastatic stage				
+Austin	DO50536	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50537	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50539	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50541	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50542	BOCA-FR		Male		Alive			Metastatic stage				
+Austin	DO50543	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50544	BOCA-FR		Male		Alive			Metastatic stage				
+Austin	DO50545	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50547	BOCA-FR		Male					Non-metastatic stage				
+Austin	DO50549	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50550	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50638	BOCA-FR											
+Austin	DO50551	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50553	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50555	BOCA-FR		Male		Deceased			Non-metastatic stage				
+Austin	DO50557	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50559	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50561	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50562	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50564	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50565	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50567	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50568	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50570	BOCA-FR		Male		Alive			Metastatic stage				
+Austin	DO50571	BOCA-FR		Female		Deceased			Metastatic stage				
+Austin	DO50572	BOCA-FR		Female		Alive			Metastatic stage				
+Austin	DO50573	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50575	BOCA-FR											
+Austin	DO50577	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50579	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50581	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50584	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50586	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50588	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50591	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50594	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50597	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50599	BOCA-FR											
+Austin	DO50601	BOCA-FR		Male		Alive			Metastatic stage				
+Austin	DO50604	BOCA-FR		Male		Deceased			Non-metastatic stage				
+Austin	DO50607	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50609	BOCA-FR		Female					Non-metastatic stage				
+Austin	DO50612	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50615	BOCA-FR		Male		Deceased			Metastatic stage				
+Austin	DO50618	BOCA-FR		Male		Deceased			Non-metastatic stage				
+Austin	DO50621	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50623	BOCA-FR		Male		Deceased			Non-metastatic stage				
+Austin	DO50625	BOCA-FR		Male		Alive			Metastatic stage				
+Austin	DO50628	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50630	BOCA-FR		Male		Alive			Metastatic stage				
+Austin	DO50633	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50636	BOCA-FR		Female		Deceased			Non-metastatic stage				
+Austin	DO50641	BOCA-FR		Female		Alive			Non-metastatic stage				
+Austin	DO50644	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO50646	BOCA-FR		Male		Alive			Non-metastatic stage				
+Austin	DO46826	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	DO46827	RECA-EU		Male		Deceased		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3bNXMX	Fuhrman	4
+Austin	DO46828	RECA-EU		Male		Deceased		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3bNXM1	Fuhrman	4
+Austin	DO46830	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	DO46832	RECA-EU		Male				TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)			
+Austin	DO46834	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	DO46836	RECA-EU		Male				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)		Fuhrman	3
+Austin	DO46838	RECA-EU		Male				TNM 2010 (7th edition)	T1N1M0	TNM 2010 (7th edition)	T1bN0MX	Fuhrman	2
+Austin	DO46841	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	DO46844	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	DO46847	RECA-EU		Female				TNM 2010 (7th edition)	T3NXM0	TNM 2010 (7th edition)			2
+Austin	DO46850	RECA-EU		Male				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	DO46853	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	DO46856	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	DO46859	RECA-EU		Female				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	DO46862	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	DO46865	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	DO46869	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	DO46873	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	DO46877	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0MX	Fuhrman	4
+Austin	DO46881	RECA-EU		Female				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2bNXMX	Fuhrman	2
+Austin	DO46885	RECA-EU		Male		Deceased		TNM 2010 (7th edition)	T3N1M1	TNM 2010 (7th edition)	T3aN1MX	Fuhrman	4
+Austin	DO46889	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	DO46893	RECA-EU		Female				TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)			2
+Austin	DO46897	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	DO46901	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	DO46905	RECA-EU		Male				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	4
+Austin	DO46909	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	DO46913	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	DO46917	RECA-EU		Female				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	3
+Austin	DO46921	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	DO46925	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	DO46929	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	DO46933	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	DO46937	RECA-EU		Male				TNM 2010 (7th edition)	T2N1M1	TNM 2010 (7th edition)	T2aN1MX	Fuhrman	2
+Austin	DO46941	RECA-EU		Male				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	2
+Austin	DO46945	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	DO46949	RECA-EU		Female				TNM 2010 (7th edition)	T4N0M1	TNM 2010 (7th edition)			4
+Austin	DO46953	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	DO46957	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	DO46961	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	3
+Austin	DO46965	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	DO46969	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	3
+Austin	DO46973	RECA-EU		Male				TNM 2010 (7th edition)	T4N0M1	TNM 2010 (7th edition)	T1bN0M1	Fuhrman	2
+Austin	DO46977	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	DO46980	RECA-EU		Female				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	DO46984	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	DO46988	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	DO46992	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	DO46996	RECA-EU		Male				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	DO47000	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	DO47004	RECA-EU		Male		Deceased		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	DO47008	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	DO47012	RECA-EU		Male				TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	DO47016	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	DO47020	RECA-EU		Male				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	3
+Austin	DO47024	RECA-EU		Male				TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1bNXMX		2
+Austin	DO47028	RECA-EU		Male				TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	DO47032	RECA-EU		Male				TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	1
+Austin	DO47036	RECA-EU		Male				TNM 2010 (7th edition)	T1N1M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	DO47040	RECA-EU		Male				TNM 2010 (7th edition)	T3N0MX	TNM 2010 (7th edition)	T3bN0M0	Fuhrman	2
+Austin	DO47044	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	DO47048	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	DO47052	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	DO47056	RECA-EU		Male				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)			2
+Austin	DO47060	RECA-EU		Male				TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	DO47064	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	DO47068	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	DO47072	RECA-EU		Male				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	DO47076	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	DO47080	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	DO47084	RECA-EU		Female				TNM 2010 (7th edition)	T3N1M1	TNM 2010 (7th edition)			3
+Austin	DO47088	RECA-EU		Male				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	DO47092	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	DO47096	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	DO47100	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	DO47104	RECA-EU		Male				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	DO47108	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	DO47112	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	DO47116	RECA-EU		Male				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3cN0M0	Fuhrman	2
+Austin	DO47120	RECA-EU		Male				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			3
+Austin	DO47124	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	DO47128	RECA-EU		Male				TNM 2010 (7th edition)	T3NXM0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	DO47132	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	DO47136	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	3
+Austin	DO47140	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	DO47144	RECA-EU		Female				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	DO47147	RECA-EU		Male				TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	DO47150	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	DO47153	RECA-EU		Male				TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	DO47156	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	DO47159	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	DO47162	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	DO47165	RECA-EU		Female		Alive		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2bNXMX	Fuhrman	3
+Austin	DO47168	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	DO47171	RECA-EU		Male				TNM 2010 (7th edition)	T3NXM1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	DO47174	RECA-EU		Male				TNM 2010 (7th edition)	T3NXM1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	DO47177	RECA-EU		Male				TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	DO47180	RECA-EU		Male				TNM 2010 (7th edition)	T2NXM0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	DO47183	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	DO47186	RECA-EU		Female		Deceased		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	DO47189	RECA-EU		Male		Alive		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	DO47192	RECA-EU		Female				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3bN0M0	Fuhrman	2
+Austin	DO47195	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	3
+Austin	DO47198	RECA-EU		Female				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aN0M0	Fuhrman	2
+Austin	DO47201	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	DO47204	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	DO47207	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	DO47210	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	DO47213	RECA-EU		Female				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	2
+Austin	DO47216	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	DO47219	RECA-EU		Male				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3bN0M0	Fuhrman	2
+Austin	DO47222	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	DO47225	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0MX	Fuhrman	2
+Austin	DO47228	RECA-EU		Female				TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	2
+Austin	DO47231	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0		2
+Austin	DO47234	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	DO47237	RECA-EU		Male				TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aN0M0	Fuhrman	3
+Austin	DO47240	RECA-EU		Female				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0MX	Fuhrman	1
+Austin	DO47243	RECA-EU		Male				TNM 2010 (7th edition)	T4NXMX	TNM 2010 (7th edition)	T4NXMX	Fuhrman	2
+Austin	DO47246	RECA-EU		Male				TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	DO47249	RECA-EU		Female		Deceased		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin		EGAD00001000842		Male									
+Austin	ERR022065	1000Genomes		Male									
+Austin	ERR022068	1000Genomes		Male									
+Austin	SRR816278	1000Genomes		Male									
+Austin	SRR816279	1000Genomes		Male									
+Austin	ERR022072	1000Genomes		Male									
+Austin	ERR016024	1000Genomes		Male									
+Austin	ERR016027	1000Genomes		Male									
+Austin	ERR016029	1000Genomes		Male									
+Austin	PD7445	EGAD00001000263		male									
+Austin	PD12839	EGAD00001000892		male									
+Austin	PD13381	EGAD00001000892		male									
+Austin	PD13382	EGAD00001000892		male									
+Austin	PD13384	EGAD00001000892		male									
+Austin	PD13386	EGAD00001000892		male									
+Austin	PD13387	EGAD00001000892		male									
+Austin	PD13388	EGAD00001000892		male									
+Austin	PD13389	EGAD00001000892		male									
+Austin	PD13392	EGAD00001000892		male									
+Austin	PD13394	EGAD00001000892		male									
+Austin	PD7446	EGAD00001000263		male									
+Austin	PD7447	EGAD00001000263		male									
+Austin	PD13395	EGAD00001000892		male									
+Austin	PD13397	EGAD00001000892		male									
+Austin	PD13399	EGAD00001000892		male									
+Austin	PD13401	EGAD00001000892		male									
+Austin	PD13403	EGAD00001000892		male									
+Austin	PD13406	EGAD00001000892		male									
+Austin	PD13407	EGAD00001000892		male									
+Austin	PD13408	EGAD00001000892		male									
+Austin	PD13410	EGAD00001000892		male									
+Portland	12-00071	BEAT-AML	NON-HISPANIC	Male	White	Alive	AML with maturation						
+Portland	12-00085	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Therapy-related myeloid neoplasms						
+Portland	12-00109	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Acute myelomonocytic leukaemia						
+Portland	12-00111	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Acute myelomonocytic leukaemia						
+Portland	12-00116	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Acute myeloid leukaemia, NOS						
+Portland	12-00123	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Acute myeloid leukaemia, NOS						
+Portland	12-00125	BEAT-AML	HISPANIC	Female	White	Deceased	Therapy-related myeloid neoplasms						
+Portland	12-00127	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Acute myeloid leukaemia, NOS						
+Portland	12-00145	BEAT-AML	HISPANIC	Male	White	Alive	AML without maturation						
+Portland	12-00154	BEAT-AML											
+Portland	Control	BEAT-AML											
+Portland													
+Portland		EGAD00001000842		Male									
+Portland	ERR016048	1000Genomes		Male									
+Portland	ERR016115	1000Genomes		Male									
+Portland	ERR016117	1000Genomes		Male									
+Portland	SRR816285	1000Genomes		Male									
+Portland	SRR816286	1000Genomes		Male									
+Portland	ERR271650	1000Genomes		Male									
+Portland	ERR250683	1000Genomes		Male									
+Portland	ERR250684	1000Genomes		Male									
+Portland	PD7446	EGAD00001000263		male									
+Portland	PD7447	EGAD00001000263		male									
+Portland	PD13395	EGAD00001000892		male									
+Portland	PD13397	EGAD00001000892		male									
+Portland	PD13399	EGAD00001000892		male									
+Portland	PD13401	EGAD00001000892		male									
+Portland	PD13403	EGAD00001000892		male									
+Portland	PD13406	EGAD00001000892		male									
+Portland	PD13407	EGAD00001000892		male									
+Portland	PD13408	EGAD00001000892		male									
+Portland	PD13410	EGAD00001000892		male									
+ThirdSite	12-00156	BEAT-AML	NON-HISPANIC	Female	White		Acute myeloid leukaemia, NOS						
+ThirdSite	12-00161	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Acute myelomonocytic leukaemia						
+ThirdSite	12-00165	BEAT-AML											
+ThirdSite	12-00182	BEAT-AML											
+ThirdSite	12-00250	BEAT-AML					Acute myeloid leukaemia, NOS						
+ThirdSite	12-00269	BEAT-AML	NON-HISPANIC	Female	White	Alive	Acute promyelocytic leukaemia with t(15;17)(q22;q12); PML-RARA						
+ThirdSite	12-00288	BEAT-AML		Female									
+ThirdSite	12-00298	BEAT-AML	NON-HISPANIC	Female	White	Alive	AML with t(9;11)(p22;q23); MLLT3-MLL						
+ThirdSite	12-00343	BEAT-AML											
+ThirdSite	12-00374	BEAT-AML	NON-HISPANIC	Male	White	Deceased							

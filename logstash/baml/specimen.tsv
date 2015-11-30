@@ -1,4 +1,4 @@
-sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	malignancyId	specimenType	tumorNormal	cellConcentration	cellViability	collectionDate	specimenDiagnosis	specimenSpecificDiagnosis
+specimenId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	malignancyId	specimenType	tumorNormal	cellConcentration	cellViability	collectionDate	specimenDiagnosis	specimenSpecificDiagnosis
 04-00243	1880	PHI			PHI	PHI	PHI			1352	Peripheral Blood				10/18/2004	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
 04-00274	1881	PHI			PHI	PHI	PHI			1353	Bone Marrow Aspirate				11/18/2004	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
 05-00100	1882	PHI			PHI	PHI	PHI			1354	Peripheral Blood				4/28/2005	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
