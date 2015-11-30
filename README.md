@@ -135,3 +135,7 @@ Mapping
 UI alternatives
   https://github.com/OlegKunitsyn/elasticsearch-browser
   http://stackoverflow.com/questions/29602467/can-i-change-top-menu-bar-and-remove-some-options-in-kibana-4
+
+Kibana notes
+  http://www.codeproject.com/Articles/986186/Reviewing-Kibana-s-client-side-code
+    

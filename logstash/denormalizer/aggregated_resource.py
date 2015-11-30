@@ -12,7 +12,7 @@ es.indices.delete(index='aggregated-resource', ignore=[400, 404])
 print("dropped aggregated-resource index")
 
 # for each search, get all the data
-MAX_RECORDS=99999999
+MAX_RECORDS=10000
 
 count = 0
 # get all individuals
