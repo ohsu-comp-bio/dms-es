@@ -121,6 +121,8 @@ $ docker run  --add-host elasticsearch:$(docker-machine ip default)   -v $(pwd):
 ```
 
 ### visualization
+[Demo](http://bit.ly/1XpWN7T) 
+
 ![image](https://cloud.githubusercontent.com/assets/47808/11023573/9acaf5ce-8631-11e5-8297-42ddd015f5bb.png)
 
 ### notes
@@ -138,4 +140,3 @@ UI alternatives
 
 Kibana notes
   http://www.codeproject.com/Articles/986186/Reviewing-Kibana-s-client-side-code
-    
