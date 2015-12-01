@@ -1,4 +1,4 @@
-datasetId	sampleId	type	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	malignancyId	specimenType	tumorNormal	cellConcentration	cellViability	collectionDate	specimenDiagnosis	specimenSpecificDiagnosis
+datasetId	sampleId	datasetType	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	malignancyId	specimenType	tumorNormal	cellConcentration	cellViability	collectionDate	specimenDiagnosis	specimenSpecificDiagnosis
 1	13-00237	WGS	1355	PHI			PHI	PHI	PHI			1057	Bone Marrow Aspirate	T	10400000	93.9	6/27/2013	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Chronic myelomonocytic leukaemia
 2	13-00247	WGS	1365	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	1058	Peripheral Blood	T	1550000	93.90	7/2/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with t(8;21)(q22;q22); RUNX1-RUNX1T1
 3	13-00281	WGS	1399	PHI			PHI	PHI	PHI			1087	Peripheral Blood	T	6580000	97.6	7/23/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes

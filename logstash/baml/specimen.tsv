@@ -1,4 +1,4 @@
-sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	malignancyId	specimenType	tumorNormal	cellConcentration	cellViability	collectionDate	specimenDiagnosis	specimenSpecificDiagnosis
+specimenId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	malignancyId	specimenType	tumorNormal	cellConcentration	cellViability	collectionDate	specimenDiagnosis	specimenSpecificDiagnosis
 04-00243	1880	PHI			PHI	PHI	PHI			1352	Peripheral Blood				10/18/2004	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
 04-00274	1881	PHI			PHI	PHI	PHI			1353	Bone Marrow Aspirate				11/18/2004	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
 05-00100	1882	PHI			PHI	PHI	PHI			1354	Peripheral Blood				4/28/2005	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
@@ -855,7 +855,7 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 12-00125	789	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	Asian	Alive	695	Bone Marrow Aspirate		22000000	90	5/7/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Therapy-related myeloid neoplasms
 12-00126	790	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	576	Bone Marrow Aspirate		5520000	97.8	5/7/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
 12-00127	791	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	696	Leukapheresis	T	150000000	93	5/10/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with mutated NPM1
-12-00128	792	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	696	Bone Marrow Aspirate		N/A	N/A	5/10/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with mutated NPM1
+12-00128	792	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	696	Bone Marrow Aspirate				5/10/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with mutated NPM1
 12-00129	796	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	698	Peripheral Blood		19800000	99	5/10/2012	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 12-00130	795	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	520	Peripheral Blood		70300000	99.3	5/10/2012	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 12-00131	794	PHI			PHI	PHI	PHI			553	Peripheral Blood		79200000	99.5	5/10/2012	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
@@ -872,7 +872,7 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 12-00146	811	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	709	Peripheral Blood		34400000	98	5/31/2012	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 12-00147	810	PHI	HISPANIC	Female	PHI	PHI	PHI	Multiracial	Alive	708	Bone Marrow Aspirate		11000000	94.1	5/31/2012	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Chronic myelomonocytic leukaemia
 12-00148	812	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	633	Peripheral Blood		8300000	96.8	6/1/2012	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma with hypodiploidy (hypodiploid ALL)
-12-00149	813	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	710	Bone Marrow Aspirate		24400000	90%	6/4/2012	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1
+12-00149	813	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	710	Bone Marrow Aspirate		24400000	90	6/4/2012	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1
 12-00150	814	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	711	Peripheral Blood		9020000	88.1	6/4/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
 12-00151	817	PHI	HISPANIC	Male	PHI	PHI	PHI	White	Alive	714	Peripheral Blood		45200000	99.1	6/5/2012	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 12-00152	818	PHI			PHI	PHI	PHI			668	Peripheral Blood		39500000	97.6	6/5/2012	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
@@ -938,9 +938,9 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 12-00218	882	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	Black	Alive	759	Bone Marrow Aspirate		243000	74.8	8/3/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute promyelocytic leukaemia with t(15;17)(q22;q12); PML-RARA
 12-00219	883	PHI			PHI	PHI	PHI			561	Bone Marrow Aspirate		14100000	92.6	8/6/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myelomonocytic leukaemia
 12-00220	884	PHI	HISPANIC	Female	PHI	PHI	PHI	White	Alive	561	Peripheral Blood		26800000	94.5	8/6/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myelomonocytic leukaemia
-12-00221	885	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	Asian	Alive	760	Peripheral Blood		15700000	97%	8/6/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
-12-00222	886	PHI			PHI	PHI	PHI			761	Peripheral Blood		94000000	94%	8/6/2012	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
-12-00223	887	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White		762	Peripheral Blood		120000000	95%	8/6/2012	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
+12-00221	885	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	Asian	Alive	760	Peripheral Blood		15700000	97	8/6/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
+12-00222	886	PHI			PHI	PHI	PHI			761	Peripheral Blood		94000000	94	8/6/2012	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
+12-00223	887	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White		762	Peripheral Blood		120000000	95	8/6/2012	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 12-00224	888									557	Bone Marrow Aspirate		2790000	99.4	8/8/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
 12-00225	889	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	2021	Leukapheresis		37700000	91.5	8/9/2012	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma with t(9;22)(q34;q11.2); BCR-ABL1
 12-00226	890	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	764	Bone Marrow Aspirate		298000	84	8/8/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with mutated NPM1
@@ -950,7 +950,7 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 12-00230	894	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	768	Peripheral Blood		19800000	97.9	8/13/2012	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Chronic myelomonocytic leukaemia
 12-00231	895									705	Bone Marrow Aspirate				8/14/2012	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma with hyperdiploidy
 12-00232	900	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Deceased	772	Peripheral Blood		45700000	99.6	8/15/2012	MATURE B-CELL NEOPLASMS	Mantle cell lymphoma
-12-00233	896	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	770	Peripheral Blood		6280000	96.90%	8/15/2012	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
+12-00233	896	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	770	Peripheral Blood		6280000	96.9	8/15/2012	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
 12-00234	899	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	American Indian	Alive	561	Peripheral Blood				8/16/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myelomonocytic leukaemia
 12-00235	898									771	Peripheral Blood		5740000	93.93	8/16/2012	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Chronic myelomonocytic leukaemia
 12-00236	901	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	773	Peripheral Blood		27400000	99	8/16/2012	MATURE T-CELL AND NK-CELL NEOPLASMS	T-cell prolymphocytic leukaemia
@@ -997,12 +997,12 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 12-00277	942	PHI			PHI	PHI	PHI			789	Peripheral Blood		12300000	86.7	9/14/2012	MATURE B-CELL NEOPLASMS	Mantle cell lymphoma
 12-00278	945	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	804	Bone Marrow Aspirate		359000	80.7	9/14/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute promyelocytic leukaemia with t(15;17)(q22;q12); PML-RARA
 12-00279	943	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	777	Peripheral Blood				9/17/2012	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
-12-00280	946	PHI		Male	PHI	PHI	PHI			805	Peripheral Blood		163000000	97%	9/17/2012	MYELOPROLIFERATIVE NEOPLASMS	Chronic neutrophilic leukaemia
-12-00281	947	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	Multiracial	Alive	706	Peripheral Blood		1900000	84%	9/18/2012	MYELOPROLIFERATIVE NEOPLASMS	Myeloproliferative neoplasm, unclassifiable
+12-00280	946	PHI		Male	PHI	PHI	PHI			805	Peripheral Blood		163000000	97	9/17/2012	MYELOPROLIFERATIVE NEOPLASMS	Chronic neutrophilic leukaemia
+12-00281	947	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	Multiracial	Alive	706	Peripheral Blood		1900000	84	9/18/2012	MYELOPROLIFERATIVE NEOPLASMS	Myeloproliferative neoplasm, unclassifiable
 12-00282	948	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	641	Peripheral Blood		85200000	98.5	9/20/2012	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
-12-00283	949	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	806	Bone Marrow Aspirate		6000000	95%	9/20/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
+12-00283	949	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	806	Bone Marrow Aspirate		6000000	95	9/20/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
 12-00284	950	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	779	Peripheral Blood		7050000	95.8	9/24/2012	MATURE B-CELL NEOPLASMS	Mantle cell lymphoma
-12-00285	951	PHI		Male	PHI	PHI	PHI			807	Bone Marrow Aspirate		55000000	82%	9/24/2012	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma witht(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)
+12-00285	951	PHI		Male	PHI	PHI	PHI			807	Bone Marrow Aspirate		55000000	82	9/24/2012	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma witht(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)
 12-00286	952	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	808	Peripheral Blood		17300000	97.2	9/24/2012	MATURE B-CELL NEOPLASMS	Plasma cell myeloma
 12-00287	954	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	810	Bone Marrow Aspirate		13000000	91	9/24/2012	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma, NOS
 12-00288	953	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	809	Peripheral Blood		10500000	70.4	9/23/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
@@ -1068,7 +1068,7 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 12-00348	1014	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	698	Peripheral Blood				11/15/2012	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 12-00349	1015	PHI	HISPANIC	Female	PHI	PHI	PHI	White	Deceased	859	Peripheral Blood		81900000	96.3	11/15/2012	MYELOPROLIFERATIVE NEOPLASMS	Chronic neutrophilic leukaemia
 12-00350	1016	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	860	Bone Marrow Aspirate		13500000	98.5	11/16/2012	MATURE B-CELL NEOPLASMS	Diffuse large B-cell lymphoma (DLBCL), NOS
-12-00351	1017	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	861	Bone Marrow Aspirate		10000000	92%	11/19/2012	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma, NOS
+12-00351	1017	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	861	Bone Marrow Aspirate		10000000	92	11/19/2012	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma, NOS
 12-00352	1018	PHI		Male	PHI	PHI	PHI			741	Peripheral Blood		15300000	97.5	11/21/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
 12-00353	1019	PHI		Female	PHI	PHI	PHI			862	Peripheral Blood		24000000	96.5	11/21/2012	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Atypical chronic myeloid leukaemia, BCR-ABL1 negative
 12-00354	1020	PHI		Male	PHI	PHI	PHI			863	Peripheral Blood		38000000	99.7	11/21/2012	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
@@ -1169,7 +1169,7 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 13-00025	1132	PHI			PHI	PHI	PHI			912	Peripheral Blood		11600000	99	1/17/2013	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 13-00026	1133	PHI		Male	PHI	PHI	PHI			913	Peripheral Blood		25700000	97.4	1/16/2013	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 13-00027	1134	PHI	HISPANIC	Male	PHI	PHI	PHI	White	Alive	914	Peripheral Blood		6000000	99.1	1/22/2013	MYELOPROLIFERATIVE NEOPLASMS	Polycythaemia vera
-13-00028	1135	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	916	Bone Marrow Aspirate		34400000	95.5%	1/22/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myelomonocytic leukaemia
+13-00028	1135	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	916	Bone Marrow Aspirate		34400000	95.5	1/22/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myelomonocytic leukaemia
 13-00029	1136	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	915	Peripheral Blood				1/23/2013	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
 13-00030	1137	PHI		Male	PHI	PHI	PHI			917	Bone Marrow Aspirate		1180000	93	1/24/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
 13-00031	1138	PHI		Female	PHI	PHI	PHI			918	Xenograft - Spleen		6390000	99.3	1/24/2013	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma with hypodiploidy (hypodiploid ALL)
@@ -1418,12 +1418,12 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 13-00281	1399	PHI			PHI	PHI	PHI			1087	Peripheral Blood	T	6580000	97.6	7/23/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
 13-00282	1400	PHI	HISPANIC	Male	PHI	PHI	PHI	Multiracial	Alive	1088	Peripheral Blood		21400000	94.3	7/23/2013	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Atypical chronic myeloid leukaemia, BCR-ABL1 negative
 13-00283	1403	PHI		Female	PHI	PHI	PHI			1090	Bone Marrow Aspirate		2290000	96.7	7/24/2013	PRECURSOR LYMPHOID NEOPLASMS	T lymphoblastic leukaemia/lymphoma
-13-00284	1405	PHI		Male	PHI	PHI	PHI			1091	Peripheral Blood		60000000	95.8%	7/25/2013	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
+13-00284	1405	PHI		Male	PHI	PHI	PHI			1091	Peripheral Blood		60000000	95.8	7/25/2013	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 13-00285	1406	PHI		Male	PHI	PHI	PHI			1092	Peripheral Blood		62900000	97.4	7/25/2013	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 13-00286	1407	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	1093	Bone Marrow Aspirate	T	121000000	95.7	7/29/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with mutated NPM1
 13-00287	1409	PHI	NON-HISPANIC	Female	PHI	PHI	PHI	White	Alive	1087	Skin Biopsy				7/23/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
-13-00288	1410	PHI	HISPANIC	Male	PHI	PHI	PHI	White		1028	Peripheral Blood		8680000	91.2%	7/30/2013	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
-13-00289	1411	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	1094	Bone Marrow Aspirate		500000	90.8%	7/30/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Therapy-related myeloid neoplasms
+13-00288	1410	PHI	HISPANIC	Male	PHI	PHI	PHI	White		1028	Peripheral Blood		8680000	91.2	7/30/2013	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
+13-00289	1411	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	1094	Bone Marrow Aspirate		500000	90.8	7/30/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Therapy-related myeloid neoplasms
 13-00290	1412	PHI		Male	PHI	PHI	PHI			1095	Peripheral Blood		40000000	98	7/31/2013	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma, NOS
 13-00291	1413	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	1096	Peripheral Blood		25000000	82	7/29/2013	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Atypical chronic myeloid leukaemia, BCR-ABL1 negative
 13-00292	1414	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	1097	Bone Marrow Aspirate		25000000	96.8	7/31/2013	PRECURSOR LYMPHOID NEOPLASMS	B lymphoblastic leukaemia/lymphoma with hypodiploidy (hypodiploid ALL)
@@ -1753,7 +1753,7 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 13-00635	1817	PHI	HISPANIC	Female	PHI	PHI	PHI	White	Alive	1325	Skin Biopsy				12/18/2013	MYELODYSPLASTIC SYNDROMES	
 13-00636	1819	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Deceased	50	Bone Marrow Aspirate		14400000	96.9	12/18/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with t(6;9)(p23;q34); DEK-NUP214
 13-00637	1818	PHI		Male	PHI	PHI	PHI			1325	Bone Marrow Aspirate		1570000	89.4	12/18/2013	MYELODYSPLASTIC SYNDROMES	
-13-00638	1828	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	1329	Peripheral Blood		too low to count 		12/18/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
+13-00638	1828	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	1329	Peripheral Blood				12/18/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
 13-00639	1829	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	White	Alive	1329	Bone Marrow Aspirate		5360000	85.8	12/18/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
 13-00640	1830	PHI			PHI	PHI	PHI			1179	Bone Marrow Aspirate		2920000	69.3	12/18/2013	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
 13-00641	1822	PHI	NON-HISPANIC	Male	PHI	PHI	PHI	Black	Alive	1326	Peripheral Blood		11500000	94.9	12/18/2013	MYELOPROLIFERATIVE NEOPLASMS	Chronic neutrophilic leukaemia
@@ -2178,7 +2178,7 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 14-00398	2296									1582	Bone Marrow Aspirate		16700000	98	5/23/2014	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Juvenile myelomonocytic leukaemia
 14-00399	2297									1583	Peripheral Blood		48400000	98.2	5/22/2014		
 14-00400	2298									1584	Peripheral Blood		10000000	99.1	5/23/2014	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Atypical chronic myeloid leukaemia, BCR-ABL1 negative
-14-00401	2299									1585	Bone Marrow Aspirate		??8580000	97.8	5/23/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
+14-00401	2299									1585	Bone Marrow Aspirate			97.8	5/23/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
 14-00402	2302									1585	Skin Biopsy				5/23/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
 14-00403	2318									1593	Peripheral Blood		11300000	92.2	5/27/2014	MYELOPROLIFERATIVE NEOPLASMS	Primary myelofibrosis
 14-00404	2304									1586	Bone Marrow Aspirate	T	3220000	97	5/27/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myelomonocytic leukaemia
@@ -2411,7 +2411,7 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 14-00638	2567									1626	Peripheral Blood		37200000	92.10	9/9/2014	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 14-00639	2568									17	Peripheral Blood		6180000	92.5	9/9/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with mutated NPM1
 14-00640	2569									17	Peripheral Blood		13700000	89.4	9/9/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with mutated NPM1
-14-00641	2573									1708	Peripheral Blood		12400000	99%	9/11/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic neutrophilic leukaemia
+14-00641	2573									1708	Peripheral Blood		12400000	99	9/11/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic neutrophilic leukaemia
 14-00642	2604									1707	Skin Biopsy				9/12/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with t(8;21)(q22;q22); RUNX1-RUNX1T1
 14-00643	2572									1707	Bone Marrow Aspirate		9090000	92.5	9/12/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with t(8;21)(q22;q22); RUNX1-RUNX1T1
 14-00644	2574									1709	Peripheral Blood		8660000	94.8	9/15/2014	ACUTE LEUKAEMIAS OF AMBIGUOUS LINEAGE	Acute monoblastic and monocytic leukaemia 
@@ -2423,18 +2423,18 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 14-00650	2578									1712	Skin Biopsy				9/15/2014		
 14-00651	2585									207	Bone Marrow Aspirate		2980000	92.1	9/18/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
 14-00652	2602									1724	Peripheral Blood				9/17/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
-14-00653	2587									1674	Peripheral Blood		15100000	97.50%	9/23/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic neutrophilic leukaemia
+14-00653	2587									1674	Peripheral Blood		15100000	97.5	9/23/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic neutrophilic leukaemia
 14-00654	2593									1719	Cell Pellet				9/18/2014		
 14-00655	2594									1720	Cell Pellet				9/18/2014		
 14-00656	2595									1721	Cell Pellet				9/18/2014		
 14-00657	2588									1715	Peripheral Blood		11400000	95.20	9/23/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
-14-00658	2589									1716	Bone Marrow Aspirate		10300000	96.80%	9/23/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
-14-00659	2590									1716	Peripheral Blood		3060000	97.50%	9/23/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
-14-00660	2591									1717	Peripheral Blood		5290000	95.60%	9/23/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
-14-00661	2592									1718	Peripheral Blood		6020000	89.90%	9/23/2014	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Chronic myelomonocytic leukaemia
+14-00658	2589									1716	Bone Marrow Aspirate		10300000	96.8	9/23/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
+14-00659	2590									1716	Peripheral Blood		3060000	97.5	9/23/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
+14-00660	2591									1717	Peripheral Blood		5290000	95.6	9/23/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
+14-00661	2592									1718	Peripheral Blood		6020000	89.9	9/23/2014	MYELODYSPLASTIC/MYELOPROLIFERATIVE NEOPLASMS	Chronic myelomonocytic leukaemia
 14-00662	2598									554	Peripheral Blood		75800000	95.20	9/25/2014	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 14-00663	2596									1722	Skin Biopsy				9/24/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
-14-00664	2597									1722	Bone Marrow Aspirate		676000	76.20%	9/24/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
+14-00664	2597									1722	Bone Marrow Aspirate		676000	76.2	9/24/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
 14-00665	2599									1691	Skin Biopsy				9/25/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with maturation
 14-00666	2600									1723	Skin Biopsy				9/25/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
 14-00667	2601									1723	Bone Marrow Aspirate				9/25/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
@@ -2525,13 +2525,13 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 14-00761	2691									1770	Peripheral Blood		9090000	89.5	11/14/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
 14-00762	2692									1770	Skin Biopsy				11/14/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with myelodysplasia-related changes
 14-00763	2689									1755	Skin Biopsy				11/12/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with mutated NPM1
-14-00764	2701									1775	Peripheral Blood		4000000	93.40%	11/17/2014	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
-14-00765	2702									1776	Bone Marrow Aspirate		6850000	98.50%	11/17/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
+14-00764	2701									1775	Peripheral Blood		4000000	93.4	11/17/2014	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
+14-00765	2702									1776	Bone Marrow Aspirate		6850000	98.5	11/17/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	
 14-00766	2707									1782	Peripheral Blood		23500000	89.60	11/18/2014	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
-14-00767	2703									1777	Xenograft - Bone Marrow		1780000	93.0%	11/18/2014	PRECURSOR LYMPHOID NEOPLASMS	
-14-00768	2704									1778	Peripheral Blood		8630000	84.5%	11/18/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
-14-00769	2705									1779	Bone Marrow Aspirate		8480000	88.6%	11/18/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
-14-00770	2708									1778	Bone Marrow Aspirate		11600000	89.0%	11/18/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
+14-00767	2703									1777	Xenograft - Bone Marrow		1780000	93	11/18/2014	PRECURSOR LYMPHOID NEOPLASMS	
+14-00768	2704									1778	Peripheral Blood		8630000	84.5	11/18/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
+14-00769	2705									1779	Bone Marrow Aspirate		8480000	88.6	11/18/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
+14-00770	2708									1778	Bone Marrow Aspirate		11600000	89	11/18/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
 14-00771	2709									1674	Peripheral Blood		29700000	96.3	11/19/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic neutrophilic leukaemia
 14-00772	2710									1684	Peripheral Blood				11/20/2014	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
 14-00773	2711									1783	Peripheral Blood		1910000	93.20	11/19/2014	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	AML with minimal differentiation
@@ -2681,16 +2681,16 @@ sampleId	patientId	dob	ethnicity	gender	firstName	lastName	mrn	race	vitalStatus	
 15-00014	2880									1868	Bone Marrow Aspirate		9820000	93.6	1/6/2015	MYELODYSPLASTIC SYNDROMES	Myelodysplastic syndrome, unclassifiable
 15-00015	2881									1868	Skin Biopsy				1/6/2015	MYELODYSPLASTIC SYNDROMES	Myelodysplastic syndrome, unclassifiable
 15-00016	2879									1867	Bone Marrow Aspirate		22700000	98.8	1/8/2015	PRECURSOR LYMPHOID NEOPLASMS	B-cell prolymphocytic leukaemia
-15-00017	2815									1828	Bone Marrow Aspirate		2610000	76.7%	1/12/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
-15-00018	2816									1828	Peripheral Blood		4660000	91.0%	1/12/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
+15-00017	2815									1828	Bone Marrow Aspirate		2610000	76.7	1/12/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
+15-00018	2816									1828	Peripheral Blood		4660000	91	1/12/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
 15-00019	2924									1828	Skin Biopsy				1/12/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myeloid leukaemia, NOS
-15-00020	2817									1761	Bone Marrow Aspirate		1540000	85.6%	1/12/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Myeloid leukaemia associated with Down syndrome
+15-00020	2817									1761	Bone Marrow Aspirate		1540000	85.6	1/12/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Myeloid leukaemia associated with Down syndrome
 15-00021	2882									942	Peripheral Blood		33677777	87.80	1/13/2015	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 15-00022	2883									1741	Peripheral Blood		29500000	90.50	1/13/2015	MATURE B-CELL NEOPLASMS	Chronic lymphocytic leukaemia/small lymphocytic lymphoma
 15-00023	2866									1858	Peripheral Blood				1/15/2015	MYELOPROLIFERATIVE NEOPLASMS	Chronic myelogenous leukaemia, BCR-ABL1 positive
-15-00024	2868									1859	Peripheral Blood		4280000	97.2%	1/15/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myelomonocytic leukaemia
-15-00025	2869									1860	Peripheral Blood		9070000	92.1%	1/15/2015	PRECURSOR LYMPHOID NEOPLASMS	
-15-00026	2870									1861	Peripheral Blood		6350000	93.2%	1/15/2015	MATURE B-CELL NEOPLASMS	
+15-00024	2868									1859	Peripheral Blood		4280000	97.2	1/15/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myelomonocytic leukaemia
+15-00025	2869									1860	Peripheral Blood		9070000	92.1	1/15/2015	PRECURSOR LYMPHOID NEOPLASMS	
+15-00026	2870									1861	Peripheral Blood		6350000	93.2	1/15/2015	MATURE B-CELL NEOPLASMS	
 15-00027	2871									1859	Bone Marrow Aspirate		13300000	96.4	1/16/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myelomonocytic leukaemia
 15-00028	2872									1859	Skin Biopsy				1/16/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	Acute myelomonocytic leukaemia
 15-00029	2873									1862	Bone Marrow Aspirate		20700000	97.1	1/16/2015	ACUTE MYELOID LEUKAEMIA (AML) AND RELATED PRECURSOR NEOPLASMS	

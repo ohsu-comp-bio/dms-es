@@ -1,0 +1,1059 @@
+site	specimenId	patientId	project_code	ethnicity	gender	race	vitalStatus	specimenType	disease_state	specific_diagnosis	tumour_staging_system_at_diagnosis	tumour_stage_at_diagnosis	tumour_stage_system	tumour_stage	tumour_grading_system	tumour_grade
+Austin	11-00466	11-00466	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Bone Marrow Aspirate	tumor	Acute myeloid leukaemia, NOS						
+Austin	11-00473	11-00473	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Bone Marrow Aspirate	tumor	AML without maturation						
+Austin	11-00476	11-00476	BEAT-AML	NON-HISPANIC	Male	American Indian	Deceased	Leukapheresis	tumor	Acute myeloid leukaemia, NOS						
+Austin	11-00478	11-00478	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Bone Marrow Aspirate	tumor	Acute myelomonocytic leukaemia						
+Austin	11-00499	11-00499	BEAT-AML					Peripheral Blood	tumor							
+Austin	11-00503	11-00503	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Bone Marrow Aspirate	tumor	Acute myelomonocytic leukaemia						
+Austin	12-00016	12-00016	BEAT-AML	NON-HISPANIC	Female	Asian	Deceased	Peripheral Blood	tumor							
+Austin	12-00032	12-00032	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Peripheral Blood	tumor	Acute myelomonocytic leukaemia						
+Austin	12-00035	12-00035	BEAT-AML	NON-HISPANIC	Female	White	Alive	Bone Marrow Aspirate	tumor	Acute myelomonocytic leukaemia						
+Austin	12-00069	12-00069	BEAT-AML	HISPANIC	Male	Unknown	Deceased	Peripheral Blood	tumor	Acute myeloid leukaemia, NOS						
+Austin	Control	Control	BEAT-AML						normal							
+Austin	SP59269	DO27763	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	III				
+Austin	SP59270	DO27763	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59272	DO27764	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage				WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59271	DO27764	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage					
+Austin	SP59274	DO27765	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	II				
+Austin	SP59276	DO27765	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	II			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59280	DO27767	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59278	DO27767	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	III				
+Austin	SP59282	DO27769	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	III				
+Austin	SP59284	DO27769	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59288	DO27771	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59286	DO27771	MALY-DE		Male		Alive	Normal - blood derived	normal		Murphy Stage	III				
+Austin	SP59292	DO27773	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,N,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59290	DO27773	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,N,E				
+Austin	SP59296	DO27775	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage				WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59294	DO27775	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage					
+Austin	SP59300	DO27777	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	IV			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade ib
+Austin	SP59298	DO27777	MALY-DE		Male		Alive	Normal - blood derived	normal		Murphy Stage	IV				
+Austin	SP59302	DO27779	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	III,N				
+Austin	SP59304	DO27779	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59306	DO27781	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV				
+Austin	SP59308	DO27781	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59310	DO27783	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	III,E				
+Austin	SP59312	DO27783	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59314	DO27785	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,N,S				
+Austin	SP59316	DO27785	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,N,S			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59318	DO27787	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV				
+Austin	SP59320	DO27787	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade IIIa
+Austin	SP59324	DO27789	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	II,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59322	DO27789	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	II,N				
+Austin	SP59326	DO27791	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	I				
+Austin	SP59328	DO27791	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	I			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59332	DO27793	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59330	DO27793	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	III				
+Austin	SP59336	DO27795	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59334	DO27795	MALY-DE		Female		Alive	Normal - blood derived	normal		Murphy Stage	III				
+Austin	SP59340	DO27797	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,N,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59338	DO27797	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,N,E				
+Austin	SP59344	DO27799	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	II			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59342	DO27799	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	II				
+Austin	SP59348	DO27801	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	II,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59346	DO27801	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	II,N				
+Austin	SP59352	DO27803	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59350	DO27803	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,N				
+Austin	SP59356	DO27805	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59354	DO27805	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	III,N				
+Austin	SP59358	DO27807	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	III				
+Austin	SP59360	DO27807	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59362	DO27809	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,E				
+Austin	SP59364	DO27809	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59368	DO27811	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59366	DO27811	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	III				
+Austin	SP59370	DO27813	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	I,N				
+Austin	SP59372	DO27813	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	I,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59374	DO27815	MALY-DE		Female		Alive	Normal - blood derived	normal		Murphy Stage	III				
+Austin	SP59410	DO27833	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	III,N				
+Austin	SP59376	DO27815	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59378	DO27817	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,S,E				
+Austin	SP59380	DO27817	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,S,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade II
+Austin	SP59384	DO27819	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59382	DO27819	MALY-DE		Male		Alive	Normal - blood derived	normal		Murphy Stage	III				
+Austin	SP59388	DO27821	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59386	DO27821	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	III				
+Austin	SP59390	DO27823	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	B-ALL				
+Austin	SP59392	DO27823	MALY-DE		Male		Alive	Primary tumour - blood derived (bone marrow)	tumor		Murphy Stage	B-ALL			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59396	DO27825	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59394	DO27825	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	III				
+Austin	SP59398	DO27827	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	III,N,S,E				
+Austin	SP59400	DO27827	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,N,S,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59404	DO27829	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage	III			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59402	DO27829	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage	III				
+Austin	SP59406	DO27831	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	III,E				
+Austin	SP59408	DO27831	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade IIIa
+Austin	SP59412	DO27833	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59416	DO27835	MALY-DE		Male		Deceased	Primary tumour - lymph node	tumor		Ann Arbor Stage	I,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade II
+Austin	SP59414	DO27835	MALY-DE		Male		Deceased	Normal - blood derived	normal		Ann Arbor Stage	I,N				
+Austin	SP59420	DO27837	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,N,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59418	DO27837	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	III,N,E				
+Austin	SP59422	DO27839	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	III,N				
+Austin	SP59424	DO27839	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59426	DO27841	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	I,E				
+Austin	SP59428	DO27841	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	I,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59432	DO27843	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,N,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59430	DO27843	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,N,E				
+Austin	SP59434	DO27845	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,N,E				
+Austin	SP59436	DO27845	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,N,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade II
+Austin	SP59438	DO27847	MALY-DE		Male		Alive	Normal - bone marrow	normal		Murphy Stage					
+Austin	SP59440	DO27847	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Murphy Stage				WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	
+Austin	SP59442	DO27849	MALY-DE		Male		Deceased	Normal - blood derived	normal		Ann Arbor Stage	III,N				
+Austin	SP59444	DO27849	MALY-DE		Male		Deceased	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade IIIb
+Austin	SP59448	DO27851	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59446	DO27851	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	III,N				
+Austin	SP59450	DO27853	MALY-DE		Male		Alive	Normal - blood derived	normal		Ann Arbor Stage	III,N,S,E				
+Austin	SP59452	DO27853	MALY-DE		Male		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	III,N,S,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59456	DO27855	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,N,S			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59454	DO27855	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,N,S				
+Austin	SP59460	DO27857	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,N,S,E			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	DLBCL grade cb
+Austin	SP59458	DO27857	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,N,S,E				
+Austin	SP59464	DO27859	MALY-DE		Female		Alive	Primary tumour - lymph node	tumor		Ann Arbor Stage	IV,N			WHO-Classification of Tumours of Haematopoietic and Lymphoid Tissues	FL grade I
+Austin	SP59462	DO27859	MALY-DE		Female		Alive	Normal - blood derived	normal		Ann Arbor Stage	IV,N				
+Austin	SP59466	DO27861	MALY-DE		Male		Alive	Normal - other	normal							
+Austin	SP59468	DO27861	MALY-DE		Male		Alive	Normal - other	normal							
+Austin	SP59470	DO27861	MALY-DE		Male		Alive	Normal - other	normal							
+Austin	SP59476	DO27863	MALY-DE		Male		Alive	Normal - other	normal							
+Austin	SP59474	DO27863	MALY-DE		Male		Alive	Normal - other	normal							
+Austin	SP59472	DO27863	MALY-DE		Male		Alive	Normal - other	normal							
+Austin	SP59482	DO27865	MALY-DE		Male		Alive	Normal - other	normal							
+Austin	SP59478	DO27865	MALY-DE		Male		Alive	Normal - other	normal							
+Austin	SP59480	DO27865	MALY-DE		Male		Alive	Normal - other	normal							
+Austin	SP111186	DO50459	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111187	DO50459	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111188	DO50460	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111189	DO50460	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111190	DO50461	BOCA-FR		Male		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111191	DO50461	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111193	DO50462	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111192	DO50462	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111194	DO50463	BOCA-FR					Normal - blood derived	normal							
+Austin	SP111195	DO50463	BOCA-FR					Primary tumour - solid tissue	tumor							
+Austin	SP111197	DO50464	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111196	DO50464	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111199	DO50465	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111198	DO50465	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111201	DO50466	BOCA-FR					Normal - blood derived	normal							
+Austin	SP111203	DO50466	BOCA-FR					Primary tumour - solid tissue	tumor							
+Austin	SP111205	DO50468	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111207	DO50468	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111211	DO50470	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111209	DO50470	BOCA-FR		Female		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111215	DO50472	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111213	DO50472	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111219	DO50474	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111217	DO50474	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111223	DO50476	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111221	DO50476	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111229	DO50479	BOCA-FR					Primary tumour - solid tissue	tumor							
+Austin	SP111227	DO50479	BOCA-FR					Normal - blood derived	normal							
+Austin	SP111232	DO50481	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111231	DO50481	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111234	DO50483	BOCA-FR		Male		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111236	DO50483	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111240	DO50485	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111238	DO50485	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111244	DO50487	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111242	DO50487	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111246	DO50489	BOCA-FR		Male		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111248	DO50489	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111252	DO50491	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111250	DO50491	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111256	DO50493	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111254	DO50493	BOCA-FR		Female		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111258	DO50495	BOCA-FR					Normal - blood derived	normal							
+Austin	SP111260	DO50495	BOCA-FR					Primary tumour - solid tissue	tumor							
+Austin	SP111264	DO50497	BOCA-FR		Male			Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111262	DO50497	BOCA-FR		Male			Normal - blood derived	normal			Metastatic stage				
+Austin	SP111266	DO50499	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111268	DO50499	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111270	DO50501	BOCA-FR		Female		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111272	DO50501	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111274	DO50503	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111276	DO50503	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111280	DO50505	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111278	DO50505	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111282	DO50507	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111284	DO50507	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111288	DO50509	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111286	DO50509	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111292	DO50511	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111290	DO50511	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111296	DO50513	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111294	DO50513	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111300	DO50514	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111298	DO50514	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111302	DO50516	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111303	DO50516	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111307	DO50518	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111305	DO50518	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111309	DO50520	BOCA-FR		Female		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111311	DO50520	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111315	DO50522	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111313	DO50522	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111317	DO50524	BOCA-FR		Male		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111318	DO50524	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111319	DO50526	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111321	DO50526	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111325	DO50528	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111323	DO50528	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111327	DO50530	BOCA-FR		Female		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111329	DO50530	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111331	DO50531	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111333	DO50531	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111335	DO50533	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111337	DO50533	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111339	DO50534	BOCA-FR		Female		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111341	DO50534	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111345	DO50536	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111343	DO50536	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111347	DO50537	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111349	DO50537	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111351	DO50539	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111352	DO50539	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111354	DO50541	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111356	DO50541	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111358	DO50542	BOCA-FR		Male		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111360	DO50542	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111361	DO50543	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111362	DO50543	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111364	DO50544	BOCA-FR		Male		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111366	DO50544	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111370	DO50545	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111368	DO50545	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111372	DO50547	BOCA-FR		Male			Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111374	DO50547	BOCA-FR		Male			Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111376	DO50549	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111377	DO50549	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111379	DO50550	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111610	DO50638	BOCA-FR					Primary tumour - solid tissue	tumor							
+Austin	SP111378	DO50550	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111380	DO50551	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111381	DO50551	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111384	DO50553	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111383	DO50553	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111386	DO50555	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111388	DO50555	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111390	DO50557	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111392	DO50557	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111394	DO50559	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111396	DO50559	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111398	DO50561	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111400	DO50561	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111401	DO50562	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111402	DO50562	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111404	DO50564	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111405	DO50564	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111407	DO50565	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111409	DO50565	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111412	DO50567	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111410	DO50567	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111415	DO50568	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111413	DO50568	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111417	DO50570	BOCA-FR		Male		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111419	DO50570	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111421	DO50571	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111423	DO50571	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111426	DO50572	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111425	DO50572	BOCA-FR		Female		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111428	DO50573	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111429	DO50573	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111433	DO50575	BOCA-FR					Primary tumour - solid tissue	tumor							
+Austin	SP111431	DO50575	BOCA-FR					Normal - blood derived	normal							
+Austin	SP111437	DO50577	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111435	DO50577	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111440	DO50579	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111443	DO50579	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111450	DO50581	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111447	DO50581	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111456	DO50584	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111453	DO50584	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111460	DO50586	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111463	DO50586	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111470	DO50588	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111466	DO50588	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111477	DO50591	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111473	DO50591	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111485	DO50594	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111481	DO50594	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111493	DO50597	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111489	DO50597	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111500	DO50599	BOCA-FR					Primary tumour - solid tissue	tumor							
+Austin	SP111497	DO50599	BOCA-FR					Normal - blood derived	normal							
+Austin	SP111504	DO50601	BOCA-FR		Male		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111508	DO50601	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111511	DO50604	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111515	DO50604	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111522	DO50607	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111519	DO50607	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111525	DO50609	BOCA-FR		Female			Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111529	DO50609	BOCA-FR		Female			Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111532	DO50612	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111535	DO50612	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111539	DO50615	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111543	DO50615	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111551	DO50618	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111547	DO50618	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111559	DO50621	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111555	DO50621	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111563	DO50623	BOCA-FR		Male		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111566	DO50623	BOCA-FR		Male		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111573	DO50625	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111569	DO50625	BOCA-FR		Male		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111581	DO50628	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111577	DO50628	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111587	DO50630	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Metastatic stage				
+Austin	SP111585	DO50630	BOCA-FR		Male		Alive	Normal - blood derived	normal			Metastatic stage				
+Austin	SP111591	DO50633	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111595	DO50633	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111602	DO50636	BOCA-FR		Female		Deceased	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111599	DO50636	BOCA-FR		Female		Deceased	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111607	DO50638	BOCA-FR					Normal - blood derived	normal							
+Austin	SP111617	DO50641	BOCA-FR		Female		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111614	DO50641	BOCA-FR		Female		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111620	DO50644	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP111623	DO50644	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111632	DO50646	BOCA-FR		Male		Alive	Primary tumour - solid tissue	tumor			Non-metastatic stage				
+Austin	SP111628	DO50646	BOCA-FR		Male		Alive	Normal - blood derived	normal			Non-metastatic stage				
+Austin	SP102716	DO46826	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	SP102717	DO46826	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	SP102721	DO46827	RECA-EU		Male		Deceased	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3bNXMX	Fuhrman	4
+Austin	SP102719	DO46827	RECA-EU		Male		Deceased	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3bNXMX	Fuhrman	4
+Austin	SP102723	DO46827	RECA-EU		Male		Deceased	Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3bNXMX	Fuhrman	4
+Austin	SP102718	DO46827	RECA-EU		Male		Deceased	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3bNXMX	Fuhrman	4
+Austin	SP102727	DO46828	RECA-EU		Male		Deceased	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3bNXM1	Fuhrman	4
+Austin	SP102725	DO46828	RECA-EU		Male		Deceased	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3bNXM1	Fuhrman	4
+Austin	SP102729	DO46828	RECA-EU		Male		Deceased	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3bNXM1	Fuhrman	4
+Austin	SP102731	DO46828	RECA-EU		Male		Deceased	Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3bNXM1	Fuhrman	4
+Austin	SP102739	DO46830	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	SP102733	DO46830	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	SP102737	DO46830	RECA-EU		Female		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	SP102735	DO46830	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	SP102741	DO46832	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)			
+Austin	SP102745	DO46832	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)			
+Austin	SP102743	DO46832	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)			
+Austin	SP102751	DO46834	RECA-EU		Female			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP102747	DO46834	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP102753	DO46834	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP102749	DO46834	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP102755	DO46836	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)		Fuhrman	3
+Austin	SP102757	DO46836	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)		Fuhrman	3
+Austin	SP102762	DO46838	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N1M0	TNM 2010 (7th edition)	T1bN0MX	Fuhrman	2
+Austin	SP102765	DO46838	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N1M0	TNM 2010 (7th edition)	T1bN0MX	Fuhrman	2
+Austin	SP102759	DO46838	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N1M0	TNM 2010 (7th edition)	T1bN0MX	Fuhrman	2
+Austin	SP102768	DO46838	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N1M0	TNM 2010 (7th edition)	T1bN0MX	Fuhrman	2
+Austin	SP102780	DO46841	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102771	DO46841	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102774	DO46841	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102777	DO46841	RECA-EU		Female		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102792	DO46844	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102789	DO46844	RECA-EU		Female		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102783	DO46844	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102786	DO46844	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102801	DO46847	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T3NXM0	TNM 2010 (7th edition)			2
+Austin	SP102795	DO46847	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3NXM0	TNM 2010 (7th edition)			2
+Austin	SP102798	DO46847	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3NXM0	TNM 2010 (7th edition)			2
+Austin	SP102807	DO46850	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP102804	DO46850	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP102813	DO46850	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP102810	DO46850	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP102819	DO46853	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP102821	DO46853	RECA-EU		Female			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP102816	DO46853	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP102824	DO46853	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP102827	DO46856	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102836	DO46856	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102833	DO46856	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102830	DO46856	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102845	DO46859	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	SP102839	DO46859	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	SP102842	DO46859	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	SP102851	DO46862	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102848	DO46862	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102858	DO46862	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102854	DO46862	RECA-EU		Female		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102861	DO46865	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP102865	DO46865	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP102869	DO46865	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP102877	DO46869	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP102873	DO46869	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP102893	DO46873	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102881	DO46873	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102885	DO46873	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102889	DO46873	RECA-EU		Male		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102901	DO46877	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0MX	Fuhrman	4
+Austin	SP102909	DO46877	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0MX	Fuhrman	4
+Austin	SP102897	DO46877	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0MX	Fuhrman	4
+Austin	SP102905	DO46877	RECA-EU		Male		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0MX	Fuhrman	4
+Austin	SP102917	DO46881	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2bNXMX	Fuhrman	2
+Austin	SP102913	DO46881	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2bNXMX	Fuhrman	2
+Austin	SP102925	DO46885	RECA-EU		Male		Deceased	Normal - blood derived	normal		TNM 2010 (7th edition)	T3N1M1	TNM 2010 (7th edition)	T3aN1MX	Fuhrman	4
+Austin	SP102921	DO46885	RECA-EU		Male		Deceased	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N1M1	TNM 2010 (7th edition)	T3aN1MX	Fuhrman	4
+Austin	SP102941	DO46889	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102937	DO46889	RECA-EU		Male		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102933	DO46889	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102929	DO46889	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP102945	DO46893	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)			2
+Austin	SP102953	DO46893	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)			2
+Austin	SP102949	DO46893	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)			2
+Austin	SP102957	DO46897	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP102961	DO46897	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP102969	DO46901	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP102965	DO46901	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP102981	DO46905	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	4
+Austin	SP102973	DO46905	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	4
+Austin	SP102977	DO46905	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	4
+Austin	SP102985	DO46905	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	4
+Austin	SP102989	DO46909	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102997	DO46909	RECA-EU		Male		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP102993	DO46909	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103001	DO46909	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103013	DO46913	RECA-EU		Female		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103005	DO46913	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103017	DO46913	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103009	DO46913	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103021	DO46917	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	3
+Austin	SP103033	DO46917	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	3
+Austin	SP103025	DO46917	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	3
+Austin	SP103029	DO46917	RECA-EU		Female			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	3
+Austin	SP103037	DO46921	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103041	DO46921	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103049	DO46925	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP103045	DO46925	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP103053	DO46925	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP103057	DO46929	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103061	DO46929	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103065	DO46933	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103077	DO46933	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103069	DO46933	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103073	DO46933	RECA-EU		Male		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103084	DO46937	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T2N1M1	TNM 2010 (7th edition)	T2aN1MX	Fuhrman	2
+Austin	SP103080	DO46937	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N1M1	TNM 2010 (7th edition)	T2aN1MX	Fuhrman	2
+Austin	SP103096	DO46941	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	2
+Austin	SP103088	DO46941	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	2
+Austin	SP103092	DO46941	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	2
+Austin	SP103104	DO46945	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103100	DO46945	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103108	DO46945	RECA-EU		Female		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103112	DO46945	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103116	DO46949	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T4N0M1	TNM 2010 (7th edition)			4
+Austin	SP103124	DO46949	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T4N0M1	TNM 2010 (7th edition)			4
+Austin	SP103120	DO46949	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T4N0M1	TNM 2010 (7th edition)			4
+Austin	SP103136	DO46953	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103128	DO46953	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103132	DO46953	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103152	DO46957	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP103140	DO46957	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP103148	DO46957	RECA-EU		Female			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP103144	DO46957	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP103168	DO46961	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	3
+Austin	SP103160	DO46961	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	3
+Austin	SP103164	DO46961	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	3
+Austin	SP103156	DO46961	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	3
+Austin	SP103181	DO46965	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103176	DO46965	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103180	DO46965	RECA-EU		Male		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103172	DO46965	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103193	DO46969	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	3
+Austin	SP103185	DO46969	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	3
+Austin	SP103189	DO46969	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	3
+Austin	SP103197	DO46973	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T4N0M1	TNM 2010 (7th edition)	T1bN0M1	Fuhrman	2
+Austin	SP103205	DO46973	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T4N0M1	TNM 2010 (7th edition)	T1bN0M1	Fuhrman	2
+Austin	SP103201	DO46973	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T4N0M1	TNM 2010 (7th edition)	T1bN0M1	Fuhrman	2
+Austin	SP103209	DO46973	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T4N0M1	TNM 2010 (7th edition)	T1bN0M1	Fuhrman	2
+Austin	SP103217	DO46977	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	SP103213	DO46977	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	SP103229	DO46980	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	SP103225	DO46980	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	SP103221	DO46980	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	SP103237	DO46984	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP103233	DO46984	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP103241	DO46984	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP103257	DO46988	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103245	DO46988	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103253	DO46988	RECA-EU		Female		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103249	DO46988	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103265	DO46992	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103261	DO46992	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103269	DO46992	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103273	DO46996	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	SP103285	DO46996	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	SP103281	DO46996	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	SP103277	DO46996	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	SP103288	DO47000	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103296	DO47000	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103292	DO47000	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103300	DO47004	RECA-EU		Male		Deceased	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103308	DO47004	RECA-EU		Male		Deceased	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103304	DO47004	RECA-EU		Male		Deceased	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103312	DO47004	RECA-EU		Male		Deceased	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103320	DO47008	RECA-EU		Female			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103316	DO47008	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103328	DO47012	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP103324	DO47012	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP103336	DO47012	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP103332	DO47012	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP103352	DO47016	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP103348	DO47016	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP103340	DO47016	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP103344	DO47016	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP103356	DO47020	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	3
+Austin	SP103364	DO47024	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1bNXMX		2
+Austin	SP103360	DO47024	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1bNXMX		2
+Austin	SP103372	DO47028	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103368	DO47028	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103376	DO47032	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	1
+Austin	SP103380	DO47036	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N1M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	1
+Austin	SP103384	DO47040	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0MX	TNM 2010 (7th edition)	T3bN0M0	Fuhrman	2
+Austin	SP103388	DO47040	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3N0MX	TNM 2010 (7th edition)	T3bN0M0	Fuhrman	2
+Austin	SP103392	DO47044	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103400	DO47048	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103396	DO47048	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103404	DO47048	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103408	DO47052	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103412	DO47052	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103416	DO47056	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)			2
+Austin	SP103420	DO47056	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)			2
+Austin	SP103424	DO47056	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)			2
+Austin	SP103432	DO47060	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP103428	DO47060	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP103440	DO47064	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103436	DO47064	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103452	DO47068	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103444	DO47068	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103448	DO47068	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103455	DO47072	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	SP103459	DO47072	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	SP103463	DO47072	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			2
+Austin	SP103479	DO47076	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103467	DO47076	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103471	DO47076	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103475	DO47076	RECA-EU		Female		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103491	DO47080	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103487	DO47080	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103483	DO47080	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103503	DO47084	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N1M1	TNM 2010 (7th edition)			3
+Austin	SP103495	DO47084	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N1M1	TNM 2010 (7th edition)			3
+Austin	SP103499	DO47084	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N1M1	TNM 2010 (7th edition)			3
+Austin	SP103511	DO47088	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	SP103507	DO47088	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	SP103519	DO47092	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103515	DO47092	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	3
+Austin	SP103523	DO47096	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP103527	DO47096	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP103531	DO47096	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			1
+Austin	SP103535	DO47100	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103539	DO47100	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103543	DO47100	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103551	DO47104	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	SP103547	DO47104	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	SP103563	DO47108	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103555	DO47108	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103559	DO47108	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103571	DO47112	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103567	DO47112	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103575	DO47116	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3cN0M0	Fuhrman	2
+Austin	SP103579	DO47116	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3cN0M0	Fuhrman	2
+Austin	SP103587	DO47120	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			3
+Austin	SP103591	DO47120	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			3
+Austin	SP103583	DO47120	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)			3
+Austin	SP103595	DO47124	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103599	DO47124	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103615	DO47128	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3NXM0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP103611	DO47128	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3NXM0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP103607	DO47128	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3NXM0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP103603	DO47128	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3NXM0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP103627	DO47132	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103619	DO47132	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103623	DO47132	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103631	DO47136	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	3
+Austin	SP103635	DO47136	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	3
+Austin	SP103643	DO47140	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	SP103651	DO47140	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	SP103647	DO47140	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	SP103639	DO47140	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	3
+Austin	SP103655	DO47144	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	SP103661	DO47144	RECA-EU		Female			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	SP103658	DO47144	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	SP103664	DO47144	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	SP103670	DO47147	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	SP103667	DO47147	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	SP103673	DO47150	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103676	DO47150	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103682	DO47153	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103679	DO47153	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103691	DO47156	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103685	DO47156	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103688	DO47156	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)			2
+Austin	SP103694	DO47159	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP103703	DO47159	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP103697	DO47159	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP103700	DO47159	RECA-EU		Female		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bNXMX	Fuhrman	2
+Austin	SP103706	DO47162	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	SP103712	DO47162	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	SP103709	DO47162	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	3
+Austin	SP103718	DO47165	RECA-EU		Female		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2bNXMX	Fuhrman	3
+Austin	SP103715	DO47165	RECA-EU		Female		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2bNXMX	Fuhrman	3
+Austin	SP103721	DO47168	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP103727	DO47168	RECA-EU		Male		Alive	Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP103724	DO47168	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	2
+Austin	SP103733	DO47171	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3NXM1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103739	DO47171	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3NXM1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103736	DO47171	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3NXM1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103730	DO47171	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3NXM1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103745	DO47174	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3NXM1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103751	DO47174	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T3NXM1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103742	DO47174	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3NXM1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103748	DO47174	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3NXM1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103757	DO47177	RECA-EU		Male			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103754	DO47177	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1NXM0	TNM 2010 (7th edition)	T1aNXMX	Fuhrman	2
+Austin	SP103760	DO47180	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2NXM0	TNM 2010 (7th edition)	T2aNXMX	Fuhrman	2
+Austin	SP103763	DO47183	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103766	DO47186	RECA-EU		Female		Deceased	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	SP103769	DO47186	RECA-EU		Female		Deceased	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	SP103775	DO47189	RECA-EU		Male		Alive	Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103772	DO47189	RECA-EU		Male		Alive	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	4
+Austin	SP103778	DO47192	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3bN0M0	Fuhrman	2
+Austin	SP103781	DO47195	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	3
+Austin	SP103784	DO47198	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aN0M0	Fuhrman	2
+Austin	SP103787	DO47201	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103790	DO47204	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103793	DO47207	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103796	DO47207	RECA-EU		Female			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103799	DO47210	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0	Fuhrman	2
+Austin	SP103802	DO47213	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	2
+Austin	SP103805	DO47216	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103808	DO47219	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3bN0M0	Fuhrman	2
+Austin	SP103811	DO47222	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	2
+Austin	SP103814	DO47225	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0MX	Fuhrman	2
+Austin	SP103817	DO47228	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	2
+Austin	SP103820	DO47228	RECA-EU		Female			Normal - tissue adjacent to primary	normal		TNM 2010 (7th edition)	T3N0M0	TNM 2010 (7th edition)	T3aN0M0	Fuhrman	2
+Austin	SP103823	DO47231	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1bN0M0		2
+Austin	SP103829	DO47234	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103826	DO47234	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103832	DO47237	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aN0M0	Fuhrman	3
+Austin	SP103835	DO47237	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T2N0M0	TNM 2010 (7th edition)	T2aN0M0	Fuhrman	3
+Austin	SP103841	DO47240	RECA-EU		Female			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0MX	Fuhrman	1
+Austin	SP103838	DO47240	RECA-EU		Female			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0MX	Fuhrman	1
+Austin	SP103844	DO47243	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T4NXMX	TNM 2010 (7th edition)	T4NXMX	Fuhrman	2
+Austin	SP103847	DO47243	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T4NXMX	TNM 2010 (7th edition)	T4NXMX	Fuhrman	2
+Austin	SP103853	DO47246	RECA-EU		Male			Normal - blood derived	normal		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103850	DO47246	RECA-EU		Male			Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T1N0M0	TNM 2010 (7th edition)	T1aN0M0	Fuhrman	1
+Austin	SP103856	DO47249	RECA-EU		Female		Deceased	Primary tumour - solid tissue	tumor		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	SP103859	DO47249	RECA-EU		Female		Deceased	Normal - blood derived	normal		TNM 2010 (7th edition)	T3N0M1	TNM 2010 (7th edition)	T3aNXMX	Fuhrman	3
+Austin	RK206a		EGAD00001000842		Male			Primary tumour - solid tissue	tumor							
+Austin	RK206b		EGAD00001000842		Male			Normal - blood derived	normal							
+Austin	ERR022065	ERR022065	1000Genomes		Male				normal							
+Austin	ERR022068	ERR022068	1000Genomes		Male				normal							
+Austin	SRR816278	SRR816278	1000Genomes		Male				normal							
+Austin	SRR816279	SRR816279	1000Genomes		Male				normal							
+Austin	ERR022072	ERR022072	1000Genomes		Male				normal							
+Austin	ERR016024	ERR016024	1000Genomes		Male				normal							
+Austin	ERR016027	ERR016027	1000Genomes		Male				normal							
+Austin	ERR016029	ERR016029	1000Genomes		Male				normal							
+Austin	PD7445a	PD7445	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Austin	PD7445b	PD7445	EGAD00001000263		male			Blood	normal							
+Austin	PD7445c	PD7445	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Austin	PD7445d	PD7445	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Austin	PD7445e	PD7445	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Austin	PD7445f	PD7445	EGAD00001000263		male			Prostate	normal							
+Austin	PD12839a	PD12839	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD12839b	PD12839	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13381a	PD13381	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13381b	PD13381	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13382a	PD13382	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13382b	PD13382	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13384a	PD13384	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13384b	PD13384	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13386a	PD13386	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13386b	PD13386	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13387a	PD13387	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13387b	PD13387	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13388a	PD13388	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13388b	PD13388	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13389a	PD13389	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13389b	PD13389	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13392a	PD13392	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13392b	PD13392	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13394a	PD13394	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13394b	PD13394	EGAD00001000892		male			normal - blood	normal							
+Austin	PD7446a	PD7446	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Austin	PD7446c	PD7446	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Austin	PD7446f	PD7446	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Austin	PD7446g	PD7446	EGAD00001000263		male			Prostate	normal							
+Austin	PD7447c	PD7447	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Austin	PD7447e	PD7447	EGAD00001000263		male			Prostate	normal							
+Austin	PD13395a	PD13395	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13395b	PD13395	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13397a	PD13397	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13397b	PD13397	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13399a	PD13399	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13399b	PD13399	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13401b	PD13401	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13403a	PD13403	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13403b	PD13403	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13406a	PD13406	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13406b	PD13406	EGAD00001000892		male			normal - blood	normal							
+Austin	PD13407a	PD13407	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13408a	PD13408	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13410a	PD13410	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Austin	PD13410b	PD13410	EGAD00001000892		male			normal - blood	normal							
+Portland	12-00071	12-00071	BEAT-AML	NON-HISPANIC	Male	White	Alive	Bone Marrow Aspirate	tumor	AML with maturation						
+Portland	12-00085	12-00085	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Peripheral Blood	tumor	Therapy-related myeloid neoplasms						
+Portland	12-00109	12-00109	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Bone Marrow Aspirate	tumor	Acute myelomonocytic leukaemia						
+Portland	12-00111	12-00111	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Peripheral Blood	tumor	Acute myelomonocytic leukaemia						
+Portland	12-00116	12-00116	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Peripheral Blood	tumor	Acute myeloid leukaemia, NOS						
+Portland	12-00123	12-00123	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Leukapheresis	tumor	Acute myeloid leukaemia, NOS						
+Portland	12-00125	12-00125	BEAT-AML	HISPANIC	Female	White	Deceased	Bone Marrow Aspirate	tumor	Therapy-related myeloid neoplasms						
+Portland	12-00127	12-00127	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Leukapheresis	tumor	Acute myeloid leukaemia, NOS						
+Portland	12-00145	12-00145	BEAT-AML	HISPANIC	Male	White	Alive	Bone Marrow Aspirate	tumor	AML without maturation						
+Portland	12-00154	12-00154	BEAT-AML					Peripheral Blood	tumor							
+Portland	Control	Control	BEAT-AML						normal							
+Portland	SP16569							Primary tumour - other	tumor							
+Portland	SP16570							Primary tumour - other	tumor							
+Portland	SP16571							Primary tumour - other	tumor							
+Portland	SP16572							Primary tumour - other	tumor							
+Portland	SP16573							Primary tumour - other	tumor							
+Portland	SP16574							Primary tumour - blood derived (bone marrow)	tumor							
+Portland	SP16576							Primary tumour - other	tumor							
+Portland	SP96970							Normal - other	normal							
+Portland	SP16578							Primary tumour - other	tumor							
+Portland	SP16580							Primary tumour - other	tumor							
+Portland	SP16582							Primary tumour - other	tumor							
+Portland	SP16584							Cell line - derived from tumour	tumor							
+Portland	SP16586				Female			Cell line - derived from tumour	tumor							
+Portland	SP16588							Primary tumour - other	tumor							
+Portland	SP16590							Primary tumour - other	tumor							
+Portland	SP16592							Primary tumour - other	tumor							
+Portland	SP96973							Normal - other	normal							
+Portland	SP16594							Primary tumour - other	tumor							
+Portland	SP96962							Normal - other	normal							
+Portland	SP96964							Normal - other	normal							
+Portland	SP16596							Primary tumour - other	tumor							
+Portland	SP16598							Primary tumour - other	tumor							
+Portland	SP16600							Primary tumour - other	tumor							
+Portland	SP16602							Primary tumour - other	tumor							
+Portland	SP16604							Primary tumour - other	tumor							
+Portland	SP16606							Primary tumour - other	tumor							
+Portland	SP16608							Primary tumour - other	tumor							
+Portland	SP16610							Primary tumour - other	tumor							
+Portland	SP16612							Primary tumour - other	tumor							
+Portland	SP16614							Primary tumour - other	tumor							
+Portland	SP96968							Normal - other	normal							
+Portland	SP96959				Female			Normal - other	normal							
+Portland	SP16616				Female			Primary tumour - other	tumor							
+Portland	SP96961							Normal - other	normal							
+Portland	SP16618							Primary tumour - other	tumor							
+Portland	SP16620							Primary tumour - other	tumor							
+Portland	SP16622							Primary tumour - other	tumor							
+Portland	SP16624							Primary tumour - other	tumor							
+Portland	SP16626				Male			Cell line - derived from tumour	tumor							
+Portland	SP96956				Female			Normal - solid tissue	normal							
+Portland	SP16628				Female			Primary tumour - solid tissue	tumor							
+Portland	SP16630				Female			Cell line - derived from tumour	tumor							
+Portland	SP16632							Primary tumour - other	tumor							
+Portland	SP16634							Primary tumour - other	tumor							
+Portland	SP16636							Primary tumour - other	tumor							
+Portland	SP16638							Primary tumour - other	tumor							
+Portland	SP16640							Primary tumour - other	tumor							
+Portland	SP16642							Primary tumour - other	tumor							
+Portland	SP16644							Primary tumour - other	tumor							
+Portland	SP16646							Primary tumour - other	tumor							
+Portland	SP16648							Primary tumour - other	tumor							
+Portland	SP16650							Primary tumour - other	tumor							
+Portland	SP16652							Primary tumour - other	tumor							
+Portland	SP96967				Female			Normal - other	normal							
+Portland	SP16654				Female			Primary tumour - other	tumor							
+Portland	SP16656							Primary tumour - other	tumor							
+Portland	SP16658				Male			Primary tumour - other	tumor							
+Portland	SP96958				Male			Normal - other	normal							
+Portland	SP16660							Primary tumour - other	tumor							
+Portland	SP96965							Normal - other	normal							
+Portland	SP96969							Normal - other	normal							
+Portland	SP16662							Primary tumour - other	tumor							
+Portland	SP16664							Primary tumour - other	tumor							
+Portland	SP16666							Primary tumour - other	tumor							
+Portland	SP16668							Primary tumour - other	tumor							
+Portland	SP96960							Normal - other	normal							
+Portland	SP16670							Primary tumour - other	tumor							
+Portland	SP96972							Normal - other	normal							
+Portland	SP16672							Primary tumour - other	tumor							
+Portland	SP16674							Primary tumour - other	tumor							
+Portland	SP96971							Normal - blood derived	normal							
+Portland	SP96974							Normal - other	normal							
+Portland	SP16676							Primary tumour - other	tumor							
+Portland	SP16678							Primary tumour - other	tumor							
+Portland	SP16680							Primary tumour - other	tumor							
+Portland	SP96963							Normal - other	normal							
+Portland	SP16682							Primary tumour - other	tumor							
+Portland	SP16684							Primary tumour - other	tumor							
+Portland	SP16686							Primary tumour - other	tumor							
+Portland	SP16688							Primary tumour - other	tumor							
+Portland	SP16690							Primary tumour - other	tumor							
+Portland	SP16692							Primary tumour - other	tumor							
+Portland	SP16694				Male			Cell line - derived from tumour	tumor							
+Portland	SP16696							Primary tumour - other	tumor							
+Portland	SP16698							Primary tumour - other	tumor							
+Portland	SP16700							Primary tumour - other	tumor							
+Portland	SP16702							Primary tumour - other	tumor							
+Portland	SP16704							Primary tumour - other	tumor							
+Portland	SP16706							Primary tumour - other	tumor							
+Portland	SP16708							Primary tumour - other	tumor							
+Portland	SP16710							Primary tumour - other	tumor							
+Portland	SP16712							Primary tumour - other	tumor							
+Portland	SP16714							Primary tumour - other	tumor							
+Portland	SP96966							Normal - other	normal							
+Portland	SP16716							Primary tumour - other	tumor							
+Portland	SP96955							Normal - other	normal							
+Portland	SP16718							Cell line - derived from tumour	tumor							
+Portland	SP16720							Primary tumour - other	tumor							
+Portland	SP16722							Primary tumour - other	tumor							
+Portland	SP16724							Primary tumour - other	tumor							
+Portland	SP16726							Primary tumour - other	tumor							
+Portland	SP16728							Primary tumour - other	tumor							
+Portland	SP16730							Primary tumour - other	tumor							
+Portland	SP16732							Primary tumour - other	tumor							
+Portland	SP96957							Normal - other	normal							
+Portland	SP16734							Primary tumour - other	tumor							
+Portland	SP16736							Primary tumour - other	tumor							
+Portland	SP16738							Primary tumour - other	tumor							
+Portland	SP16740							Primary tumour - other	tumor							
+Portland	SP16742							Primary tumour - other	tumor							
+Portland	SP16744							Primary tumour - other	tumor							
+Portland	SP16746				Female			Cell line - derived from tumour	tumor							
+Portland	SP16748							Primary tumour - other	tumor							
+Portland	SP16750							Primary tumour - other	tumor							
+Portland	SP16752							Primary tumour - other	tumor							
+Portland	SP16754							Primary tumour - other	tumor							
+Portland	SP16756							Primary tumour - other	tumor							
+Portland	SP16758							Primary tumour - other	tumor							
+Portland	SP16760							Primary tumour - other	tumor							
+Portland	SP16762							Primary tumour - other	tumor							
+Portland	SP16764							Primary tumour - other	tumor							
+Portland	SP16766							Primary tumour - other	tumor							
+Portland	SP16768							Primary tumour - other	tumor							
+Portland	SP16770							Primary tumour - other	tumor							
+Portland	SP16772				Female			Cell line - derived from tumour	tumor							
+Portland	SP16774							Primary tumour - other	tumor							
+Portland	SP16776							Primary tumour - other	tumor							
+Portland	SP16778							Primary tumour - other	tumor							
+Portland	SP16780							Primary tumour - other	tumor							
+Portland	SP16782							Primary tumour - other	tumor							
+Portland	SP16784							Primary tumour - other	tumor							
+Portland	SP16786							Primary tumour - other	tumor							
+Portland	SP16788							Primary tumour - other	tumor							
+Portland	SP16790							Primary tumour - other	tumor							
+Portland	SP16792							Primary tumour - other	tumor							
+Portland	SP16794							Primary tumour - other	tumor							
+Portland	SP16796							Primary tumour - other	tumor							
+Portland	SP16798							Primary tumour - other	tumor							
+Portland	SP16800							Primary tumour - other	tumor							
+Portland	SP16802							Primary tumour - other	tumor							
+Portland	SP16804							Primary tumour - other	tumor							
+Portland	SP16806							Primary tumour - other	tumor							
+Portland	SP16808							Primary tumour - other	tumor							
+Portland	SP16810							Primary tumour - other	tumor							
+Portland	SP16812							Primary tumour - other	tumor							
+Portland	SP16814							Primary tumour - other	tumor							
+Portland	SP16816							Primary tumour - other	tumor							
+Portland	SP16818							Primary tumour - other	tumor							
+Portland	SP16820							Primary tumour - other	tumor							
+Portland	SP1937				Male		Alive	Normal - other	normal							
+Portland	SP1803				Male		Alive	Primary tumour - solid tissue	tumor							
+Portland	SP1804						Deceased	Primary tumour - solid tissue	tumor							
+Portland	SP1940						Deceased	Normal - other	normal							
+Portland	SP1805				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP1943				Female		Alive	Normal - other	normal							
+Portland	SP1946				Male		Deceased	Normal - other	normal							
+Portland	SP1806				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1949				Male			Normal - other	normal							
+Portland	SP1807				Male			Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1808				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1952				Male		Alive	Normal - other	normal							
+Portland	SP1809				Male			Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1955				Male			Normal - other	normal							
+Portland	SP1810				Male		Deceased	Primary tumour - solid tissue	tumor							
+Portland	SP1958				Male		Deceased	Normal - other	normal							
+Portland	SP1961				Male		Alive	Normal - other	normal							
+Portland	SP1811				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP1964				Male		Alive	Normal - other	normal							
+Portland	SP1812				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1967				Male			Normal - other	normal							
+Portland	SP1813				Male			Primary tumour - solid tissue	tumor							
+Portland	SP1814				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP1970				Female		Alive	Normal - other	normal							
+Portland	SP1815				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1973				Male		Alive	Normal - other	normal							
+Portland	SP1816				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1976				Male		Alive	Normal - other	normal							
+Portland	SP1817				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1979				Male		Alive	Normal - other	normal							
+Portland	SP1982				Male		Deceased	Normal - other	normal							
+Portland	SP1818				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 3
+Portland	SP1819				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1985				Male		Alive	Normal - other	normal							
+Portland	SP1988				Male		Alive	Normal - other	normal							
+Portland	SP1820				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1991				Female		Alive	Normal - other	normal							
+Portland	SP1821				Female		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1822				Male		Deceased	Primary tumour - solid tissue	tumor							
+Portland	SP1994				Male		Deceased	Normal - other	normal							
+Portland	SP1823				Male		Deceased	Primary tumour - solid tissue	tumor							
+Portland	SP1997				Male		Deceased	Normal - other	normal							
+Portland	SP2000				Female			Normal - other	normal							
+Portland	SP1824				Female			Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2003				Male		Alive	Normal - other	normal							
+Portland	SP1825				Male		Alive	Primary tumour - solid tissue	tumor							
+Portland	SP2006				Female		Alive	Normal - other	normal							
+Portland	SP1826				Female		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1828				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2009				Male		Alive	Normal - other	normal							
+Portland	SP2012				Male		Alive	Normal - other	normal							
+Portland	SP1830				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2015				Female		Alive	Normal - other	normal							
+Portland	SP1832				Female		Alive	Primary tumour - solid tissue	tumor							
+Portland	SP2018				Female		Alive	Normal - other	normal							
+Portland	SP1834				Female		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1836				Male		Deceased	Primary tumour - solid tissue	tumor							
+Portland	SP2021				Male		Deceased	Normal - other	normal							
+Portland	SP1838				Male		Deceased	Primary tumour - solid tissue	tumor							
+Portland	SP2024				Male		Deceased	Normal - other	normal							
+Portland	SP1840				Male		Alive	Primary tumour - other	tumor							Grade 2
+Portland	SP2027				Male		Alive	Normal - other	normal							
+Portland	SP2030				Male		Alive	Normal - other	normal							
+Portland	SP1842				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP1844				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP2033				Male		Deceased	Normal - other	normal							
+Portland	SP2036				Male		Deceased	Normal - other	normal							
+Portland	SP1846				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2039				Male			Normal - other	normal							
+Portland	SP1848				Male			Primary tumour - solid tissue	tumor							Grade 3
+Portland	SP2042				Male		Alive	Normal - other	normal							
+Portland	SP1850				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP1852				Female			Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2045				Female			Normal - other	normal							
+Portland	SP1854				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP2048				Female		Alive	Normal - other	normal							
+Portland	SP2051				Male		Deceased	Normal - other	normal							
+Portland	SP1856				Male		Deceased	Primary tumour - solid tissue	tumor							
+Portland	SP2054				Male		Deceased	Normal - other	normal							
+Portland	SP1858				Male		Deceased	Primary tumour - solid tissue	tumor							
+Portland	SP2057				Female		Alive	Normal - other	normal							
+Portland	SP1860				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP2060				Female		Alive	Normal - other	normal							
+Portland	SP1862				Female		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1864				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2063				Male		Alive	Normal - other	normal							
+Portland	SP2066				Male		Alive	Normal - other	normal							
+Portland	SP1866				Male		Alive	Primary tumour - other	tumor							Grade 1
+Portland	SP2069				Male		Alive	Normal - other	normal							
+Portland	SP1868				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2072				Male		Alive	Normal - other	normal							
+Portland	SP1870				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2075							Normal - other	normal							
+Portland	SP1872							Primary tumour - solid tissue	tumor							
+Portland	SP1874				Male		Deceased	Primary tumour - solid tissue	tumor							
+Portland	SP2078				Male		Deceased	Normal - other	normal							
+Portland	SP1876				Male		Deceased	Primary tumour - solid tissue	tumor							
+Portland	SP2081				Male		Deceased	Normal - other	normal							
+Portland	SP1878				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2084				Male		Alive	Normal - other	normal							
+Portland	SP2087				Female		Alive	Normal - blood derived	normal							
+Portland	SP1880				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP2090						Alive	Normal - other	normal							
+Portland	SP1883						Alive	Primary tumour - solid tissue	tumor							Grade 3
+Portland	SP1886				Female		Alive	Primary tumour - solid tissue	tumor							
+Portland	SP2093				Female		Alive	Normal - other	normal							
+Portland	SP2096				Female		Alive	Normal - other	normal							
+Portland	SP1889				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP2099				Female			Normal - other	normal							
+Portland	SP1892				Female			Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP2102				Male		Deceased	Normal - other	normal							
+Portland	SP1895				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2105				Male		Alive	Normal - other	normal							
+Portland	SP1898				Male		Alive	Primary tumour - solid tissue	tumor							
+Portland	SP2108				Male		Alive	Normal - other	normal							
+Portland	SP1901				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP2111				Male		Alive	Normal - other	normal							
+Portland	SP1904				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2113				Male		Deceased	Normal - other	normal							
+Portland	SP1907				Male		Deceased	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP1910				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2116				Male		Alive	Normal - other	normal							
+Portland	SP1913				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP2119				Male		Alive	Normal - other	normal							
+Portland	SP2122				Male		Alive	Normal - other	normal							
+Portland	SP1916				Male		Alive	Primary tumour - other	tumor							Grade 3
+Portland	SP2125				Female		Alive	Normal - other	normal							
+Portland	SP1919				Female		Alive	Primary tumour - other	tumor							Grade 2
+Portland	SP2128				Female		Alive	Normal - other	normal							
+Portland	SP1922				Female		Alive	Primary tumour - other	tumor							Grade 3
+Portland	SP1925				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2131				Male		Alive	Normal - other	normal							
+Portland	SP2134				Female		Alive	Normal - other	normal							
+Portland	SP1928				Female		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP2137				Male		Alive	Normal - other	normal							
+Portland	SP1931				Male		Alive	Primary tumour - solid tissue	tumor							Grade 1
+Portland	SP1934				Male		Alive	Primary tumour - solid tissue	tumor							Grade 2
+Portland	SP2140				Male		Alive	Normal - other	normal							
+Portland	SP102697				Male			Normal - blood derived	normal		TNM	T1N0M0				
+Portland	SP102696				Male			Primary tumour - solid tissue	tumor		TNM	T1N0M0	TNM	T1N0M0		
+Portland	SP102699				Male			Normal - blood derived	normal		TNM	T2N0M0				
+Portland	SP102698				Male			Primary tumour - solid tissue	tumor		TNM	T2N0M0	TNM	T2N0M0		
+Portland	SP102701				Male			Normal - blood derived	normal		TNM	T1N0M0				
+Portland	SP102700				Male			Primary tumour - solid tissue	tumor		TNM	T1N0M0	TNM	T1N0M0		
+Portland	SP102702				Female			Primary tumour - solid tissue	tumor		TNM	T2N0M0	TNM	T2N0M0		
+Portland	SP102703				Female			Normal - blood derived	normal		TNM	T2N0M0				
+Portland	SP102705				Male			Normal - blood derived	normal		TNM	T1N0M0				
+Portland	SP102704				Male			Primary tumour - solid tissue	tumor		TNM	T1N0M0	TNM	T1N0M0		
+Portland	SP102706				Male			Primary tumour - solid tissue	tumor		TNM	T2N0M0	TNM	T2N0M0		
+Portland	SP102707				Male			Normal - blood derived	normal		TNM	T2N0M0				
+Portland	SP102708				Female			Primary tumour - solid tissue	tumor		TNM	T1N0M0	TNM	T1N0M0		
+Portland	SP102709				Female			Normal - blood derived	normal		TNM	T1N0M0				
+Portland	SP102710				Female			Primary tumour - solid tissue	tumor		TNM	T1N0M0	TNM	T1N0M0		
+Portland	SP102711				Female			Normal - blood derived	normal		TNM	T1N0M0				
+Portland	SP102713				Female			Normal - blood derived	normal		TNM	T2N0M0				
+Portland	SP102712				Female			Primary tumour - solid tissue	tumor		TNM	T2N0M0	TNM	T2N0M0		
+Portland	SP102715				Female			Normal - blood derived	normal		TNM	T2N0M0				
+Portland	SP102714				Female			Primary tumour - solid tissue	tumor		TNM	T2N0M0	TNM	T2N0M0		
+Portland	RK059a		EGAD00001000842		Male			Primary tumour - solid tissue	tumor							
+Portland	RK059b		EGAD00001000842		Male			Normal - blood derived	normal							
+Portland	ERR016048	ERR016048	1000Genomes		Male				normal							
+Portland	ERR016115	ERR016115	1000Genomes		Male				normal							
+Portland	ERR016117	ERR016117	1000Genomes		Male				normal							
+Portland	SRR816285	SRR816285	1000Genomes		Male				normal							
+Portland	SRR816286	SRR816286	1000Genomes		Male				normal							
+Portland	ERR271650	ERR271650	1000Genomes		Male				normal							
+Portland	ERR250683	ERR250683	1000Genomes		Male				normal							
+Portland	ERR250684	ERR250684	1000Genomes		Male				normal							
+Portland	PD7446a	PD7446	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Portland	PD7446c	PD7446	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Portland	PD7446f	PD7446	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Portland	PD7446g	PD7446	EGAD00001000263		male			Prostate	normal							
+Portland	PD7447c	PD7447	EGAD00001000263		male			prostate adenocarcinoma	tumor							
+Portland	PD7447e	PD7447	EGAD00001000263		male			Prostate	normal							
+Portland	PD13395a	PD13395	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Portland	PD13395b	PD13395	EGAD00001000892		male			normal - blood	normal							
+Portland	PD13397a	PD13397	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Portland	PD13397b	PD13397	EGAD00001000892		male			normal - blood	normal							
+Portland	PD13399a	PD13399	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Portland	PD13399b	PD13399	EGAD00001000892		male			normal - blood	normal							
+Portland	PD13401b	PD13401	EGAD00001000892		male			normal - blood	normal							
+Portland	PD13403a	PD13403	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Portland	PD13403b	PD13403	EGAD00001000892		male			normal - blood	normal							
+Portland	PD13406a	PD13406	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Portland	PD13406b	PD13406	EGAD00001000892		male			normal - blood	normal							
+Portland	PD13407a	PD13407	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Portland	PD13408a	PD13408	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Portland	PD13410a	PD13410	EGAD00001000892		male			malignant tissue (prostatectomy)	tumor							
+Portland	PD13410b	PD13410	EGAD00001000892		male			normal - blood	normal							
+ThirdSite	12-00156	12-00156	BEAT-AML	NON-HISPANIC	Female	White		Peripheral Blood	tumor	Acute myeloid leukaemia, NOS						
+ThirdSite	12-00161	12-00161	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Bone Marrow Aspirate	tumor	Acute myelomonocytic leukaemia						
+ThirdSite	12-00165	12-00165	BEAT-AML					Peripheral Blood	tumor							
+ThirdSite	12-00182	12-00182	BEAT-AML					Peripheral Blood	tumor							
+ThirdSite	12-00250	12-00250	BEAT-AML					Peripheral Blood	tumor	Acute myeloid leukaemia, NOS						
+ThirdSite	12-00269	12-00269	BEAT-AML	NON-HISPANIC	Female	White	Alive	Bone Marrow Aspirate	tumor	Acute promyelocytic leukaemia with t(15;17)(q22;q12); PML-RARA						
+ThirdSite	12-00288	12-00288	BEAT-AML		Female			Peripheral Blood	tumor							
+ThirdSite	12-00298	12-00298	BEAT-AML	NON-HISPANIC	Female	White	Alive	Bone Marrow Aspirate	tumor	AML with t(9;11)(p22;q23); MLLT3-MLL						
+ThirdSite	12-00343	12-00343	BEAT-AML					Peripheral Blood	tumor							
+ThirdSite	12-00374	12-00374	BEAT-AML	NON-HISPANIC	Male	White	Deceased	Leukapheresis	tumor							
