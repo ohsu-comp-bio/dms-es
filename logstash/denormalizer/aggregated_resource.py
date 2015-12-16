@@ -34,17 +34,41 @@ for individual in individuals['hits']['hits']:
             doc_type='resource',
             body={"size":MAX_RECORDS, "query": {"query_string": {"query":"sample_id:\"" + sample['_id'] +"\""}}}
             )
-        # for each resource, create an aggregated resource
-        for resource in resources['hits']['hits']:
-            aggregated_resource = individual['_source'].copy()
-            aggregated_resource.update(sample['_source'])
-            aggregated_resource.update(resource['_source'])
-            es.create(
-                index="aggregated-resource",
-                doc_type="aggregated-resource",
-                body=aggregated_resource,
-                id=resource['_id']
+        # for each portion, get its resources
+        for portion in portions['hits']['hits']:
+            print("  S:" + portion['_id'])
+            resources = es.search(
+                doc_type='resource',
+                body={"size":MAX_RECORDS, "query": {"query_string": {"query":"portion_id:\"" + portion['_id'] +"\""}}}
             )
-            print("Created R:" + resource['_id'])
-            count += 1
+            # for each analyte, get its resources
+            for analyte in analytes['hits']['hits']:
+                print("  S:" + analyte['_id'])
+                resources = es.search(
+                    doc_type='resource',
+                    body={"size":MAX_RECORDS, "query": {"query_string": {"query":"analyte_id:\"" + analyte['_id'] +"\""}}}
+                )
+                # for each aliquot, get its resources
+                for aliquot in aliquots['hits']['hits']:
+                    print("  S:" + aliquot['_id'])
+                    resources = es.search(
+                        doc_type='resource',
+                        body={"size":MAX_RECORDS, "query": {"query_string": {"query":"aliquot_id:\"" + aliquot['_id'] +"\""}}}
+                    )
+                    # for each resource, create an aggregated resource
+                    for resource in resources['hits']['hits']:
+                        aggregated_resource = individual['_source'].copy()
+                        aggregated_resource.update(sample['_source'])
+                        aggregated_resource.update(portion['_source'])
+                        aggregated_resource.update(analyte['_source'])
+                        aggregated_resource.update(aliquot['_source'])
+                        aggregated_resource.update(resource['_source'])
+                        es.create(
+                            index="aggregated-resource",
+                            doc_type="aggregated-resource",
+                            body=aggregated_resource,
+                            id=resource['_id']
+                        )
+                        print("Created R:" + resource['_id'])
+                        count += 1
 print("Created {} resources".format(count))
