@@ -1,0 +1,11 @@
+{
+   "indelrealigner_wdl_test.global_GATK_dir": "/opt/Genomics/ohsu/dnapipeline/GATK/",
+   "indelrealigner_wdl_test.indelrealigner.input_bam": "f898d0eb-be92-4a7a-99e8-ac5df143d46b",
+   "indelrealigner_wdl_test.indelrealigner.genome_reference": "143ece0e-03ee-4432-a406-5eee5bfc7b81",
+   "indelrealigner_wdl_test.indelrealigner.indels": "e0c65f91-10a4-4658-8f1d-03b55c051d61",
+   "indelrealigner_wdl_test.indelrealigner.dbsnp": "57436410-d942-410a-91fc-711b7bca7995",
+   "indelrealigner_wdl_test.indelrealigner.out_bam": "",
+   "indelrealigner_wdl_test.gather.gather_output_path_file": "indelrealigner_wdl_scatter_gather_out.bam",
+   "indelrealigner_wdl_test.gather.picard_path": "/opt/Genomics/ohsu/dnapipeline/picard-tools-1.135/dist/",
+   "indelrealigner_wdl_test.scatter_file_array" : ["8cd1230c-303a-4c35-a1a8-03b73debbacb", "502f4a73-f77a-4ed9-8a6c-3d0d037fa2ad", "087e14f1-f433-4691-b221-a99bf568adb4","b6c03edd-1270-4c35-83ab-def60a05407d","82e224cf-de5c-431c-aafc-0ae889f07c41","b934b83b-591e-4283-85ae-d8d6ea345bf9","b378381e-0650-4777-a3cc-7b1108465aaa","541c755a-7528-47a8-95da-a0775f8d2842"]
+}
