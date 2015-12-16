@@ -1,0 +1,35 @@
+{
+   "dna_preprocessing.reference_genome": "143ece0e-03ee-4432-a406-5eee5bfc7b81",
+
+
+   "dna_preprocessing.global_indels": "e0c65f91-10a4-4658-8f1d-03b55c051d61",
+   "dna_preprocessing.global_dbsnp": "57436410-d942-410a-91fc-711b7bca7995",
+   "dna_preprocessing.global_output_dir": "",
+   "dna_preprocessing.global_GATK_dir": "/opt/Genomics/ohsu/dnapipeline/GATK/",
+   "dna_preprocessing.global_samtools_dir": "/opt/Genomics/ohsu/dnapipeline/samtools-0.1.19/",
+   "dna_preprocessing.global_bwa_dir": "/opt/Genomics/ohsu/dnapipeline/bwa-0.7.12/",
+
+   "dna_preprocessing.bwa_mem.bwa_mem_read1_input_file": "dc689710-a9c9-4ac5-bd1e-0a315f5391ce",
+   "dna_preprocessing.bwa_mem.bwa_mem_read2_input_file": "8abf46d3-b73c-4a45-b57f-34dfb67db738",
+   "dna_preprocessing.bwa_mem.bwa_mem_output_file": "sim1M_pairs.sam",
+
+   "dna_preprocessing.sam_tools_view.samtools_view_output_file": "sam_tools_view_output.bam",
+   "dna_preprocessing.sam_tools_view.reference_genome_fai": "3bcb24d0-8efa-4676-a303-7d76b169b8f4",
+   "dna_preprocessing.sam_tools_index.samtools_index_output_file": "sam_tools_index_output.bam",
+   "dna_preprocessing.sam_tools_sort.samtools_sort_output_file": "sam_tools_sort_output.bam",
+
+   "dna_preprocessing.picard_mark_duplicates.picard_path": "/opt/Genomics/ohsu/dnapipeline/picard-tools-1.135/dist/",
+   "dna_preprocessing.picard_mark_duplicates.picard_markduplicates_bam_output_file": "picard_markduplicates_output.bam",
+   "dna_preprocessing.picard_mark_duplicates.picard_markduplicates_metrics_output_file": "picard_markduplicates_output.metrics",
+
+   "dna_preprocessing.realigner_target_creator.realigner_target_creator_intervals_output_file": "realigner_target_creator.intervals",
+
+   "dna_preprocessing.indel_realigner.indel_realigner_output_bam": "indel_realigner_output.bam",
+
+   "dna_preprocessing.base_recalibrator.base_recalibrator_output_file": "base_recalibrator.grp",
+
+   "dna_preprocessing.print_reads.print_reads_output_bam": "print_reads.bam",
+
+   "dna_preprocessing.samtools_flagstat.samtools_flagstat_output_stat": "samtools_flagstat.stat"
+
+}

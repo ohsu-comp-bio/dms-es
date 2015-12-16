@@ -8,17 +8,16 @@
 # To load data via logstash
 # create a directory with logstash conf files
 # run the latest logstash docker container
-#docker run  --add-host elasticsearch:$(docker-machine ip default)   -v $(pwd):/data -it  logstash  logstash  -f ./data/icgc-*.conf  -v --verbose
-
-
+# docker run  --add-host elasticsearch:$(docker-machine ip default)   -v $(pwd):/data -it  logstash  logstash  -f ./data/icgc-*.conf  -v --verbose
 
 elasticsearch:
+  container_name: eleasticsearch
   image: elasticsearch:latest
   command: >
     elasticsearch
       --network.host=0.0.0.0
       --cluster.name=ccc-es
-      --node.name=central
+      --node.name=central  
   ports:
     - "9200:9200"
 
@@ -26,8 +25,16 @@ elasticsearch:
 # looks for a link to http://elasticsearch:9200 by default
 # see https://github.com/docker-library/kibana/blob/master/4.2/docker-entrypoint.sh
 kibana:
+  container_name: kibana
   image: kibana:latest
   ports:
     - "5601:5601"
   links:
     - elasticsearch
+
+## cromwell
+cromwell:
+  container_name: cromwell
+  build: cromwell/
+  ports:
+    - "8000:8000"
