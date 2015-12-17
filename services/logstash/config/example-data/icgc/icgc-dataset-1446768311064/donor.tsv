@@ -1,0 +1,310 @@
+icgc_donor_id	project_code	study_donor_involved_in	submitted_donor_id	donor_sex	donor_vital_status	disease_status_last_followup	donor_relapse_type	donor_age_at_diagnosis	donor_age_at_enrollment	donor_age_at_last_followup	donor_relapse_interval	donor_diagnosis_icd10	donor_tumour_staging_system_at_diagnosis	donor_tumour_stage_at_diagnosis	donor_tumour_stage_at_diagnosis_supplemental	donor_survival_time	donor_interval_of_last_followup	prior_malignancy	cancer_type_prior_malignancy	cancer_history_first_degree_relative
+DO5	ALL-US		TARGET-10-PAIXPH	female		relapse	progression (liquid tumours)	5	5	8	169	C91.0				939	1095			
+DO22	ALL-US		TARGET-10-PAKHZT	male	deceased	relapse	progression (liquid tumours)	14	14	16	355	C91.0				605	605			
+DO48	ALL-US		TARGET-10-PAKMVD	male				1	1	11	3328	C91.0				3328	3650			
+DO50	ALL-US		TARGET-10-PAKMZM	male	deceased	relapse	progression (liquid tumours)	18	18	24	1229	C91.0				1914	1914			
+DO74	ALL-US		TARGET-10-PAKSWW	male	deceased	relapse	progression (liquid tumours)	15	15	19	532	C91.0				1592	1592			
+DO76	ALL-US		TARGET-10-PAKTAL	female	deceased	relapse	progression (liquid tumours)	12	12	15	1043	C91.0				1061	1061			
+DO162	ALL-US		TARGET-10-PALETF	female	deceased	relapse	progression (liquid tumours)	8	8	10	650	C91.0				768	768			
+DO200	ALL-US		TARGET-10-PALJDL	male	alive			3	3	14	4330	C91.0				4330	4015			
+DO208	ALL-US		TARGET-10-PALKMM	male	deceased	relapse	progression (liquid tumours)	13	13	16	515	C91.0				1037	1037			
+DO210	ALL-US		TARGET-10-PALKTY	female	deceased	relapse	progression (liquid tumours)	6	6	10	1310	C91.0				1507	1507			
+DO228	ALL-US		TARGET-10-PALLSD	male	deceased	relapse	progression (liquid tumours)	14	14	22	687	C91.0				3060	3060			
+DO282	ALL-US		TARGET-10-PALUAH	male	deceased	relapse	progression (liquid tumours)	2	2	3	400	C91.0				476	476			
+DO376	ALL-US		TARGET-10-PAMDKS	female	deceased			13	13	13	69	C91.0				69	69			
+DO378	ALL-US		TARGET-10-PAMDRM	male	deceased	relapse	progression (liquid tumours)	8	8	11	994	C91.0				1213	1213			
+DO6958	CLLE-ES		178	male	deceased	progression		83	83	83		C91.1	BINET	C		114	114			
+DO6964	CLLE-ES		266	male	alive	stable		48	51	53		C91.1	BINET	A		1776	1776			
+DO6970	CLLE-ES		272	female	alive	stable		72	78	77		C91.1	BINET	A		1753	1753			
+DO6976	CLLE-ES		279	female	alive	progression		66	69	70		C91.1	BINET	A		1587	1587			
+DO6982	CLLE-ES		321	female	alive	stable		52	52	53		C91.1	BINET	A		483	483			
+DO6988	CLLE-ES		328	male	alive	complete remission	progression (liquid tumours)	53	56	57		C91.1	BINET	A		1537	1537			
+DO6994	CLLE-ES		642	female	alive	complete remission	progression (liquid tumours)	51	58	60		C91.1	BINET	A		3353	3353			
+DO7000	CLLE-ES		758	male	alive	complete remission	progression (liquid tumours)	54	59	60		C91.1	BINET	A		2310	2310			
+DO7523	CMDI-UK	PCAWG	CGP_donor_1356858																	
+DO7524	CMDI-UK	PCAWG	CGP_donor_1356841																	
+DO7525	CMDI-UK	PCAWG	CGP_donor_1356779																	
+DO7526	CMDI-UK	PCAWG	CGP_donor_1353459																	
+DO7527	CMDI-UK	PCAWG	CGP_donor_1337981																	
+DO7528	CMDI-UK	PCAWG	CGP_donor_831015																	
+DO7529	CMDI-UK	PCAWG	CGP_donor_1353533																	
+DO7531	CMDI-UK	PCAWG	CGP_donor_1309187																	
+DO7533	CMDI-UK	PCAWG	CGP_donor_1353489																	
+DO7535	CMDI-UK	PCAWG	CGP_donor_1338959																	
+DO7537	CMDI-UK	PCAWG	CGP_donor_1443182																	
+DO7539	CMDI-UK	PCAWG	CGP_donor_807848	female								C43-C44								
+DO7541	CMDI-UK	PCAWG	CGP_donor_1338679																	
+DO7543	CMDI-UK	PCAWG	CGP_donor_1338290																	
+DO7545	CMDI-UK	PCAWG	CGP_donor_1353582																	
+DO7547	CMDI-UK	PCAWG	CGP_donor_1215616									D46								
+DO7549	CMDI-UK	PCAWG	CGP_donor_1215620									D46								
+DO7551	CMDI-UK	PCAWG	CGP_donor_1443183																	
+DO7553	CMDI-UK	PCAWG	CGP_donor_1353525																	
+DO7555	CMDI-UK	PCAWG	CGP_donor_1353521																	
+DO7557	CMDI-UK	PCAWG	CGP_donor_1353518																	
+DO7559	CMDI-UK	PCAWG	CGP_donor_1353514																	
+DO7561	CMDI-UK	PCAWG	CGP_donor_1338442																	
+DO7563	CMDI-UK	PCAWG	CGP_donor_1338439																	
+DO7565	CMDI-UK	PCAWG	CGP_donor_1337971																	
+DO7567	CMDI-UK	PCAWG	CGP_donor_1234827																	
+DO7569	CMDI-UK	PCAWG	CGP_donor_1163904	female								C50								
+DO7571	CMDI-UK	PCAWG	CGP_donor_1215615									D46								
+DO7573	CMDI-UK	PCAWG	CGP_donor_1353550																	
+DO7575	CMDI-UK	PCAWG	CGP_donor_1353534																	
+DO7577	CMDI-UK	PCAWG	CGP_donor_1353444																	
+DO7579	CMDI-UK	PCAWG	CGP_donor_808176	male																
+DO7581	CMDI-UK	PCAWG	CGP_donor_846424	female																
+DO7583	CMDI-UK	PCAWG	CGP_donor_810652	female																
+DO7585	CMDI-UK	PCAWG	CGP_donor_1356865																	
+DO7587	CMDI-UK	PCAWG	CGP_donor_1356854																	
+DO7589	CMDI-UK	PCAWG	CGP_donor_1356819																	
+DO7591	CMDI-UK	PCAWG	CGP_donor_1356816																	
+DO7593	CMDI-UK	PCAWG	CGP_donor_1353548																	
+DO7595	CMDI-UK	PCAWG	CGP_donor_1353538																	
+DO7597	CMDI-UK	PCAWG	CGP_donor_1353527																	
+DO7599	CMDI-UK	PCAWG	CGP_donor_1353477																	
+DO7601	CMDI-UK	PCAWG	CGP_donor_1353450																	
+DO7603	CMDI-UK	PCAWG	CGP_donor_1338678																	
+DO7605	CMDI-UK	PCAWG	CGP_donor_1337980																	
+DO7607	CMDI-UK	PCAWG	CGP_donor_1234205	female																
+DO7609	CMDI-UK	PCAWG	CGP_donor_1353492																	
+DO7611	CMDI-UK	PCAWG	CGP_donor_980848	male																
+DO7613	CMDI-UK	PCAWG	CGP_donor_1215622									D46								
+DO7615	CMDI-UK	PCAWG	CGP_donor_1309158																	
+DO7617	CMDI-UK	PCAWG	CGP_donor_1353543																	
+DO7619	CMDI-UK	PCAWG	CGP_donor_1353471																	
+DO7621	CMDI-UK	PCAWG	CGP_donor_1178368																	
+DO7623	CMDI-UK	PCAWG	CGP_donor_1353507																	
+DO7625	CMDI-UK	PCAWG	CGP_donor_1338427																	
+DO7627	CMDI-UK	PCAWG	CGP_donor_1353496																	
+DO7629	CMDI-UK	PCAWG	CGP_donor_1353583																	
+DO7631	CMDI-UK	PCAWG	CGP_donor_1356788																	
+DO7633	CMDI-UK	PCAWG	CGP_donor_1215617									D46								
+DO7635	CMDI-UK	PCAWG	CGP_donor_1356891																	
+DO7637	CMDI-UK	PCAWG	CGP_donor_1356849																	
+DO7639	CMDI-UK	PCAWG	CGP_donor_1353464																	
+DO7641	CMDI-UK	PCAWG	CGP_donor_1338849																	
+DO7643	CMDI-UK	PCAWG	CGP_donor_1356775																	
+DO7645	CMDI-UK	PCAWG	CGP_donor_1353439																	
+DO7647	CMDI-UK	PCAWG	CGP_donor_653597	male								C30-C39								
+DO7649	CMDI-UK	PCAWG	CGP_donor_1356883																	
+DO7651	CMDI-UK	PCAWG	CGP_donor_1356890																	
+DO7653	CMDI-UK	PCAWG	CGP_donor_1356801																	
+DO7655	CMDI-UK	PCAWG	CGP_donor_1353584																	
+DO7657	CMDI-UK	PCAWG	CGP_donor_1353536																	
+DO7659	CMDI-UK	PCAWG	CGP_donor_1353505																	
+DO7661	CMDI-UK	PCAWG	CGP_donor_1353479																	
+DO7663	CMDI-UK	PCAWG	CGP_donor_1338960																	
+DO7665	CMDI-UK	PCAWG	CGP_donor_1338905																	
+DO7667	CMDI-UK	PCAWG	CGP_donor_1356803																	
+DO7669	CMDI-UK	PCAWG	CGP_donor_1215623																	
+DO7671	CMDI-UK	PCAWG	CGP_donor_653560																	
+DO7673	CMDI-UK	PCAWG	CGP_donor_1338912																	
+DO7675	CMDI-UK	PCAWG	CGP_donor_1356892																	
+DO7677	CMDI-UK	PCAWG	CGP_donor_1356887																	
+DO7679	CMDI-UK	PCAWG	CGP_donor_1356869																	
+DO7681	CMDI-UK	PCAWG	CGP_donor_1353529																	
+DO7683	CMDI-UK	PCAWG	CGP_donor_1353455																	
+DO7685	CMDI-UK	PCAWG	CGP_donor_1338686																	
+DO7687	CMDI-UK	PCAWG	CGP_donor_938551																	
+DO7689	CMDI-UK	PCAWG	CGP_donor_1338957																	
+DO7691	CMDI-UK	PCAWG	CGP_donor_1338239																	
+DO7693	CMDI-UK	PCAWG	CGP_donor_1338911																	
+DO7695	CMDI-UK	PCAWG	CGP_donor_1353470																	
+DO7697	CMDI-UK	PCAWG	CGP_donor_1337988																	
+DO7699	CMDI-UK	PCAWG	CGP_donor_649726	female								C50								
+DO7701	CMDI-UK	PCAWG	CGP_donor_1356778																	
+DO7703	CMDI-UK	PCAWG	CGP_donor_1353516																	
+DO7705	CMDI-UK	PCAWG	CGP_donor_1353476																	
+DO7707	CMDI-UK	PCAWG	CGP_donor_1353511																	
+DO7709	CMDI-UK	PCAWG	CGP_donor_1338870																	
+DO7711	CMDI-UK	PCAWG	CGP_donor_1353446																	
+DO7713	CMDI-UK	PCAWG	CGP_donor_1356852																	
+DO7715	CMDI-UK	PCAWG	CGP_donor_1356818																	
+DO7717	CMDI-UK	PCAWG	CGP_donor_1356813																	
+DO7719	CMDI-UK	PCAWG	CGP_donor_1353526																	
+DO7721	CMDI-UK	PCAWG	CGP_donor_1353468																	
+DO7723	CMDI-UK	PCAWG	CGP_donor_1338904																	
+DO7725	CMDI-UK	PCAWG	CGP_donor_806717	female																
+DO7727	CMDI-UK	PCAWG	CGP_donor_1338677																	
+DO7729	CMDI-UK	PCAWG	CGP_donor_1338237																	
+DO7731	CMDI-UK	PCAWG	CGP_donor_1309177																	
+DO7733	CMDI-UK	PCAWG	CGP_donor_1364188																	
+DO7735	CMDI-UK	PCAWG	CGP_donor_1364191																	
+DO7737	CMDI-UK	PCAWG	CGP_donor_1364168																	
+DO7739	CMDI-UK	PCAWG	CGP_donor_1364209																	
+DO7741	CMDI-UK	PCAWG	CGP_donor_1364184																	
+DO7743	CMDI-UK	PCAWG	CGP_donor_1364208																	
+DO7745	CMDI-UK	PCAWG	CGP_donor_1364169																	
+DO7747	CMDI-UK	PCAWG	CGP_donor_1364205																	
+DO7749	CMDI-UK	PCAWG	CGP_donor_1364165																	
+DO7751	CMDI-UK	PCAWG	CGP_donor_1364194																	
+DO7753	CMDI-UK	PCAWG	CGP_donor_1364163																	
+DO7755	CMDI-UK	PCAWG	CGP_donor_1364179																	
+DO7757	CMDI-UK	PCAWG	CGP_donor_1364187																	
+DO7759	CMDI-UK	PCAWG	CGP_donor_1364225																	
+DO7761	CMDI-UK	PCAWG	CGP_donor_1364185																	
+DO7763	CMDI-UK	PCAWG	CGP_donor_1364201																	
+DO7765	CMDI-UK	PCAWG	CGP_donor_1364227																	
+DO7767	CMDI-UK	PCAWG	CGP_donor_1364177																	
+DO7769	CMDI-UK	PCAWG	CGP_donor_1364198																	
+DO7771	CMDI-UK	PCAWG	CGP_donor_1364223																	
+DO7773	CMDI-UK	PCAWG	CGP_donor_1364170																	
+DO27763	MALY-DE	PCAWG	4182393	male	alive	complete remission		10	10	16		C83.7	Murphy Stage	III		2308	2308	no		unknown
+DO27764	MALY-DE	PCAWG	4119027	male	alive	complete remission		12	12	18		C83.7	Murphy Stage	unknown		2271	2271	no		unknown
+DO27765	MALY-DE	PCAWG	4125240	male	alive	complete remission		4	4	6		C83.7	Murphy Stage	II		814	814	no		unknown
+DO27767	MALY-DE	PCAWG	4190495	male	alive	complete remission		15	15	16	103	C83.3	Murphy Stage	III		420	420	no		unknown
+DO27769	MALY-DE	PCAWG	4189998	male	alive	complete remission		13	13	16		C83.7	Murphy Stage	III		1206	1206	no		unknown
+DO27771	MALY-DE	PCAWG	4135350	male	alive	complete remission		8	8	12		C85.1	Murphy Stage	III		1553	1553	no		unknown
+DO27773	MALY-DE	PCAWG	4159170	male	alive	relapse		43	43	47	1163	C82.0	Ann Arbor Stage	IV,N,E		1615	1615	yes		unknown
+DO27775	MALY-DE	PCAWG	4194218	male	alive	complete remission		4	4	5		C83.7	Murphy Stage	unknown		510	510	no		unknown
+DO27777	MALY-DE	PCAWG	4116738	male	alive	complete remission		15	15	19		C83.3	Murphy Stage	IV		1513	1513	no		unknown
+DO27779	MALY-DE	PCAWG	4163639	female	alive	partial remission		75	75	77		C83.3	Ann Arbor Stage	III,N		828	828	no		unknown
+DO27781	MALY-DE	PCAWG	4105105	female	alive	complete remission		40	40	41		C82.0	Ann Arbor Stage	IV		516	516	no		unknown
+DO27785	MALY-DE	PCAWG	4189200	female	alive	complete remission		51	51	56		C82.0	Ann Arbor Stage	IV,N,S		1925	1925	yes		unknown
+DO27787	MALY-DE	PCAWG	4175837	female	alive	partial remission		74	74	75		C82.3	Ann Arbor Stage	IV		420	420	unknown		unknown
+DO27789	MALY-DE	PCAWG	4108101	male	alive	partial remission		66	66	66		C83.3	Ann Arbor Stage	II,N		292	292	no		unknown
+DO27793	MALY-DE	PCAWG	4146289	male	alive	complete remission		14	14	15		C83.7	Murphy Stage	III		456	456	no		unknown
+DO27795	MALY-DE	PCAWG	4112512	female	alive	complete remission		18	18	22		C83.7	Murphy Stage	III		1510	1510	no		unknown
+DO27797	MALY-DE	PCAWG	4158726	male	alive	complete remission		48	48	49		C82.0	Ann Arbor Stage	IV,N,E		510	510	no		unknown
+DO27799	MALY-DE	PCAWG	4193278	male	alive	complete remission		17	17	19		C83.7	Murphy Stage	II		1042	1042	no		unknown
+DO27801	MALY-DE	PCAWG	4121361	male	alive	complete remission		74	74	74		C82.0	Ann Arbor Stage	II,N		123	123	no		unknown
+DO27803	MALY-DE	PCAWG	4134005	male	alive	partial remission		67	67	68		C82.0	Ann Arbor Stage	IV,N		496	496	no		unknown
+DO27805	MALY-DE	PCAWG	4188900	male	alive	complete remission		76	76	77		C82.0	Ann Arbor Stage	III,N		503	503	no		unknown
+DO27807	MALY-DE	PCAWG	4104893	male	alive	complete remission		16	16	19		C83.3	Murphy Stage	III		1257	1257	no		unknown
+DO27809	MALY-DE	PCAWG	4177376	female	alive	partial remission		73	73	74		C83.3	Ann Arbor Stage	IV,E		439	439	no		unknown
+DO27811	MALY-DE	PCAWG	4135099	male	alive	partial remission		49	49	50		C83.3	Ann Arbor Stage	III		596	596	no		unknown
+DO27813	MALY-DE	PCAWG	4101316	female	alive	complete remission		74	74	74		C83.3	Ann Arbor Stage	I,N		252	252	no		unknown
+DO27815	MALY-DE	PCAWG	4177434	female	alive	complete remission		16	16	18		C83.3	Murphy Stage	III		860	860	no		unknown
+DO27817	MALY-DE	PCAWG	4177987	male	alive	partial remission		71	71	71		C82.1	Ann Arbor Stage	IV,S,E		203	203	no		unknown
+DO27819	MALY-DE	PCAWG	4133511	male	alive	complete remission		5	5	10		C83.7	Murphy Stage	III		2189	2189	no		unknown
+DO27821	MALY-DE	PCAWG	4177856	male	alive	partial remission		10	10	14		C83.7	Murphy Stage	III		1643	1643	no		unknown
+DO27823	MALY-DE	PCAWG	4142267	male	alive	complete remission		5	5	5		C83.7	Murphy Stage	B-ALL		211	211	no		unknown
+DO27825	MALY-DE	PCAWG	4194891	male	alive	complete remission		4	4	8		C83.7	Murphy Stage	III		1777	1777	no		unknown
+DO27827	MALY-DE	PCAWG	4107137	male	alive	complete remission		59	59	62		C83.3	Ann Arbor Stage	III,N,S,E		1182	1182	no		unknown
+DO27829	MALY-DE	PCAWG	4127766	male	alive	complete remission		8	8	11		C83.7	Murphy Stage	III		1349	1349	yes		unknown
+DO27833	MALY-DE	PCAWG	4102009	male	alive	complete remission		64	64	68		C83.3	Ann Arbor Stage	III,N		1695	1695	no		unknown
+DO27835	MALY-DE	PCAWG	4160468	male	deceased	relapse		62	67	69	790	C82.1	Ann Arbor Stage	I,N		2645	2645	yes		unknown
+DO27837	MALY-DE	PCAWG	4170686	male	alive			56	56	58		C82.0	Ann Arbor Stage	III,N,E		917	917	no		unknown
+DO27843	MALY-DE	PCAWG	4174905	male	alive	complete remission		72	72	76		C82.0	Ann Arbor Stage	IV,N,E		1525	1525	no		unknown
+DO27845	MALY-DE	PCAWG	4177601	female	alive			52	52	54		C82.1	Ann Arbor Stage	IV,N,E		840	840	no		unknown
+DO27847	MALY-DE	PCAWG	4191799	male	alive	complete remission		16	16	18		C85.2	Murphy Stage	unknown		887	887	no		unknown
+DO27849	MALY-DE	PCAWG	4139696	male	deceased			70	70	70		C82.4	Ann Arbor Stage	III,N		306	343	no		yes
+DO27851	MALY-DE	PCAWG	4120193	female	alive	complete remission		41	41	47		C83.3	Ann Arbor Stage	III,N		2551	2551	no		unknown
+DO27853	MALY-DE	PCAWG	4166706	male	alive	partial remission		62	62	63		C83.3	Ann Arbor Stage	III,N,S,E		474	474	no		yes
+DO27855	MALY-DE	PCAWG	4176133	female	alive	complete remission		61	61	61		C83.3	Ann Arbor Stage	IV,N,S		326	326	no		unknown
+DO27857	MALY-DE	PCAWG	4184094	female	alive	partial remission		57	57	57		C83.3	Ann Arbor Stage	IV,N,S,E		161	161	no		unknown
+DO49287	ALL-US		TARGET-10-PAPJIB	female	deceased	relapse	progression (liquid tumours)	2	2	5	851	C91.0				1344	1344			
+DO49292	ALL-US		TARGET-10-PAPLDL	female	deceased	relapse	progression (liquid tumours)	7	7	10	544	C91.0				1187	1187			
+DO49309	ALL-US		TARGET-10-PAPSPG	male	deceased	relapse	progression (liquid tumours)	13	13	17	965	C91.0				1533	1533			
+DO49320	ALL-US		TARGET-10-PAPZNK	female	deceased	relapse	progression (liquid tumours)	10	10	12	625	C91.0				883	883			
+DO49323	ALL-US		TARGET-10-PARAKF	female	alive	relapse	progression (liquid tumours)	8	8	13	1088	C91.0				1942	1825			
+DO49326	ALL-US		TARGET-10-PARBRK	female	deceased			7	7	7	99	C91.0				99	99			
+DO49334	ALL-US		TARGET-10-PARFTR	male	deceased	relapse	progression (liquid tumours)	6	6	7	284	C91.0				465	465			
+DO49341	ALL-US		TARGET-10-PARIAD	male	deceased	relapse	progression (liquid tumours)	2	2	3	339	C91.0				510	510			
+DO49343	ALL-US		TARGET-10-PARJZZ	male	deceased	relapse	progression (liquid tumours)	4	4	7	795	C91.0				993	993			
+DO49355	ALL-US		TARGET-10-PARPNM	female	deceased	relapse	progression (liquid tumours)	14	14	15	116	C91.0				233	233			
+DO49357	ALL-US		TARGET-10-PARPRW	female	deceased	relapse	progression (liquid tumours)	15	15	17	377	C91.0				442	442			
+DO49380	ALL-US		TARGET-10-PASFXA	female	deceased	relapse	progression (liquid tumours)	7	7	9	455	C91.0				645	645			
+DO49384	ALL-US		TARGET-10-PASLZM	female	deceased	relapse	progression (liquid tumours)	7	7	8	258	C91.0				407	407			
+DO6350	CLLE-ES	PCAWG	1	male	deceased	complete remission	progression (liquid tumours)	44	55	60	2055	C91.1	BINET	A		5573	5573	no		yes
+DO6352	CLLE-ES	PCAWG	3	male	alive	complete remission	progression (liquid tumours)	45	54	58	0	C91.1	BINET	C		4601	4601	unknown		unknown
+DO6353	CLLE-ES	PCAWG	4	female	alive	progression	progression (liquid tumours)	41	49	53	1407	C91.1	BINET	A		4081	4081	no		yes
+DO6354	CLLE-ES	PCAWG	5	male	alive	progression	progression (liquid tumours)	46	53	57	1387	C91.1	BINET	A		4198	4198	no		yes
+DO6356	CLLE-ES		7	male	alive	stable	progression (liquid tumours)	37	51	54		C91.1	BINET	A		6332	6332			
+DO6358	CLLE-ES		8	male	alive	complete remission	progression (liquid tumours)	59	62	65		C91.1	BINET	B		2387	2387			
+DO6360	CLLE-ES	PCAWG	9	male	deceased	progression	progression (liquid tumours)	49	59	62	1176	C91.1	BINET	A		4684	4684	yes		yes
+DO6364	CLLE-ES	PCAWG	12	female	alive	complete remission	progression (liquid tumours)	59	69	74	2223	C91.1	BINET	A		5276	5276	no		yes
+DO6370	CLLE-ES	PCAWG	16	male	alive	partial remission	progression (liquid tumours)	59	72	77	2396	C91.1	BINET	A		6710	6710	no		yes
+DO6372	CLLE-ES		17	male	alive	complete remission	progression (liquid tumours)	58	70	72		C91.1	BINET	A		5071	5071			
+DO6374	CLLE-ES		18	male	deceased	progression	progression (liquid tumours)	72	74	74		C91.1	BINET	A		880	880			
+DO6376	CLLE-ES		19	male	alive	partial remission	progression (liquid tumours)	70	75	78		C91.1	BINET	A		2891	2891			
+DO6378	CLLE-ES	PCAWG	20	male	alive	complete remission	progression (liquid tumours)	59	63	67	110	C91.1	BINET	A		3183	3183	no		yes
+DO6380	CLLE-ES		22	female	alive	complete remission	progression (liquid tumours)	65	69	71		C91.1	BINET	A		2189	2189			
+DO6382	CLLE-ES	PCAWG	23	male	alive	partial remission	progression (liquid tumours)	57	63	67	140	C91.1	BINET	A		3607	3607	no		yes
+DO6390	CLLE-ES	PCAWG	27	male	deceased	progression	progression (liquid tumours)	58	66	71	796	C91.1	BINET	A		4731	4731	no		yes
+DO6392	CLLE-ES		29	female	alive	progression	progression (liquid tumours)	71	72	75		C91.1	BINET	A		1463	1463			
+DO6394	CLLE-ES	PCAWG	30	male	deceased	progression	progression (liquid tumours)	64	70	71	545	C91.1	BINET	A		2611	2611	no		yes
+DO6396	CLLE-ES	PCAWG	32	male	deceased	stable		76	79	82		C91.1	BINET	A		2363	2363	unknown		unknown
+DO6398	CLLE-ES	PCAWG	33	male	deceased	progression	progression (liquid tumours)	69	79	80	3623	C91.1	BINET	A		3987	3987	unknown		unknown
+DO6402	CLLE-ES	PCAWG	39	male	alive	complete remission	progression (liquid tumours)	58	62	66	1220	C91.1	BINET	A		2864	2864	no		yes
+DO6404	CLLE-ES		40	female	alive	complete remission	progression (liquid tumours)	52	59	62		C91.1	BINET	A		3386	3386			
+DO6406	CLLE-ES		41	male	deceased	stable	progression (liquid tumours)	51	56	56		C91.1	BINET	A		1754	1754			
+DO6408	CLLE-ES		43	male	deceased	stable	progression (liquid tumours)	74	77	78		C91.1	BINET	A		1446	1446			
+DO6410	CLLE-ES	PCAWG	44	male	deceased	progression	progression (liquid tumours)	53	59	60	385	C91.1	BINET	A		2653	2653	no		yes
+DO6412	CLLE-ES		45	female	alive	stable		46	47	50		C91.1	BINET	A		1428	1428			
+DO6418	CLLE-ES	PCAWG	48	male	deceased	progression	progression (liquid tumours)	62	66	67	504	C91.1	BINET	A		2057	2057	no		yes
+DO6420	CLLE-ES		49	female	alive	complete remission	progression (liquid tumours)	59	66	69		C91.1	BINET	A		3584	3584			
+DO6422	CLLE-ES		51	male	alive	stable		60	72	74		C91.1	BINET	A		5472	5472			
+DO6424	CLLE-ES		52	male	alive	progression		73	79	82		C91.1	BINET	A		3136	3136			
+DO6426	CLLE-ES		53	male	alive	progression	progression (liquid tumours)	56	65	67		C91.1	BINET	A		4240	4240			
+DO6430	CLLE-ES	PCAWG	63	male	deceased	progression	progression (liquid tumours)	52	58	62	202	C91.1	BINET	A		3650	3650	no		yes
+DO6432	CLLE-ES	PCAWG	64	male	alive	complete remission	progression (liquid tumours)	65	70	74	2006	C91.1	BINET	A		3401	3401	no		yes
+DO6434	CLLE-ES	PCAWG	82	female	deceased	partial remission	progression (liquid tumours)	45	52	54	303	C91.1	BINET	A		3407	3407	no		yes
+DO6436	CLLE-ES	PCAWG	83	female	deceased	partial remission	progression (liquid tumours)	55	59	60	297	C91.1	BINET	A		1927	1927	no		yes
+DO6438	CLLE-ES	PCAWG	90	female	alive	stable	progression (liquid tumours)	57	64	68	539	C91.1	BINET	A		3997	3997	no		yes
+DO6440	CLLE-ES		100	male	alive	complete remission	progression (liquid tumours)	50	57	59		C91.1	BINET	A		3517	3517			
+DO6444	CLLE-ES		110	female	alive	stable		66	73	76		C91.1	BINET	A		3682	3682			
+DO6446	CLLE-ES		117	female	alive	stable		67	86	88		C91.1	BINET	A		7631	7631			
+DO6448	CLLE-ES		124	male	alive	stable		62	70	72		C91.1	BINET	A		3489	3489			
+DO6454	CLLE-ES		136	male	alive	stable		46	65	67		C91.1	BINET	A		7625	7625			
+DO6458	CLLE-ES		144	male	alive	stable		52	73	75		C91.1	BINET	A		8657	8657			
+DO6460	CLLE-ES		146	male	alive	stable		41	49	51		C91.1	BINET	A		3500	3500			
+DO6464	CLLE-ES		152	male	alive	stable		34	39	41		C91.1	BINET	A		2478	2478			
+DO6466	CLLE-ES		155	female	alive	partial remission	progression (liquid tumours)	73	82	82		C91.1	BINET	A		3518	3518			
+DO6468	CLLE-ES		156	male	alive	stable	progression (liquid tumours)	44	44	46		C91.1	BINET	A		420	420			
+DO6470	CLLE-ES	PCAWG	157	male	alive	partial remission	progression (liquid tumours)	69	69	74	0	C91.1	BINET	B		1630	1630	unknown		unknown
+DO6472	CLLE-ES		159	male	alive	progression	progression (liquid tumours)	66	78	80		C91.1	BINET	A		5271	5271			
+DO6474	CLLE-ES	PCAWG	166	male	alive	stable	progression (liquid tumours)	66	68	72	1596	C91.1	BINET	A		2247	2247	no		yes
+DO6476	CLLE-ES		168	male	alive	stable		53	66	68		C91.1	BINET	A		5595	5595			
+DO6478	CLLE-ES		170	male	alive	stable		60	74	76		C91.1	BINET	A		5761	5761			
+DO6480	CLLE-ES		171	female	alive	stable		60	78	81		C91.1	BINET	A		7676	7676			
+DO6482	CLLE-ES		172	female	alive	stable		62	79	81		C91.1	BINET	A		6820	6820			
+DO6484	CLLE-ES		173	male	alive	stable	progression (liquid tumours)	48	59	60		C91.1	BINET	A		4256	4256			
+DO6486	CLLE-ES		174	female	alive	stable		71	78	80		C91.1	BINET	A		3619	3619			
+DO6488	CLLE-ES		175	male	alive	stable		69	78	80		C91.1	BINET	A		3843	3843			
+DO6492	CLLE-ES	PCAWG	181	male	alive	complete remission	progression (liquid tumours)	49	54	58	1900	C91.1	BINET	A		3225	3225	no		yes
+DO6494	CLLE-ES		182	male	deceased	progression	progression (liquid tumours)	73	75	77		C91.1	BINET	A		1317	1317			
+DO6496	CLLE-ES		184	male	alive	progression		44	44	46		C91.1	BINET	A		747	747			
+DO6498	CLLE-ES		185	male	alive	stable		67	72	74		C91.1	BINET	A		2688	2688			
+DO6501	CLLE-ES		186	male	alive	stable		65	87	89		C91.1	BINET	A		8760	8760			
+DO6504	CLLE-ES	PCAWG	188	male	deceased	progression	progression (liquid tumours)	68	74	75	2291	C91.1	BINET	A		2543	2543	no		unknown
+DO6507	CLLE-ES		189	female	alive	stable		71	75	77		C91.1	BINET	A		2347	2347			
+DO6510	CLLE-ES		191	male	alive	stable		58	70	71		C91.1	BINET	A		4720	4720			
+DO6513	CLLE-ES	PCAWG	192	female	alive	complete remission	progression (liquid tumours)	73	73	77	58	C91.1	BINET	A		1436	1436	unknown		unknown
+DO6516	CLLE-ES		193	female	alive	stable		45	50	52		C91.1	BINET	A		2332	2332			
+DO6519	CLLE-ES		194	female	alive	stable		69	89	91		C91.1	BINET	A		8097	8097			
+DO6522	CLLE-ES		195	male	alive	complete remission	progression (liquid tumours)	70	75	78		C91.1	BINET	A		2753	2753			
+DO6525	CLLE-ES		197	female	alive	stable		67	71	74		C91.1	BINET	A		2392	2392			
+DO6528	CLLE-ES		264	male	alive	stable		71	73	75		C91.1	BINET	A		1499	1499			
+DO6531	CLLE-ES		267	female	alive	stable		71	81	83		C91.1	BINET	A		4167	4167			
+DO6534	CLLE-ES		270	male	alive	stable		67	74	75		C91.1	BINET	A		3228	3228			
+DO6537	CLLE-ES		273	male	alive	stable		56	64	65		C91.1	BINET	A		3285	3285			
+DO6540	CLLE-ES		274	male	alive	progression	progression (liquid tumours)	64	72	74		C91.1	BINET	A		3757	3757			
+DO6543	CLLE-ES		275	female	alive	stable		76	78	80		C91.1	BINET	A		1477	1477			
+DO6546	CLLE-ES		276	male	alive	stable		61	65	67		C91.1	BINET	A		2158	2158			
+DO6552	CLLE-ES	PCAWG	278	male	deceased	progression	progression (liquid tumours)	61	67	68	2374	C91.1	BINET	A		2414	2414	no		unknown
+DO6555	CLLE-ES		280	female	alive	stable		68	80	82		C91.1	BINET	A		4958	4958			
+DO6558	CLLE-ES	PCAWG	282	female	deceased	stable		86	87	89		C91.1	BINET	A		1037	1037	unknown		unknown
+DO6561	CLLE-ES	PCAWG	290	female	deceased	progression	progression (liquid tumours)	63	65	65	140	C91.1	BINET	A		686	686	unknown		unknown
+DO6615	CLLE-ES		319	male	alive	stable		75	81	82		C91.1	BINET	A		2737	2737			
+DO6620	CLLE-ES		322	male	alive	progression		51	62	63		C91.1	BINET	A		4352	4352			
+DO6625	CLLE-ES		323	female	alive	stable		69	69	69		C91.1	BINET	A		231	231			
+DO6630	CLLE-ES		324	female	alive	stable		74	79	79		C91.1	BINET	A		1834	1834			
+DO6635	CLLE-ES		325	female	alive	stable		72	72	73		C91.1	BINET	A		243	243			
+DO6640	CLLE-ES		326	female	alive	partial remission	progression (liquid tumours)	69	77	77		C91.1	BINET	A		2880	2880			
+DO6706	CLLE-ES		375	male	alive	progression		80	89	91		C91.1	BINET	A		3954	3954			
+DO6730	CLLE-ES	PCAWG	618	male	alive	stable		67	69	74		C91.1	BINET	A		2342	2342	no		unknown
+DO6736	CLLE-ES		680	male	alive	complete remission	progression (liquid tumours)	54	64	66		C91.1	BINET	A		4206	4206			
+DO6748	CLLE-ES	PCAWG	761	male	alive	complete remission	progression (liquid tumours)	66	71	75	1706	C91.1	BINET	A		3152	3152	no		yes
+DO6754	CLLE-ES	PCAWG	785	male		stable		40	40	40		C91.1	BINET	A		244	244	unknown		unknown
+DO6898	CLLE-ES	PCAWG	6	female	deceased	partial remission	progression (liquid tumours)	76	77	79	0	C91.1	BINET	B		1038	1038	unknown		unknown
+DO6904	CLLE-ES		13	female	alive	complete remission		53	63	65		C91.1	BINET	A		4554	4554			
+DO6910	CLLE-ES		38	male	deceased	progression		36	38	41		C91.1	BINET	A		1659	1659			
+DO6916	CLLE-ES		42	male	alive	complete remission	progression (liquid tumours)	41	47	50		C91.1	BINET	C		3264	3264			
+DO6922	CLLE-ES		54	female	alive	progression		93	94	96		C91.1	BINET	A		1071	1071			
+DO6928	CLLE-ES		91	female	alive	stable		59	62	65		C91.1	BINET	A		1911	1911			
+DO6934	CLLE-ES	PCAWG	141	male	deceased	progression	progression (liquid tumours)	68	75	75	0	C91.1	BINET	B		2698	2698	unknown		unknown
+DO6940	CLLE-ES	PCAWG	145	male	deceased	progression	progression (liquid tumours)	75	79	79	1393	C91.1	BINET	A		1438	1438	unknown		unknown
+DO6946	CLLE-ES	PCAWG	148	male	alive	complete remission	progression (liquid tumours)	50	50	54	178	C91.1	BINET	A		1604	1604	no		yes
+DO6952	CLLE-ES		165	female	alive	stable		56	59	60		C91.1	BINET	A		1510	1510			
