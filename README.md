@@ -56,10 +56,12 @@ Based on the official images:
 
 
 ```
-# start elasticsearch and kibana
+# start elasticsearch, logstash, kibana, and cromwell
 $ docker-compose up
-Starting dmses_elasticsearch_1
-Starting dmses_kibana_1
+Starting dmses_elasticsearch
+Starting dmses_kibana
+Starting dmses_logstash
+Starting dmses_cromwell
 ...
 
 # verified it started
@@ -67,9 +69,10 @@ Starting dmses_kibana_1
 $ docker-compose ps
         Name                       Command               State                Ports
 -------------------------------------------------------------------------------------------------
-dmses_elasticsearch_1   /docker-entrypoint.sh elas ...   Up      0.0.0.0:9200->9200/tcp, 9300/tcp
-dmses_kibana_1          /docker-entrypoint.sh kibana     Up      0.0.0.0:5601->5601/tcp
-
+dmses_elasticsearch   /docker-entrypoint.sh elas ...   Up      0.0.0.0:9200->9200/tcp, 9300/tcp
+dmses_kibana          /docker-entrypoint.sh kibana     Up      0.0.0.0:5601->5601/tcp
+dmses_logstash        /docker-entrypoint.sh logstash   Up      0.0.0.0:5000->5000/tcp
+dmses_cromwell        /java $JAVA_OPTS ...  cromwell   Up      0.0.0.0:8000->8000/tcp
 ```
 
 ### cluster state
@@ -113,6 +116,15 @@ http://$(docker-machine ip default):5601/status
 ![image](https://cloud.githubusercontent.com/assets/47808/11165839/afe4bf82-8ad0-11e5-9f6a-102e367c7fb2.png)
 
 ### load data
+
+Edit the docker-compose configuration for logstash to change which data is loaded when you run `docker-compose up`. 
+
+```
+  volumes:
+    - ./services/logstash/config/icgc:/data
+```
+
+Or alternatively run:
 
 ```
 $ cd logstash/icgc
