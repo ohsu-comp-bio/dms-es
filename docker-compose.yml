@@ -35,6 +35,6 @@ kibana:
 ## cromwell
 cromwell:
   container_name: cromwell
-  build: cromwell/
+  build: services/cromwell/
   ports:
     - "8000:8000"
