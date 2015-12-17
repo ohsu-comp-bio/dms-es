@@ -11,8 +11,8 @@
 # docker run  --add-host elasticsearch:$(docker-machine ip default)   -v $(pwd):/data -it  logstash  logstash  -f ./data/icgc-*.conf  -v --verbose
 
 elasticsearch:
-  container_name: eleasticsearch
-  image: elasticsearch:latest
+  container_name: elasticsearch
+  build: services/elasticsearch
   command: >
     elasticsearch
       --network.host=0.0.0.0
@@ -26,9 +26,24 @@ elasticsearch:
 # see https://github.com/docker-library/kibana/blob/master/4.2/docker-entrypoint.sh
 kibana:
   container_name: kibana
-  image: kibana:latest
+  build: services/kibana
+  volumes:
+    - ./services/kibana/config/kibana.yml:/opt/kibana/config/kibana.yml
   ports:
     - "5601:5601"
+  links:
+    - elasticsearch
+
+# note: modify volumes to change which data is loaded by logstash
+logstash:
+  container_name: logstash
+  build: services/logstash
+  command: >
+    logstash -f /data/*.conf
+  volumes:
+    - ./services/logstash/config/icgc:/data
+  ports:
+    - "5000:5000"
   links:
     - elasticsearch
 
@@ -38,3 +53,5 @@ cromwell:
   build: services/cromwell/
   ports:
     - "8000:8000"
+  links:
+     - kibana     
