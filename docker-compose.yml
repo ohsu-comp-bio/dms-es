@@ -47,11 +47,11 @@ logstash:
   links:
     - elasticsearch
 
-## cromwell
 cromwell:
   container_name: cromwell
   build: services/cromwell/
   ports:
     - "8000:8000"
   links:
-     - kibana     
+    - elasticsearch
+    - kibana     
