@@ -1,3 +1,0 @@
-#!/bin/bash
-
-exec java $JAVA_OPTS -jar /cromwell/cromwell-0.14.jar server
