@@ -41,17 +41,17 @@ logstash:
   command: >
     logstash -f /data/*.conf
   volumes:
-    - ./services/logstash/config/icgc:/data
+    - ./services/logstash/config/tcga_prostate_rnaseqv2:/data
   ports:
     - "5000:5000"
   links:
     - elasticsearch
 
-## cromwell
 cromwell:
   container_name: cromwell
   build: services/cromwell/
   ports:
     - "8000:8000"
   links:
-     - kibana     
+    - elasticsearch
+    - kibana     
