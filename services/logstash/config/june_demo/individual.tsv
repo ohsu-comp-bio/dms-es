@@ -1,4 +1,4 @@
-site	patientId	project_code	ethnicity	gender	race	vitalStatus	specific_diagnosis	tumour_staging_system_at_diagnosis	tumour_stage_at_diagnosis	tumour_stage_system	tumour_stage	tumour_grading_system	tumour_grade
+site	patientId	projectCode	ethnicity	gender	race	vitalStatus	specificDiagnosis	tumour_staging_system_at_diagnosis	tumour_stage_at_diagnosis	tumour_stage_system	tumour_stage	tumour_grading_system	tumour_grade
 Austin	11-00466	BEAT-AML	NON-HISPANIC	Female	White	Deceased	Acute myeloid leukaemia, NOS						
 Austin	11-00473	BEAT-AML	NON-HISPANIC	Male	White	Deceased	AML without maturation						
 Austin	11-00476	BEAT-AML	NON-HISPANIC	Male	American Indian	Deceased	Acute myeloid leukaemia, NOS						
