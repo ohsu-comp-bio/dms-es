@@ -20,15 +20,17 @@ Example:
 
 # Backup index data to a file (ie : stored in $pwd/data) :
 docker run --rm -ti -v $(pwd)/data:/data elasticdump \
---input=http://192.168.99.100:9200  \
---input-index=/ \
---output=/data/snapshot.json
+  --all=true --input=http://$(docker-machine ip default):9200 \
+   --input-index=/ \
+   --output=/data/snapshot.js
 
+# restore
 docker run --rm -ti -v $(pwd)/data:/data elasticdump \
---input=/data/snapshot.json \
---output=http://your-host-here:9200/
+--bulk=true --input=/data/snapshot.json \
+--output=http://$(docker-machine ip default):9200/
 
 ```
+
 
 
 

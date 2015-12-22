@@ -13,11 +13,14 @@
 elasticsearch:
   container_name: elasticsearch
   build: services/elasticsearch
+  # environment:
+  #   - VIRTUAL_HOST=elasticsearch.ccc.org
+  #   - VIRTUAL_PORT=9200
   command: >
     elasticsearch
       --network.host=0.0.0.0
       --cluster.name=ccc-es
-      --node.name=central  
+      --node.name=central
   ports:
     - "9200:9200"
 
@@ -27,6 +30,9 @@ elasticsearch:
 kibana:
   container_name: kibana
   build: services/kibana
+  # environment:
+  #   - VIRTUAL_HOST=kibana.ccc.org
+  #   - VIRTUAL_PORT=5601
   volumes:
     - ./services/kibana/config/kibana.yml:/opt/kibana/config/kibana.yml
   ports:
@@ -34,24 +40,31 @@ kibana:
   links:
     - elasticsearch
 
-# note: modify volumes to change which data is loaded by logstash
-logstash:
-  container_name: logstash
-  build: services/logstash
-  command: >
-    logstash -f /data/*.conf
-  volumes:
-    - ./services/logstash/config/tcga_prostate_rnaseqv2:/data
-  ports:
-    - "5000:5000"
-  links:
-    - elasticsearch
-
 cromwell:
   container_name: cromwell
   build: services/cromwell/
+  # environment:
+  #   - VIRTUAL_HOST=cromwell.ccc.org
+  #   - VIRTUAL_PORT=8000
+  environment:
+    - LOG_LEVEL=debug
   ports:
     - "8000:8000"
+
+
+# proxy everything to avoid cross site scripting
+# note: setup your client /etc/hosts or dns to recognize "kibana.ccc.org"
+# pointing at this docker container
+nginx:
+  container_name: nginx
+  build: services/nginx/
+  # environment:
+  #   - DEFAULT_HOST=kibana.ccc.org
+  volumes:
+    - /var/run/docker.sock:/tmp/docker.sock
+  ports:
+    - "80:80"
   links:
     - elasticsearch
-    - kibana     
+    - kibana
+    - cromwell
