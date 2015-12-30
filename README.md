@@ -92,6 +92,17 @@ $ curl $(docker-machine ip default):9200/_cluster/state/nodes?pretty
 }
 ```
 
+### import latest snapshot
+
+```
+# restore
+docker run --rm -ti -v $(pwd)/data:/data elasticdump \
+--bulk=true --input=/data/snapshot.json \
+--output=http://$(docker-machine ip default):9200/
+
+```
+
+
 ### show index list
 ```
 $curl $(docker-machine ip default):9200/_cat/indices?v
@@ -103,10 +114,6 @@ yellow open   individual-icgc   5   1        309            0    516.4kb        
 ...
 ```
 
-### delete an index
-```
-curl -XDELETE dev:9200/sample-baml
-```
 
 
 ### ui
@@ -115,9 +122,29 @@ http://$(docker-machine ip default):5601/status
 
 ![image](https://cloud.githubusercontent.com/assets/47808/11165839/afe4bf82-8ad0-11e5-9f6a-102e367c7fb2.png)
 
-### load data
 
-Edit the docker-compose configuration for logstash to change which data is loaded when you run `docker-compose up`. 
+### visualization
+[Demo](http://bit.ly/1XpWN7T)
+
+![image](https://cloud.githubusercontent.com/assets/47808/11023573/9acaf5ce-8631-11e5-8297-42ddd015f5bb.png)
+
+
+### Misc Development Tasks
+
+#### delete an index
+```
+curl -XDELETE dev:9200/sample-baml
+```
+
+#### export tsv
+Install https://github.com/miku/estab
+```
+estab -header -host $(docker-machine ip default) -indices "resource-baml" -f "individualId sampleId ccc_did url"  
+```
+
+#### load data
+
+Edit the docker-compose configuration for logstash to change which data is loaded when you run `docker-compose up`.
 
 ```
   volumes:
@@ -128,14 +155,9 @@ Or alternatively run:
 
 ```
 $ cd logstash/icgc
-$ docker run  --add-host elasticsearch:$(docker-machine ip default)   -v $(pwd):/data -it  logstash  logstash  -f ./data/icgc-*.conf  -v --verbose
+$ docker run  --add-host elasticsearch:$(docker-machine ip default)   -v $(pwd):/data -it  logstash  logstash  -f ./data/*.conf  -v --verbose
 
 ```
-
-### visualization
-[Demo](http://bit.ly/1XpWN7T) 
-
-![image](https://cloud.githubusercontent.com/assets/47808/11023573/9acaf5ce-8631-11e5-8297-42ddd015f5bb.png)
 
 ### notes
 
