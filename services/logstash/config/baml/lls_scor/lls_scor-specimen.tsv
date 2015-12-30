@@ -1,4 +1,4 @@
-individual_id	specimen_id	sample_id	original_specimen_location	processing	specimen_type	sufficient	cell_concentration	cell_viability	dilution_for_cell_count	resuspension_volume	total_cells_viable	volume
+individualId	specimenId	sampleId	original_specimen_location	processing	specimen_type	sufficient	cell_concentration	cell_viability	dilution_for_cell_count	resuspension_volume	total_cells_viable	volume
 444	1	07-00281	Stanford University	Ficoll/ACK	Peripheral Blood
 220	2	11-00069	OHSU	Ficoll/ACK	Bone Marrow Aspirate
 220	3	11-00079	OHSU	Ficoll/ACK	Peripheral Blood
@@ -6,7 +6,7 @@ individual_id	specimen_id	sample_id	original_specimen_location	processing	specim
 78	5	07-00240	OHSU	Ficoll/ACK	Leukapheresis
 99	6	08-00024	OHSU	Ficoll/ACK	Peripheral Blood
 85	7	08-00027	OHSU	Ficoll/ACK	Leukapheresis
-88	8	08-00053	Doernbecher	Ficoll/ACK	Bone Marrow Aspirate							
+88	8	08-00053	Doernbecher	Ficoll/ACK	Bone Marrow Aspirate
 90	9	08-00076	OHSU	Ficoll/ACK	Leukapheresis
 91	10	08-00102	OHSU	Ficoll/ACK	Leukapheresis
 112	11	08-00233	OHSU	Ficoll/ACK	Peripheral Blood

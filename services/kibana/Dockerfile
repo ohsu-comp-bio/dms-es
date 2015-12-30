@@ -16,7 +16,7 @@ RUN arch="$(dpkg --print-architecture)" \
 	&& chmod +x /usr/local/bin/gosu
 
 ENV KIBANA_VERSION 4.2.2-snapshot
-ENV KIBANA_SHA1 28a51ffbdf5a2b3d377b6a996db2d206bc64cd17
+ENV KIBANA_SHA1 89261ca3d4e9f5ef738e101d7f8efe5e16f6f112
 
 COPY "kibana-${KIBANA_VERSION}-linux-x64.tar.gz"  kibana.tar.gz
 RUN set -x \

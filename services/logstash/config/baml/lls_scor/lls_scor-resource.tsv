@@ -1,4 +1,4 @@
-individual_id	specimen_id	sample_id	path
+individualId	specimenId	sampleId	path
 707	791	12-00127	/mnt/lustre1/BeatAML/seqcap/processed/BeatAML1/alignments/Sample_12-00127_AML.realign.bam
 707	791	12-00127	/mnt/lustre1/BeatAML/seqcap/processed/BeatAML1/qc_reports/cg1_qa_qc/images/12-00127_kl.png
 707	791	12-00127	/mnt/lustre1/BeatAML/seqcap/processed/BeatAML1/qc_reports/cg1_qa_qc/images/12-00127_base.png

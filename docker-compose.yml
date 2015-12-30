@@ -13,9 +13,6 @@
 elasticsearch:
   container_name: elasticsearch
   build: services/elasticsearch
-  # environment:
-  #   - VIRTUAL_HOST=elasticsearch.ccc.org
-  #   - VIRTUAL_PORT=9200
   command: >
     elasticsearch
       --network.host=0.0.0.0
@@ -24,15 +21,9 @@ elasticsearch:
   ports:
     - "9200:9200"
 
-# note: the kibana docker entrypoint.sh 'convention over configuration'
-# looks for a link to http://elasticsearch:9200 by default
-# see https://github.com/docker-library/kibana/blob/master/4.2/docker-entrypoint.sh
 kibana:
   container_name: kibana
   build: services/kibana
-  # environment:
-  #   - VIRTUAL_HOST=kibana.ccc.org
-  #   - VIRTUAL_PORT=5601
   volumes:
     - ./services/kibana/config/kibana.yml:/opt/kibana/config/kibana.yml
   ports:
@@ -40,12 +31,11 @@ kibana:
   links:
     - elasticsearch
 
+
+#
 cromwell:
   container_name: cromwell
   build: services/cromwell/
-  # environment:
-  #   - VIRTUAL_HOST=cromwell.ccc.org
-  #   - VIRTUAL_PORT=8000
   environment:
     - LOG_LEVEL=debug
   ports:
@@ -58,8 +48,6 @@ cromwell:
 nginx:
   container_name: nginx
   build: services/nginx/
-  # environment:
-  #   - DEFAULT_HOST=kibana.ccc.org
   volumes:
     - /var/run/docker.sock:/tmp/docker.sock
   ports:

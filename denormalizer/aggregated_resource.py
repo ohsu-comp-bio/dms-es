@@ -25,14 +25,32 @@ for individual in individuals['hits']['hits']:
     print("I:"+individual['_id'])
     samples = es.search(
         doc_type='sample',
-        body={"size": MAX_RECORDS, "query": {"query_string": {"query": "individual_id:\"" + individual['_id'] + "\""}}}
+        body={"size": MAX_RECORDS, "query": {"query_string": {"query": "individualId:\"" + individual['_id'] + "\""}}}
         )
     # for each sample, get its resources
     for sample in samples['hits']['hits']:
         print("  S:" + sample['_id'])
+        # does this sample have resources?
+        resources = es.search(
+            doc_type='resource',
+            body={"size": MAX_RECORDS, "query":  {"query_string": {"query": "sampleId:\"" + sample['_id'] + "\""}}}
+        )
+        for resource in resources['hits']['hits']:
+            aggregated_resource = individual['_source'].copy()
+            aggregated_resource.update(sample['_source'])
+            aggregated_resource.update(resource['_source'])
+            es.create(
+                index="aggregated-resource",
+                doc_type="aggregated-resource",
+                body=aggregated_resource,
+                id=resource['_id']
+            )
+            print("Created R:" + resource['_id'])
+            count += 1
+        # or does this sample have portions?
         portions = es.search(
             doc_type='portion',
-            body={"size": MAX_RECORDS, "query": {"query_string": {"query": "sample_id:\"" + sample['_id'] + "\""}}}
+            body={"size": MAX_RECORDS, "query": {"query_string": {"query": "sampleId:\"" + sample['_id'] + "\""}}}
             )
         # for each portion, get its resources
         for portion in portions['hits']['hits']:
