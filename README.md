@@ -133,7 +133,7 @@ http://$(docker-machine ip default):5601/status
 
 #### delete an index
 ```
-curl -XDELETE dev:9200/sample-baml
+curl -XDELETE $(docker-machine ip default):9200/resource-baml
 ```
 
 #### export tsv
