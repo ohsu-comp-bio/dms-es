@@ -124,7 +124,7 @@ http://$(docker-machine ip default):5601/status
 
 
 ### visualization
-[Demo](http://bit.ly/1XpWN7T)
+[Demo](http://goo.gl/j6eU2i)
 
 ![image](https://cloud.githubusercontent.com/assets/47808/11023573/9acaf5ce-8631-11e5-8297-42ddd015f5bb.png)
 
