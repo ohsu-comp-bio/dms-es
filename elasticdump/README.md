@@ -26,7 +26,7 @@ docker run --rm -ti -v $(pwd)/data:/data elasticdump \
 
 # restore
 docker run --rm -ti -v $(pwd)/data:/data elasticdump \
---bulk=true --input=/data/snapshot.json \
+--bulk=true --input=/data/snapshot.js \
 --output=http://$(docker-machine ip default):9200/
 
 ```
