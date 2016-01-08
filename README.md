@@ -96,8 +96,9 @@ $ curl $(docker-machine ip default):9200/_cluster/state/nodes?pretty
 
 ```
 # restore
+cd  elasticdump
 docker run --rm -ti -v $(pwd)/data:/data elasticdump \
---bulk=true --input=/data/snapshot.json \
+--bulk=true --input=/data/snapshot.js \
 --output=http://$(docker-machine ip default):9200/
 
 ```
@@ -129,11 +130,19 @@ http://$(docker-machine ip default):5601/status
 ![image](https://cloud.githubusercontent.com/assets/47808/11023573/9acaf5ce-8631-11e5-8297-42ddd015f5bb.png)
 
 
+### wdl integration
+
+![image](https://cloud.githubusercontent.com/assets/47808/12158255/3acdf5ec-b48d-11e5-8863-29b1cb38d681.png)
+
+![image](https://cloud.githubusercontent.com/assets/47808/12158446/d14acada-b48e-11e5-8479-8873101812fc.png)
+
+
+
 ### Misc Development Tasks
 
 #### delete an index
 ```
-curl -XDELETE $(docker-machine ip default):9200/resource-baml
+curl -XDELETE $(docker-machine ip default):9200/your-index-name-here
 ```
 
 #### export tsv

@@ -18,16 +18,20 @@ Example:
 
 ```bash
 
-# Backup index data to a file (ie : stored in $pwd/data) :
+# Backup all index data to a file (ie : stored in $pwd/data/snapshot.json) :
 docker run --rm -ti -v $(pwd)/data:/data elasticdump \
   --all=true --input=http://$(docker-machine ip default):9200 \
-   --input-index=/ \
-   --output=/data/snapshot.js
+  --input-index=/ \
+  --output=/data/snapshot.json
 
-# restore
+# restore all data
 docker run --rm -ti -v $(pwd)/data:/data elasticdump \
---bulk=true --input=/data/snapshot.js \
+--bulk=true --input=/data/snapshot.json \
 --output=http://$(docker-machine ip default):9200/
+
+# settings are not backed up, so reset them explicitly
+curl -XPUT  $(docker-machine ip default):9200/.kibana/_settings \
+  -d '{ "index" : { "max_result_window" : 2147483647 } }'
 
 ```
 
