@@ -1,15 +1,14 @@
-task hello {
-  String name
-
-  command {
-    echo 'hello ${name}!'        
-  }
-
+task echo {
+  Array[String] array
+  command <<<
+    echo ${sep=' ' array}
+  >>>
   output {
-    File response = stdout()        
+    String str = read_string(stdout())
   }
 }
 
 workflow test {
-  call hello 
+  call echo
 }
+
